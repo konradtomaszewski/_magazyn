@@ -1,0 +1,2 @@
+2017-04-30 6:43:52 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-04-30 6:50:01 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1004/2017], ID dokumentu: [4534], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [6]

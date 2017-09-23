@@ -1,0 +1,4 @@
+2017-06-22 12:00:22 - [INFO] --> Logowanie użytkownika: [tkopyra]
+2017-06-22 12:00:33 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Tadeusz Kopyra], Urządzenie: [Jarzeniówka oświetlenie zewnętrzne], Id urządzenia: [151], Ilość: [-2]
+2017-06-22 12:00:37 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-06-22 12:19:42 - [INFO] --> Logowanie użytkownika: [tnowinski]

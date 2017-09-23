@@ -1,0 +1,5 @@
+2017-06-08 12:00:45 - [INFO] --> Logowanie użytkownika: [jczajka]
+2017-06-08 12:01:50 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-06-08 12:04:29 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1254/2017], ID dokumentu: [5602], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [płyta za ACM], ID urządzenia: [34], Ilość: [1]
+2017-06-08 12:04:30 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1254/2017], ID dokumentu: [5602], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [płyta pod CM], ID urządzenia: [33], Ilość: [1]
+2017-06-08 12:04:30 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1254/2017], ID dokumentu: [5602], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [Jarzeniówka oświetlenie zewnętrzne], ID urządzenia: [151], Ilość: [2]

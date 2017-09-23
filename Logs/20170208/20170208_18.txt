@@ -1,0 +1,2 @@
+2017-02-08 18:29:04 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-02-08 18:29:42 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/388/2017], ID dokumentu: [2200], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [Nagrzewnica], ID urządzenia: [28], Ilość: [2]

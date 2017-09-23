@@ -1,0 +1,4 @@
+2016-12-18 21:20:27 - [INFO] --> Logowanie użytkownika: [vector_test]
+2016-12-18 21:28:04 - [INFO] --> Logowanie użytkownika: [mprzybylski]
+2016-12-18 21:29:31 - [INFO] --> Logowanie użytkownika: [lmazurowski]
+2016-12-18 21:29:43 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/414/2016], ID dokumentu: [737], Nazwa serisanta: [Mariusz Sieradzki], ID serwisanta: [13], Nazwa urządzenia: [Artema (mobilna)], ID urządzenia: [4], Ilość: [1]

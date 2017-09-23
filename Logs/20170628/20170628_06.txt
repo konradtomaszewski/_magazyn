@@ -1,0 +1,6 @@
+2017-06-28 6:38:49 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
+2017-06-28 6:41:46 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-06-28 6:41:48 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-06-28 6:46:33 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1440/2017], ID dokumentu: [6225], Nazwa serisanta: [Tomasz Jasiński serwisant], ID serwisanta: [39], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
+2017-06-28 6:46:33 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1440/2017], ID dokumentu: [6225], Nazwa serisanta: [Tomasz Jasiński serwisant], ID serwisanta: [39], Nazwa urządzenia: [EM papier paragonowy], ID urządzenia: [157], Ilość: [3]
+2017-06-28 6:46:33 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1440/2017], ID dokumentu: [6225], Nazwa serisanta: [Tomasz Jasiński serwisant], ID serwisanta: [39], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [2]

@@ -1,0 +1,3 @@
+2017-02-06 19:42:06 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
+2017-02-06 19:42:40 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Jasiński serwisant], Urządzenie: [BNA], Id urządzenia: [7], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [221]
+2017-02-06 19:42:40 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [26735], ID urządzenia: [7], Serwisant: [tjasinski_s]

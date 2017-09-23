@@ -1,0 +1,1 @@
+2017-08-20 18:01:04 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1844/2017], ID dokumentu: [7708], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [2]

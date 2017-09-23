@@ -1,0 +1,8 @@
+2017-04-18 4:34:59 - [INFO] --> Logowanie użytkownika: [pmikucki]
+2017-04-18 4:35:20 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Paweł Mikucki], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [3002], Nr automatu: [5283]
+2017-04-18 4:35:20 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [61611], ID urządzenia: [129], Serwisant: [pmikucki]
+2017-04-18 4:35:47 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Paweł Mikucki], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [7308], Nr automatu: [5414]
+2017-04-18 4:35:47 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [61612], ID urządzenia: [129], Serwisant: [pmikucki]
+2017-04-18 4:36:26 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Paweł Mikucki], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [4602], Nr automatu: [5051]
+2017-04-18 4:36:26 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [61613], ID urządzenia: [129], Serwisant: [pmikucki]
+2017-04-18 4:36:46 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Paweł Mikucki], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-21]

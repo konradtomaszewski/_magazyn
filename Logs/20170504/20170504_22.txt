@@ -1,0 +1,3 @@
+2017-05-04 22:05:11 - [INFO] --> Logowanie użytkownika: [znowak]
+2017-05-04 22:06:54 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1032/2017], ID dokumentu: [4643], Nazwa serisanta: [Zygmunt Nowak], ID serwisanta: [30], Nazwa urządzenia: [Wyświetlacz LCD 15 cali], ID urządzenia: [25], Ilość: [1]
+2017-05-04 22:40:25 - [INFO] --> Logowanie użytkownika: [znowak]

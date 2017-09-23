@@ -1,0 +1,11 @@
+2017-01-14 6:00:40 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-01-14 6:05:19 - [INFO] --> Logowanie użytkownika: [pkalinowski]
+2017-01-14 6:06:48 - [INFO] --> Logowanie użytkownika: [tjasinski]
+2017-01-14 6:10:12 - [INFO] --> Użytkownik: [tjasinski] zmienił hasło do konta
+2017-01-14 6:20:08 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-01-14 6:22:15 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-01-14 6:23:25 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/124/2017], ID dokumentu: [1343], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [BNA], ID urządzenia: [7], Ilość: [1]
+2017-01-14 6:23:53 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/125/2017], ID dokumentu: [1344], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Wyświetlacz LCD 15 cali], ID urządzenia: [25], Ilość: [1]
+2017-01-14 6:24:36 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/126/2017], ID dokumentu: [1345], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [6]
+2017-01-14 6:25:45 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/127/2017], ID dokumentu: [1346], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [walidator (NRI)], ID urządzenia: [42], Ilość: [1]
+2017-01-14 6:30:48 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/128/2017], ID dokumentu: [1347], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [płyta za ACM], ID urządzenia: [34], Ilość: [1]

@@ -1,0 +1,5 @@
+2017-08-31 6:11:18 - [INFO] --> Logowanie użytkownika: [mstaniszewski]
+2017-08-31 6:11:49 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Marcin Staniszewski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [231]
+2017-08-31 6:11:49 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [133834], ID urządzenia: [149], Serwisant: [mstaniszewski]
+2017-08-31 6:16:56 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1926/2017], ID dokumentu: [7995], Nazwa serisanta: [Marcin Staniszewski], ID serwisanta: [45], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [6]
+2017-08-31 6:46:43 - [INFO] --> Logowanie użytkownika: [jczajka]

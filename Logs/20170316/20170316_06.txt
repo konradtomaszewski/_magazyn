@@ -1,0 +1,8 @@
+2017-03-16 6:08:05 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
+2017-03-16 6:15:00 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/663/2017], ID dokumentu: [3291], Nazwa serisanta: [Tomasz Jasiński serwisant], ID serwisanta: [39], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [3]
+2017-03-16 6:40:45 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-03-16 6:42:53 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/664/2017], ID dokumentu: [3292], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]
+2017-03-16 6:43:04 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/665/2017], ID dokumentu: [3293], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
+2017-03-16 6:49:41 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-03-16 6:53:05 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-03-16 6:53:30 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/666/2017], ID dokumentu: [3294], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [3]

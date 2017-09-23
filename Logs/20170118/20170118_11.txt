@@ -1,0 +1,28 @@
+2017-01-18 11:00:59 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-01-18 11:11:02 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-01-18 11:14:24 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [7], ID damaged_devices: [1910]
+2017-01-18 11:14:24 - [INFO] --> UPDATE damaged_devices SET arrival_id='1457', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='1910' AND product_id='7' AND damaged_devices_status_id='1' and id > '147' 
+2017-01-18 11:14:25 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [10], ID damaged_devices: [1930]
+2017-01-18 11:14:25 - [INFO] --> UPDATE damaged_devices SET arrival_id='1457', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='1930' AND product_id='10' AND damaged_devices_status_id='1' and id > '147' 
+2017-01-18 11:14:25 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [139], ID damaged_devices: [2056]
+2017-01-18 11:14:25 - [INFO] --> UPDATE damaged_devices SET arrival_id='1457', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2056' AND product_id='139' AND damaged_devices_status_id='1' and id > '147' 
+2017-01-18 11:14:25 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [44], ID damaged_devices: [2176]
+2017-01-18 11:14:25 - [INFO] --> UPDATE damaged_devices SET arrival_id='1457', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2176' AND product_id='44' AND damaged_devices_status_id='1' and id > '147' 
+2017-01-18 11:14:25 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [31], ID damaged_devices: [2088]
+2017-01-18 11:14:25 - [INFO] --> UPDATE damaged_devices SET arrival_id='1457', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2088' AND product_id='31' AND damaged_devices_status_id='1' and id > '147' 
+2017-01-18 11:14:25 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [42], ID damaged_devices: [2035]
+2017-01-18 11:14:25 - [INFO] --> UPDATE damaged_devices SET arrival_id='1457', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2035' AND product_id='42' AND damaged_devices_status_id='1' and id > '147' 
+2017-01-18 11:45:51 - [INFO] --> Logowanie użytkownika: [pkalinowski]
+2017-01-18 11:46:07 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Piotr Kalinowski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [298]
+2017-01-18 11:46:07 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [17682], ID urządzenia: [149], Serwisant: [pkalinowski]
+2017-01-18 11:49:36 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-01-18 11:50:33 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/117/2017], ID dokumentu: [1458], Nazwa serisanta: [Łukasz Mazurowski], ID serwisanta: [9], Nazwa urządzenia: [akceptor ( wlot )], ID urządzenia: [1], Ilość: [1]
+2017-01-18 11:50:33 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/117/2017], ID dokumentu: [1458], Nazwa serisanta: [Łukasz Mazurowski], ID serwisanta: [9], Nazwa urządzenia: [CR (manualny)], ID urządzenia: [14], Ilość: [2]
+2017-01-18 11:50:33 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/117/2017], ID dokumentu: [1458], Nazwa serisanta: [Łukasz Mazurowski], ID serwisanta: [9], Nazwa urządzenia: [mifare], ID urządzenia: [26], Ilość: [1]
+2017-01-18 11:50:33 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/117/2017], ID dokumentu: [1458], Nazwa serisanta: [Łukasz Mazurowski], ID serwisanta: [9], Nazwa urządzenia: [modem], ID urządzenia: [27], Ilość: [1]
+2017-01-18 11:50:33 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/117/2017], ID dokumentu: [1458], Nazwa serisanta: [Łukasz Mazurowski], ID serwisanta: [9], Nazwa urządzenia: [pinpad], ID urządzenia: [31], Ilość: [1]
+2017-01-18 11:50:33 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/117/2017], ID dokumentu: [1458], Nazwa serisanta: [Łukasz Mazurowski], ID serwisanta: [9], Nazwa urządzenia: [ZCGVA], ID urządzenia: [44], Ilość: [1]
+2017-01-18 11:50:33 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/117/2017], ID dokumentu: [1458], Nazwa serisanta: [Łukasz Mazurowski], ID serwisanta: [9], Nazwa urządzenia: [sortownik], ID urządzenia: [39], Ilość: [1]
+2017-01-18 11:50:33 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/117/2017], ID dokumentu: [1458], Nazwa serisanta: [Łukasz Mazurowski], ID serwisanta: [9], Nazwa urządzenia: [walidator (NRI)], ID urządzenia: [42], Ilość: [1]
+2017-01-18 11:50:34 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/117/2017], ID dokumentu: [1458], Nazwa serisanta: [Łukasz Mazurowski], ID serwisanta: [9], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
+2017-01-18 11:50:34 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/117/2017], ID dokumentu: [1458], Nazwa serisanta: [Łukasz Mazurowski], ID serwisanta: [9], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [3]

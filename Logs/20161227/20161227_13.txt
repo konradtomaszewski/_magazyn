@@ -1,0 +1,7 @@
+2016-12-27 13:37:28 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-12-27 13:38:11 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [10372], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [610]
+2016-12-27 13:38:11 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [10085], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [610]
+2016-12-27 13:38:11 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [10087], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [610]
+2016-12-27 13:41:19 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [10235], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [559]
+2016-12-27 13:51:32 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/480/2016], ID dokumentu: [862], Nazwa serisanta: [Wojciech Perko], ID serwisanta: [11], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [2]
+2016-12-27 13:51:33 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/480/2016], ID dokumentu: [862], Nazwa serisanta: [Wojciech Perko], ID serwisanta: [11], Nazwa urządzenia: [akceptor ( wlot )], ID urządzenia: [1], Ilość: [1]

@@ -1,0 +1,8 @@
+2017-01-08 6:03:13 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-01-08 6:03:53 - [INFO] --> Logowanie użytkownika: [pkalinowski]
+2017-01-08 6:06:19 - [INFO] --> Logowanie użytkownika: [pkalinowski]
+2017-01-08 6:08:19 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-01-08 6:09:05 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Piotr Kalinowski], Urządzenie: [Drukarka Edmonson duża BTVM-1], Id urządzenia: [148], Ilość: [-1]
+2017-01-08 6:09:20 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-01-08 6:10:06 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-01-08 6:12:00 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/49/2017], ID dokumentu: [1129], Nazwa serisanta: [Piotr Kalinowski], ID serwisanta: [29], Nazwa urządzenia: [walidator (NRI)], ID urządzenia: [42], Ilość: [1]

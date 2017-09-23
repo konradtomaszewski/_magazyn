@@ -1,0 +1,4 @@
+2017-06-17 6:13:27 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
+2017-06-17 6:20:03 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1321/2017], ID dokumentu: [5861], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [EM papier paragonowy], ID urządzenia: [157], Ilość: [2]
+2017-06-17 6:20:03 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1321/2017], ID dokumentu: [5861], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
+2017-06-17 6:52:06 - [INFO] --> Logowanie użytkownika: [tkopyra]

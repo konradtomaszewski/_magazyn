@@ -1,0 +1,3 @@
+2017-01-25 8:52:33 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-01-25 8:52:55 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [262]
+2017-01-25 8:52:55 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [20883], ID urządzenia: [128], Serwisant: [rtworkowski]

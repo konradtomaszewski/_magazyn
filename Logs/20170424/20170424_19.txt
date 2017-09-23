@@ -1,0 +1,5 @@
+2017-04-24 19:11:29 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-04-24 19:22:31 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-04-24 19:23:30 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [Drukarka Edmonson duża BTVM-1], Id urządzenia: [148], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [209]
+2017-04-24 19:23:30 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [64833], ID urządzenia: [148], Serwisant: [rtworkowski]
+2017-04-24 19:24:04 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/968/2017], ID dokumentu: [4402], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [2]

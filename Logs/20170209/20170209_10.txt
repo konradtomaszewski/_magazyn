@@ -1,0 +1,1 @@
+2017-02-09 10:40:19 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

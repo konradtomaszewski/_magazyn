@@ -1,0 +1,1 @@
+2017-02-27 6:33:13 - [INFO] --> Logowanie użytkownika: [znowak]

@@ -1,0 +1,4 @@
+2016-12-09 7:47:00 - [ERROR] --> Nieudane logowanie użytkownika: [kjasinski]
+2016-12-09 7:47:08 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-12-09 7:47:40 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [7111], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [7005], Nr automatu: [5573]
+2016-12-09 7:47:40 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [7112], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [7003], Nr automatu: [5571]

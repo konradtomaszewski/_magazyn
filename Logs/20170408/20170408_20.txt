@@ -1,0 +1,12 @@
+2017-04-08 20:26:00 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1], Nr boczny pojazdu: [620], Nr automatu: [620]
+2017-04-08 20:26:00 - [ERROR] --> Poprawiono dane w service_request id: 57590
+2017-04-08 20:26:00 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [57590], ID urządzenia: [128], Serwisant: []
+2017-04-08 20:26:00 - [ERROR] --> Poprawiono dane w damaged_devices id: 6426
+2017-04-08 20:26:15 - [INFO] --> Logowanie użytkownika: [mzerebecki]
+2017-04-08 20:26:31 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mateusz Żerebecki], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-1], Nr boczny pojazdu: [620], Nr automatu: [620]
+2017-04-08 20:26:31 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [57591], ID urządzenia: [130], Serwisant: [mzerebecki]
+2017-04-08 20:26:56 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Mateusz Żerebecki], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1]
+2017-04-08 20:26:56 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Mateusz Żerebecki], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-2]
+2017-04-08 20:34:44 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
+2017-04-08 20:35:09 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Dariusz Nowakowski- Serwisant], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [297]
+2017-04-08 20:35:09 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [57594], ID urządzenia: [149], Serwisant: [dnowakowski_s]

@@ -1,0 +1,2 @@
+2016-12-17 4:13:13 - [INFO] --> Logowanie użytkownika: [cskwarzynski]
+2016-12-17 4:43:56 - [INFO] --> Logowanie użytkownika: [cskwarzynski]

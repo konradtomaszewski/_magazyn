@@ -1,0 +1,6 @@
+2017-01-31 12:02:48 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-01-31 12:03:17 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [22080], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [542]
+2017-01-31 12:03:17 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [21507], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [542]
+2017-01-31 12:03:28 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [19007], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [597]
+2017-01-31 12:03:46 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [22051], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [588]
+2017-01-31 12:35:41 - [INFO] --> Logowanie użytkownika: [manager]

@@ -1,0 +1,2 @@
+2017-04-19 12:34:33 - [INFO] --> Logowanie użytkownika: [tkopyra]
+2017-04-19 12:56:41 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

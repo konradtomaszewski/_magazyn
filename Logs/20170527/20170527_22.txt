@@ -1,0 +1,7 @@
+2017-05-27 22:00:00 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Jacek Czajka], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [19]
+2017-05-27 22:00:00 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [81372], ID urządzenia: [149], Serwisant: [jczajka]
+2017-05-27 22:00:29 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Jacek Czajka], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [496]
+2017-05-27 22:00:29 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [81373], ID urządzenia: [149], Serwisant: [jczajka]
+2017-05-27 22:00:46 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Jacek Czajka], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [229]
+2017-05-27 22:00:46 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [81374], ID urządzenia: [149], Serwisant: [jczajka]
+2017-05-27 22:48:56 - [INFO] --> Logowanie użytkownika: [znowak]

@@ -1,0 +1,2 @@
+2017-01-03 14:47:53 - [INFO] --> Logowanie użytkownika: [serwisant1]
+2017-01-03 14:58:09 - [INFO] --> Logowanie użytkownika: [kjasinski]

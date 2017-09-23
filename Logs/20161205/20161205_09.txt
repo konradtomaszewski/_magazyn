@@ -1,0 +1,1 @@
+2016-12-05 9:00:28 - [INFO] --> Logowanie użytkownika: [manager]

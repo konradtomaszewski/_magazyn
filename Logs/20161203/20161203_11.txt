@@ -1,0 +1,4 @@
+2016-12-03 11:12:07 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-12-03 11:40:52 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [5723], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [546]
+2016-12-03 11:54:41 - [INFO] --> Logowanie użytkownika: [abuller]
+2016-12-03 11:57:01 - [INFO] --> Logowanie użytkownika: [kjasinski]

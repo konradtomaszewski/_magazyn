@@ -1,0 +1,7 @@
+2017-07-05 6:25:58 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-07-05 6:33:30 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
+2017-07-05 6:36:11 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1516/2017], ID dokumentu: [6455], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [CM 5,0 zł], ID urządzenia: [13], Ilość: [1]
+2017-07-05 6:36:11 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1516/2017], ID dokumentu: [6455], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [2]
+2017-07-05 6:36:11 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1516/2017], ID dokumentu: [6455], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [2]
+2017-07-05 6:40:32 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-07-05 6:41:36 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1517/2017], ID dokumentu: [6456], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [3]

@@ -1,0 +1,8 @@
+2017-03-05 21:12:44 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-03-05 21:29:35 - [INFO] --> Logowanie użytkownika: [jczajka]
+2017-03-05 21:30:03 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/584/2017], ID dokumentu: [2955], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [Pleksi kieszeni na bilet], ID urządzenia: [144], Ilość: [1]
+2017-03-05 21:31:19 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-03-05 21:31:36 - [INFO] --> Logowanie użytkownika: [tkopyra]
+2017-03-05 21:35:43 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/585/2017], ID dokumentu: [2958], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [BNA], ID urządzenia: [7], Ilość: [1]
+2017-03-05 21:44:10 - [INFO] --> Logowanie użytkownika: [abuller]
+2017-03-05 21:46:50 - [INFO] --> Logowanie użytkownika: [jczajka]

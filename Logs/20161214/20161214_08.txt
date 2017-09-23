@@ -1,0 +1,2 @@
+2016-12-14 8:33:07 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [8028], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2204], Nr automatu: [5099]
+2016-12-14 8:33:07 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [8029], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2222], Nr automatu: [5214]

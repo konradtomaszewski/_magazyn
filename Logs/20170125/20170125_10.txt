@@ -1,0 +1,2 @@
+2017-01-25 10:36:52 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-01-25 10:37:09 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [18704], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [626]

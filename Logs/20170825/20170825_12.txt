@@ -1,0 +1,3 @@
+2017-08-25 12:08:01 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-08-25 12:59:18 - [INFO] --> Logowanie użytkownika: [mprzybylski]
+2017-08-25 12:59:56 - [ERROR] --> Nieudane logowanie użytkownika: [krzysztof]

@@ -1,0 +1,7 @@
+2017-01-04 7:27:08 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-01-04 7:28:32 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [12224], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [536]
+2017-01-04 7:41:00 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [12328], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [3102], Nr automatu: [5764]
+2017-01-04 7:43:02 - [INFO] --> Logowanie użytkownika: [pmikucki]
+2017-01-04 7:43:18 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Paweł Mikucki], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-22]
+2017-01-04 7:53:49 - [INFO] --> Logowanie użytkownika: [rstawieraj]
+2017-01-04 7:58:31 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

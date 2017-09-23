@@ -1,0 +1,2 @@
+2017-06-23 17:47:07 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-06-23 17:47:51 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [95153], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [425]

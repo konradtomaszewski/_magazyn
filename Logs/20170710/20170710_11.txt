@@ -1,0 +1,2 @@
+2017-07-10 11:04:16 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-07-10 11:06:21 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [105253], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2485], Nr automatu: [5036]

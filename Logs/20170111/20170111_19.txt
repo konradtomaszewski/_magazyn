@@ -1,0 +1,6 @@
+2017-01-11 19:34:00 - [INFO] --> Logowanie użytkownika: [pkalinowski]
+2017-01-11 19:34:33 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Piotr Kalinowski], Urządzenie: [BNA], Id urządzenia: [7], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [277]
+2017-01-11 19:34:33 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [15215], ID urządzenia: [7], Serwisant: [pkalinowski]
+2017-01-11 19:37:50 - [INFO] --> Logowanie użytkownika: [znowak]
+2017-01-11 19:38:24 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Zygmunt Nowak], Urządzenie: [drukarka (Thino)], Id urządzenia: [17], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [329]
+2017-01-11 19:38:25 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [15216], ID urządzenia: [17], Serwisant: [znowak]

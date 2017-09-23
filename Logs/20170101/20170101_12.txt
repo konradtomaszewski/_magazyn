@@ -1,0 +1,2 @@
+2017-01-01 12:02:01 - [INFO] --> Logowanie użytkownika: [gwiatrzyk]
+2017-01-01 12:07:38 - [INFO] --> Logowanie użytkownika: [mjanek]

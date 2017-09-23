@@ -1,0 +1,7 @@
+2017-01-21 18:26:33 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-01-21 18:27:27 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [178]
+2017-01-21 18:27:27 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [19144], ID urządzenia: [128], Serwisant: [rtworkowski]
+2017-01-21 18:27:58 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [178]
+2017-01-21 18:27:58 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [19145], ID urządzenia: [149], Serwisant: [rtworkowski]
+2017-01-21 18:51:38 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/190/2017], ID dokumentu: [1558], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
+2017-01-21 18:51:53 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/191/2017], ID dokumentu: [1559], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [2]

@@ -1,0 +1,4 @@
+2017-01-25 9:02:52 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-01-25 9:47:27 - [INFO] --> Logowanie użytkownika: [tkarabiniewicz]
+2017-01-25 9:47:46 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Karabiniewicz], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [520]
+2017-01-25 9:47:46 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [20884], ID urządzenia: [130], Serwisant: [tkarabiniewicz]

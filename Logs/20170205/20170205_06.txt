@@ -1,0 +1,6 @@
+2017-02-05 6:37:02 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-02-05 6:38:14 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/342/2017], ID dokumentu: [2059], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Zasilacz], ID urządzenia: [43], Ilość: [1]
+2017-02-05 6:38:27 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/343/2017], ID dokumentu: [2060], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
+2017-02-05 6:43:40 - [INFO] --> Logowanie użytkownika: [jczajka]
+2017-02-05 6:45:50 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/344/2017], ID dokumentu: [2061], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [2]
+2017-02-05 6:45:50 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/344/2017], ID dokumentu: [2061], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]

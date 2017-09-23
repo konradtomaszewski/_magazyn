@@ -1,0 +1,2 @@
+2017-04-13 9:08:32 - [INFO] --> Logowanie użytkownika: [rstawieraj]
+2017-04-13 9:24:29 - [INFO] --> Logowanie użytkownika: [kjasinski]

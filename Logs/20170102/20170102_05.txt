@@ -1,0 +1,1 @@
+2017-01-02 5:14:53 - [INFO] --> Logowanie użytkownika: [tkarabiniewicz]

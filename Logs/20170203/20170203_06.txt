@@ -1,0 +1,6 @@
+2017-02-03 6:04:45 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
+2017-02-03 6:05:18 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/325/2017], ID dokumentu: [2004], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
+2017-02-03 6:05:18 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/325/2017], ID dokumentu: [2004], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [drukarka (Thino)], ID urządzenia: [17], Ilość: [1]
+2017-02-03 6:54:03 - [INFO] --> Logowanie użytkownika: [znowak]
+2017-02-03 6:54:37 - [INFO] --> Logowanie użytkownika: [tkopyra]
+2017-02-03 6:58:02 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/326/2017], ID dokumentu: [2005], Nazwa serisanta: [Tadeusz Kopyra], ID serwisanta: [32], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]

@@ -1,0 +1,5 @@
+2016-12-27 7:39:58 - [INFO] --> Logowanie użytkownika: [mprzybylski]
+2016-12-27 7:41:04 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-12-27 7:43:53 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-12-27 7:44:37 - [INFO] --> Logowanie użytkownika: [msieradzki]
+2016-12-27 7:44:49 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Mariusz Sieradzki], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-24]

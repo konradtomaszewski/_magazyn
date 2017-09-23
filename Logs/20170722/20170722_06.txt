@@ -1,0 +1,2 @@
+2017-07-22 6:04:50 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-07-22 6:32:25 - [INFO] --> Logowanie użytkownika: [dgasiewski]

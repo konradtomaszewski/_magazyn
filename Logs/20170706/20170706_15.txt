@@ -1,0 +1,2 @@
+2017-07-06 15:11:02 - [INFO] --> Logowanie użytkownika: [znowak]
+2017-07-06 15:11:23 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1535/2017], ID dokumentu: [6525], Nazwa serisanta: [Zygmunt Nowak], ID serwisanta: [30], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]

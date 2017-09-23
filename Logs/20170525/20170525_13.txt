@@ -1,0 +1,74 @@
+2017-05-25 13:01:53 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [59], ID damaged_devices: [8388]
+2017-05-25 13:01:53 - [INFO] --> UPDATE damaged_devices SET arrival_id='5193', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='8388' AND product_id='59' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:01:53 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [7], ID damaged_devices: [8354]
+2017-05-25 13:01:53 - [INFO] --> UPDATE damaged_devices SET arrival_id='5193', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='8354' AND product_id='7' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:01:53 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [7], ID damaged_devices: [7609]
+2017-05-25 13:01:53 - [INFO] --> UPDATE damaged_devices SET arrival_id='5193', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='7609' AND product_id='7' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:01:53 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [11], ID damaged_devices: [8274]
+2017-05-25 13:01:53 - [INFO] --> UPDATE damaged_devices SET arrival_id='5193', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='8274' AND product_id='11' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:01:53 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [120], ID damaged_devices: [8749]
+2017-05-25 13:01:53 - [INFO] --> UPDATE damaged_devices SET arrival_id='5193', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='8749' AND product_id='120' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:01:54 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [67], ID damaged_devices: [8738]
+2017-05-25 13:01:54 - [INFO] --> UPDATE damaged_devices SET arrival_id='5193', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='8738' AND product_id='67' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:01:54 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [67], ID damaged_devices: [8739]
+2017-05-25 13:01:54 - [INFO] --> UPDATE damaged_devices SET arrival_id='5193', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='8739' AND product_id='67' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:01:54 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [67], ID damaged_devices: [8740]
+2017-05-25 13:01:54 - [INFO] --> UPDATE damaged_devices SET arrival_id='5193', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='8740' AND product_id='67' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:01:54 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [67], ID damaged_devices: [8741]
+2017-05-25 13:01:54 - [INFO] --> UPDATE damaged_devices SET arrival_id='5193', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='8741' AND product_id='67' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:01:54 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [67], ID damaged_devices: [8742]
+2017-05-25 13:01:54 - [INFO] --> UPDATE damaged_devices SET arrival_id='5193', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='8742' AND product_id='67' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:01:54 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [67], ID damaged_devices: [8743]
+2017-05-25 13:01:54 - [INFO] --> UPDATE damaged_devices SET arrival_id='5193', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='8743' AND product_id='67' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:01:54 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [67], ID damaged_devices: [8744]
+2017-05-25 13:01:54 - [INFO] --> UPDATE damaged_devices SET arrival_id='5193', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='8744' AND product_id='67' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:01:55 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [67], ID damaged_devices: [8745]
+2017-05-25 13:01:55 - [INFO] --> UPDATE damaged_devices SET arrival_id='5193', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='8745' AND product_id='67' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:01:55 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [67], ID damaged_devices: [8746]
+2017-05-25 13:01:55 - [INFO] --> UPDATE damaged_devices SET arrival_id='5193', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='8746' AND product_id='67' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:01:55 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [67], ID damaged_devices: [8747]
+2017-05-25 13:01:55 - [INFO] --> UPDATE damaged_devices SET arrival_id='5193', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='8747' AND product_id='67' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:01:55 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [67], ID damaged_devices: [8748]
+2017-05-25 13:01:55 - [INFO] --> UPDATE damaged_devices SET arrival_id='5193', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='8748' AND product_id='67' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:01:55 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [67], ID damaged_devices: [8768]
+2017-05-25 13:01:55 - [INFO] --> UPDATE damaged_devices SET arrival_id='5193', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='8768' AND product_id='67' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:01:55 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [67], ID damaged_devices: [8769]
+2017-05-25 13:01:55 - [INFO] --> UPDATE damaged_devices SET arrival_id='5193', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='8769' AND product_id='67' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:01:55 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [67], ID damaged_devices: [8770]
+2017-05-25 13:01:55 - [INFO] --> UPDATE damaged_devices SET arrival_id='5193', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='8770' AND product_id='67' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:01:56 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [105], ID damaged_devices: [8496]
+2017-05-25 13:01:56 - [INFO] --> UPDATE damaged_devices SET arrival_id='5193', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='8496' AND product_id='105' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:03:33 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [74], ID damaged_devices: [2671]
+2017-05-25 13:03:33 - [INFO] --> UPDATE damaged_devices SET arrival_id='5194', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2671' AND product_id='74' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:03:33 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [74], ID damaged_devices: [1779]
+2017-05-25 13:03:33 - [INFO] --> UPDATE damaged_devices SET arrival_id='5194', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='1779' AND product_id='74' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:03:33 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [74], ID damaged_devices: [1778]
+2017-05-25 13:03:33 - [INFO] --> UPDATE damaged_devices SET arrival_id='5194', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='1778' AND product_id='74' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:03:33 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [43], ID damaged_devices: [8167]
+2017-05-25 13:03:33 - [INFO] --> UPDATE damaged_devices SET arrival_id='5194', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='8167' AND product_id='43' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-25 13:05:26 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [79890], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [8090], Nr automatu: [5649]
+2017-05-25 13:05:27 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [79891], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [5424], Nr automatu: [5043]
+2017-05-25 13:05:27 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [79892], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2450], Nr automatu: [5181]
+2017-05-25 13:05:27 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [79893], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2215], Nr automatu: [5126]
+2017-05-25 13:53:51 - [INFO] --> Logowanie użytkownika: [cskwarzynski]
+2017-05-25 13:55:15 - [ERROR] --> Nieudane logowanie użytkownika: [mzerebecki]
+2017-05-25 13:55:27 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Cezary Skwarzyński], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-2], Nr boczny pojazdu: [], Nr automatu: [606]
+2017-05-25 13:55:27 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [79894], ID urządzenia: [130], Serwisant: [cskwarzynski]
+2017-05-25 13:55:27 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [79894], ID urządzenia: [130], Serwisant: [cskwarzynski]
+2017-05-25 13:56:30 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Cezary Skwarzyński], Urządzenie: [akceptor ( wlot )], Id urządzenia: [1], Ilość: [-1]
+2017-05-25 13:56:30 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Cezary Skwarzyński], Urządzenie: [CR (manualny)], Id urządzenia: [14], Ilość: [-2]
+2017-05-25 13:56:30 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Cezary Skwarzyński], Urządzenie: [mifare], Id urządzenia: [26], Ilość: [-1]
+2017-05-25 13:56:30 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Cezary Skwarzyński], Urządzenie: [modem], Id urządzenia: [27], Ilość: [-2]
+2017-05-25 13:56:30 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Cezary Skwarzyński], Urządzenie: [pinpad SB], Id urządzenia: [31], Ilość: [-1]
+2017-05-25 13:56:30 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Cezary Skwarzyński], Urządzenie: [płytka do powerbox], Id urządzenia: [35], Ilość: [-1]
+2017-05-25 13:56:30 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Cezary Skwarzyński], Urządzenie: [przejściówka do modemu], Id urządzenia: [36], Ilość: [-2]
+2017-05-25 13:56:30 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Cezary Skwarzyński], Urządzenie: [sortownik], Id urządzenia: [39], Ilość: [-1]
+2017-05-25 13:56:30 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Cezary Skwarzyński], Urządzenie: [walidator (NRI)], Id urządzenia: [42], Ilość: [-1]
+2017-05-25 13:56:30 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Cezary Skwarzyński], Urządzenie: [ZCGVA], Id urządzenia: [44], Ilość: [-1]
+2017-05-25 13:56:31 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Cezary Skwarzyński], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1]
+2017-05-25 13:56:31 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Cezary Skwarzyński], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-1]
+2017-05-25 13:56:31 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Cezary Skwarzyński], Urządzenie: [Plastikowa osłona anteny MIFARE], Id urządzenia: [139], Ilość: [-1]
+2017-05-25 13:56:46 - [ERROR] --> Nieudane logowanie użytkownika: [mzerebecki]
+2017-05-25 13:57:28 - [INFO] --> Logowanie użytkownika: [mzerebecki]
+2017-05-25 13:58:39 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mateusz Żerebecki], Urządzenie: [mifare], Id urządzenia: [26], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [527]
+2017-05-25 13:58:39 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [79908], ID urządzenia: [26], Serwisant: [mzerebecki]

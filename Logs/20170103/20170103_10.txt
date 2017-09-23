@@ -1,0 +1,5 @@
+2017-01-03 10:28:18 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-01-03 10:29:18 - [INFO] --> Logowanie użytkownika: [vector_test]
+2017-01-03 10:30:46 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-01-03 10:51:26 - [INFO] --> Logowanie użytkownika: [tkopyra]
+2017-01-03 10:53:06 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

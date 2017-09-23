@@ -1,0 +1,5 @@
+2017-06-12 6:08:31 - [INFO] --> Logowanie użytkownika: [mstaniszewski]
+2017-06-12 6:10:10 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1284/2017], ID dokumentu: [5707], Nazwa serisanta: [Marcin Staniszewski], ID serwisanta: [45], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
+2017-06-12 6:18:19 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-06-12 6:18:47 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1285/2017], ID dokumentu: [5708], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]
+2017-06-12 6:46:33 - [INFO] --> Logowanie użytkownika: [znowak]

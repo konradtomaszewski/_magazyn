@@ -1,0 +1,2 @@
+2017-09-22 18:12:07 - [INFO] --> Logowanie użytkownika: [serwisant1]
+2017-09-22 18:20:56 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [7], ID dokumentu: [1], Nazwa serisanta: [3], ID serwisanta: [8247], Nazwa urządzenia: [8247], ID urządzenia: [-1], Ilość: []

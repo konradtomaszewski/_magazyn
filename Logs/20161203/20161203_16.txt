@@ -1,0 +1,2 @@
+2016-12-03 16:27:23 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-12-03 16:53:43 - [INFO] --> Logowanie użytkownika: [kjasinski]

@@ -1,0 +1,5 @@
+2017-04-05 6:02:02 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-04-05 6:03:11 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
+2017-04-05 6:15:16 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
+2017-04-05 6:15:43 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/836/2017], ID dokumentu: [3896], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
+2017-04-05 6:49:19 - [INFO] --> Logowanie użytkownika: [znowak]

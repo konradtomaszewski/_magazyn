@@ -1,0 +1,5 @@
+2016-10-31 22:02:03 - [INFO] --> Logowanie użytkownika: [smiernik]
+2016-10-31 22:05:43 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-10-31 22:12:28 - [INFO] --> Logowanie użytkownika: [msieradzki]
+2016-10-31 22:20:27 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-10-31 22:24:57 - [INFO] --> Logowanie użytkownika: [kjasinski]

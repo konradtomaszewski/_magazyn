@@ -1,0 +1,5 @@
+2017-04-23 16:15:02 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-04-23 16:15:19 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/957/2017], ID dokumentu: [4370], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
+2017-04-23 16:30:27 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
+2017-04-23 16:38:15 - [INFO] --> Logowanie użytkownika: [tjasinski]
+2017-04-23 16:39:35 - [INFO] --> Logowanie użytkownika: [dgasiewski]

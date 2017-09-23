@@ -1,0 +1,2 @@
+2017-02-01 7:42:29 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-02-01 7:59:01 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

@@ -1,0 +1,8 @@
+2017-01-03 9:09:18 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-01-03 9:09:32 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-01-03 9:09:49 - [INFO] --> Logowanie użytkownika: [vector_test]
+2017-01-03 9:17:03 - [INFO] --> Logowanie użytkownika: [vector_test]
+2017-01-03 9:32:42 - [INFO] --> Logowanie użytkownika: [vector_test]
+2017-01-03 9:40:31 - [ERROR] --> Nieudane logowanie użytkownika: [jczajka]
+2017-01-03 9:40:49 - [ERROR] --> Nieudane logowanie użytkownika: [jczajka]
+2017-01-03 9:41:18 - [ERROR] --> Nieudane logowanie użytkownika: [jczajka]

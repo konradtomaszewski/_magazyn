@@ -1,0 +1,51 @@
+2017-02-04 13:18:14 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-02-04 13:25:40 - [INFO] --> Logowanie użytkownika: [tkopyra]
+2017-02-04 13:26:04 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tadeusz Kopyra], Urządzenie: [drukarka (Thino)], Id urządzenia: [17], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [292]
+2017-02-04 13:26:04 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [25909], ID urządzenia: [17], Serwisant: [tkopyra]
+2017-02-04 13:26:26 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tadeusz Kopyra], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [334]
+2017-02-04 13:26:26 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [25910], ID urządzenia: [149], Serwisant: [tkopyra]
+2017-02-04 13:26:48 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tadeusz Kopyra], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [268]
+2017-02-04 13:26:48 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [25911], ID urządzenia: [149], Serwisant: [tkopyra]
+2017-02-04 13:27:06 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tadeusz Kopyra], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [180]
+2017-02-04 13:27:06 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [25912], ID urządzenia: [149], Serwisant: [tkopyra]
+2017-02-04 13:31:40 - [INFO] --> Logowanie użytkownika: [tkopyra]
+2017-02-04 13:50:36 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-02-04 13:50:53 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-02-04 13:52:28 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [7], ID damaged_devices: [2929]
+2017-02-04 13:52:28 - [INFO] --> UPDATE damaged_devices SET arrival_id='2044', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2929' AND product_id='7' AND damaged_devices_status_id='1' and id > '147' 
+2017-02-04 13:52:28 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [148], ID damaged_devices: [2854]
+2017-02-04 13:52:28 - [INFO] --> UPDATE damaged_devices SET arrival_id='2044', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2854' AND product_id='148' AND damaged_devices_status_id='1' and id > '147' 
+2017-02-04 13:52:28 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [148], ID damaged_devices: [2918]
+2017-02-04 13:52:28 - [INFO] --> UPDATE damaged_devices SET arrival_id='2044', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2918' AND product_id='148' AND damaged_devices_status_id='1' and id > '147' 
+2017-02-04 13:52:28 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [148], ID damaged_devices: [2909]
+2017-02-04 13:52:28 - [INFO] --> UPDATE damaged_devices SET arrival_id='2044', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2909' AND product_id='148' AND damaged_devices_status_id='1' and id > '147' 
+2017-02-04 13:52:28 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [148], ID damaged_devices: [2857]
+2017-02-04 13:52:28 - [INFO] --> UPDATE damaged_devices SET arrival_id='2044', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2857' AND product_id='148' AND damaged_devices_status_id='1' and id > '147' 
+2017-02-04 13:52:29 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [148], ID damaged_devices: [2855]
+2017-02-04 13:52:29 - [INFO] --> UPDATE damaged_devices SET arrival_id='2044', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2855' AND product_id='148' AND damaged_devices_status_id='1' and id > '147' 
+2017-02-04 13:52:29 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [148], ID damaged_devices: [2847]
+2017-02-04 13:52:29 - [INFO] --> UPDATE damaged_devices SET arrival_id='2044', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2847' AND product_id='148' AND damaged_devices_status_id='1' and id > '147' 
+2017-02-04 13:52:29 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [148], ID damaged_devices: [2829]
+2017-02-04 13:52:29 - [INFO] --> UPDATE damaged_devices SET arrival_id='2044', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2829' AND product_id='148' AND damaged_devices_status_id='1' and id > '147' 
+2017-02-04 13:52:29 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [148], ID damaged_devices: [2853]
+2017-02-04 13:52:29 - [INFO] --> UPDATE damaged_devices SET arrival_id='2044', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2853' AND product_id='148' AND damaged_devices_status_id='1' and id > '147' 
+2017-02-04 13:52:29 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [148], ID damaged_devices: [2899]
+2017-02-04 13:52:29 - [INFO] --> UPDATE damaged_devices SET arrival_id='2044', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2899' AND product_id='148' AND damaged_devices_status_id='1' and id > '147' 
+2017-02-04 13:52:29 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [148], ID damaged_devices: [2852]
+2017-02-04 13:52:29 - [INFO] --> UPDATE damaged_devices SET arrival_id='2044', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2852' AND product_id='148' AND damaged_devices_status_id='1' and id > '147' 
+2017-02-04 13:52:29 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [139], ID damaged_devices: [2846]
+2017-02-04 13:52:29 - [INFO] --> UPDATE damaged_devices SET arrival_id='2044', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2846' AND product_id='139' AND damaged_devices_status_id='1' and id > '147' 
+2017-02-04 13:52:30 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [17], ID damaged_devices: [2919]
+2017-02-04 13:52:30 - [INFO] --> UPDATE damaged_devices SET arrival_id='2044', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2919' AND product_id='17' AND damaged_devices_status_id='1' and id > '147' 
+2017-02-04 13:52:30 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [42], ID damaged_devices: [2911]
+2017-02-04 13:52:30 - [INFO] --> UPDATE damaged_devices SET arrival_id='2044', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2911' AND product_id='42' AND damaged_devices_status_id='1' and id > '147' 
+2017-02-04 13:54:23 - [INFO] --> Logowanie użytkownika: [jczajka]
+2017-02-04 13:55:40 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/338/2017], ID dokumentu: [2045], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
+2017-02-04 13:55:41 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/338/2017], ID dokumentu: [2045], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [Nagrzewnica], ID urządzenia: [28], Ilość: [1]
+2017-02-04 13:55:41 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/338/2017], ID dokumentu: [2045], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [Płyta backplan], ID urządzenia: [32], Ilość: [1]
+2017-02-04 13:57:52 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Jacek Czajka], Urządzenie: [Płyta backplan], Id urządzenia: [32], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [251]
+2017-02-04 13:57:52 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [25952], ID urządzenia: [32], Serwisant: [jczajka]
+2017-02-04 13:58:13 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Jacek Czajka], Urządzenie: [Nagrzewnica], Id urządzenia: [28], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [206]
+2017-02-04 13:58:13 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [25953], ID urządzenia: [28], Serwisant: [jczajka]
+2017-02-04 13:58:30 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Jacek Czajka], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [412]
+2017-02-04 13:58:30 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [25954], ID urządzenia: [128], Serwisant: [jczajka]

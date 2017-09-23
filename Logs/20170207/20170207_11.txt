@@ -1,0 +1,7 @@
+2017-02-07 11:08:06 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-02-07 11:09:36 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/279/2017], ID dokumentu: [2145], Nazwa serisanta: [Bartosz Larkowski], ID serwisanta: [5], Nazwa urządzenia: [Mechanizm drukujący SEIKO z obcinaczem], ID urządzenia: [67], Ilość: [1]
+2017-02-07 11:09:51 - [INFO] --> Logowanie użytkownika: [blarkowski]
+2017-02-07 11:10:12 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Bartosz Larkowski], Urządzenie: [Mechanizm drukujący SEIKO z obcinaczem], Id urządzenia: [67], Ilość: [-1], Nr boczny pojazdu: [2366], Nr automatu: [5329]
+2017-02-07 11:10:12 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [27108], ID urządzenia: [67], Serwisant: [blarkowski]
+2017-02-07 11:10:30 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [27108], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2366], Nr automatu: [5329]
+2017-02-07 11:51:02 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

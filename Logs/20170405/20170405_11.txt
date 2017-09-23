@@ -1,0 +1,2 @@
+2017-04-05 11:30:24 - [INFO] --> Logowanie użytkownika: [jczajka]
+2017-04-05 11:31:02 - [INFO] --> Logowanie użytkownika: [jczajka]

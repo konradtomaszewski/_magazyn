@@ -1,0 +1,4 @@
+2017-02-27 12:09:42 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [35682], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [291]
+2017-02-27 12:09:42 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [33967], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [135]
+2017-02-27 12:10:21 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/522/2017], ID dokumentu: [2748], Nazwa serisanta: [serwisant], ID serwisanta: [3], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]
+2017-02-27 12:55:29 - [INFO] --> Logowanie użytkownika: [kjasinski]

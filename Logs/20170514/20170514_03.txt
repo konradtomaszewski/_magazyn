@@ -1,0 +1,7 @@
+2017-05-14 3:00:54 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Szymon Miernik], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [8085], Nr automatu: [5644]
+2017-05-14 3:00:54 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [73997], ID urządzenia: [129], Serwisant: [smiernik]
+2017-05-14 3:01:08 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Szymon Miernik], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [8304], Nr automatu: [5511]
+2017-05-14 3:01:08 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [73998], ID urządzenia: [129], Serwisant: [smiernik]
+2017-05-14 3:01:20 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Szymon Miernik], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [8317], Nr automatu: [5524]
+2017-05-14 3:01:20 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [73999], ID urządzenia: [129], Serwisant: [smiernik]
+2017-05-14 3:01:30 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Szymon Miernik], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-6]

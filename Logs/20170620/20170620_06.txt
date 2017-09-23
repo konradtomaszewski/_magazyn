@@ -1,0 +1,5 @@
+2017-06-20 6:04:56 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
+2017-06-20 6:09:43 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
+2017-06-20 6:10:53 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1342/2017], ID dokumentu: [5942], Nazwa serisanta: [Marek Madej Sierski], ID serwisanta: [48], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]
+2017-06-20 6:11:34 - [INFO] --> Logowanie użytkownika: [tkopyra]
+2017-06-20 6:59:39 - [INFO] --> Logowanie użytkownika: [kjasinski]

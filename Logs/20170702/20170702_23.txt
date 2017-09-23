@@ -1,0 +1,2 @@
+2017-07-02 23:15:50 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-07-02 23:16:20 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [100854], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [268]

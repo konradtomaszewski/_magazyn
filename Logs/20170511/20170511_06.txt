@@ -1,0 +1,4 @@
+2017-05-11 6:31:42 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1074/2017], ID dokumentu: [4802], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]
+2017-05-11 6:32:41 - [INFO] --> Logowanie użytkownika: [jczajka]
+2017-05-11 6:45:16 - [INFO] --> Logowanie użytkownika: [rstawieraj]
+2017-05-11 6:45:39 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1075/2017], ID dokumentu: [4803], Nazwa serisanta: [Rafał Stawieraj], ID serwisanta: [33], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]

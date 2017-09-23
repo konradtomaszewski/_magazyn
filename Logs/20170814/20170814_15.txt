@@ -1,0 +1,8 @@
+2017-08-14 15:00:16 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [125966], przez uzytkownika: [mprzybylski], Nr boczny pojazdu: [2545], Nr automatu: [5084]
+2017-08-14 15:03:18 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-08-14 15:30:46 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-08-14 15:38:22 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-08-14 15:39:54 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-08-14 15:40:15 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [CM 0,1 zł], Id urządzenia: [8], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [100]
+2017-08-14 15:40:15 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [125967], ID urządzenia: [8], Serwisant: [mjanek]
+2017-08-14 15:42:37 - [INFO] --> Logowanie użytkownika: [mjanek]

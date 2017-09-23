@@ -1,0 +1,2 @@
+2016-11-03 4:29:59 - [INFO] --> Logowanie użytkownika: [abuller]
+2016-11-03 4:31:27 - [INFO] --> Logowanie użytkownika: [cskwarzynski]

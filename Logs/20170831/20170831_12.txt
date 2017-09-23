@@ -1,0 +1,8 @@
+2017-08-31 12:42:42 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-08-31 12:50:14 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1804/2017], ID dokumentu: [7998], Nazwa serisanta: [Krzysztof Jasiński - Serwisant], ID serwisanta: [22], Nazwa urządzenia: [Akumulator 12V 2,3 Ah], ID urządzenia: [58], Ilość: [2]
+2017-08-31 12:50:23 - [INFO] --> Logowanie użytkownika: [krzysztof]
+2017-08-31 12:50:46 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Krzysztof Jasiński - Serwisant], Urządzenie: [Akumulator 12V 2,3 Ah], Id urządzenia: [58], Ilość: [-1], Nr boczny pojazdu: [4302], Nr automatu: [5492]
+2017-08-31 12:50:46 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [133837], ID urządzenia: [58], Serwisant: [krzysztof]
+2017-08-31 12:51:02 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Krzysztof Jasiński - Serwisant], Urządzenie: [Akumulator 12V 2,3 Ah], Id urządzenia: [58], Ilość: [-1], Nr boczny pojazdu: [4304], Nr automatu: [5494]
+2017-08-31 12:51:02 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [133838], ID urządzenia: [58], Serwisant: [krzysztof]
+2017-08-31 12:51:13 - [INFO] --> Logowanie użytkownika: [kjasinski]

@@ -1,0 +1,7 @@
+2017-06-01 6:04:03 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-06-01 6:11:12 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
+2017-06-01 6:45:56 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-06-01 6:47:06 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1201/2017], ID dokumentu: [5386], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]
+2017-06-01 6:49:18 - [INFO] --> Logowanie użytkownika: [rstawieraj]
+2017-06-01 6:49:54 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1202/2017], ID dokumentu: [5387], Nazwa serisanta: [Rafał Stawieraj], ID serwisanta: [33], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]
+2017-06-01 6:52:52 - [INFO] --> Logowanie użytkownika: [dgasiewski]

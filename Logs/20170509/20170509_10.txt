@@ -1,0 +1,6 @@
+2017-05-09 10:00:57 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-05-09 10:03:47 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [13], ID damaged_devices: [7923]
+2017-05-09 10:03:47 - [INFO] --> UPDATE damaged_devices SET arrival_id='4755', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='7923' AND product_id='13' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-09 10:03:47 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [161], ID damaged_devices: [7921]
+2017-05-09 10:03:47 - [INFO] --> UPDATE damaged_devices SET arrival_id='4755', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='7921' AND product_id='161' AND damaged_devices_status_id='1' and id > '147' 
+2017-05-09 10:56:39 - [INFO] --> Logowanie użytkownika: [kjasinski]

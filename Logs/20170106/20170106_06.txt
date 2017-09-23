@@ -1,0 +1,5 @@
+2017-01-06 6:24:19 - [INFO] --> Logowanie użytkownika: [znowak]
+2017-01-06 6:24:52 - [INFO] --> Logowanie użytkownika: [pkalinowski]
+2017-01-06 6:27:20 - [INFO] --> Logowanie użytkownika: [znowak]
+2017-01-06 6:27:48 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/27/2017], ID dokumentu: [1082], Nazwa serisanta: [Zygmunt Nowak], ID serwisanta: [30], Nazwa urządzenia: [Papier Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
+2017-01-06 6:28:06 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/28/2017], ID dokumentu: [1083], Nazwa serisanta: [Zygmunt Nowak], ID serwisanta: [30], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [2]

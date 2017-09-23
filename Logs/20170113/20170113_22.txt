@@ -1,0 +1,6 @@
+2017-01-13 22:34:15 - [INFO] --> Logowanie użytkownika: [michał]
+2017-01-13 22:35:30 - [INFO] --> Logowanie użytkownika: [mprzybylski]
+2017-01-13 22:36:47 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/92/2017], ID dokumentu: [1342], Nazwa serisanta: [Michał Przybylski - Serwisant], ID serwisanta: [23], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [12]
+2017-01-13 22:37:01 - [INFO] --> Logowanie użytkownika: [michał]
+2017-01-13 22:37:58 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Michał Przybylski - Serwisant], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [2347], Nr automatu: [5236]
+2017-01-13 22:37:58 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [16201], ID urządzenia: [129], Serwisant: [michał]

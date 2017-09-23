@@ -1,0 +1,4 @@
+2017-02-25 6:18:37 - [INFO] --> Logowanie użytkownika: [jczajka]
+2017-02-25 6:20:42 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/509/2017], ID dokumentu: [2693], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [7]
+2017-02-25 6:22:48 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-02-25 6:44:22 - [INFO] --> Logowanie użytkownika: [znowak]

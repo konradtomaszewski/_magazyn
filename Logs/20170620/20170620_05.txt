@@ -1,0 +1,3 @@
+2017-06-20 5:35:40 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
+2017-06-20 5:52:32 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-06-20 5:54:22 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1341/2017], ID dokumentu: [5941], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [EM papier paragonowy], ID urządzenia: [157], Ilość: [1]

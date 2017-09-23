@@ -1,0 +1,5 @@
+2017-01-29 20:37:14 - [INFO] --> Logowanie użytkownika: [smiernik]
+2017-01-29 20:37:28 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Szymon Miernik], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [527]
+2017-01-29 20:37:28 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [22964], ID urządzenia: [130], Serwisant: [smiernik]
+2017-01-29 20:37:49 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Szymon Miernik], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1]
+2017-01-29 20:37:59 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Szymon Miernik], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-2]

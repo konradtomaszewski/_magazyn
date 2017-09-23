@@ -1,0 +1,5 @@
+2017-07-24 6:08:28 - [INFO] --> Logowanie użytkownika: [rstawieraj]
+2017-07-24 6:09:46 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1652/2017], ID dokumentu: [6973], Nazwa serisanta: [Rafał Stawieraj], ID serwisanta: [33], Nazwa urządzenia: [Bateria backup], ID urządzenia: [146], Ilość: [1]
+2017-07-24 6:16:36 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
+2017-07-24 6:17:12 - [INFO] --> Logowanie użytkownika: [serwisant_e]
+2017-07-24 6:31:15 - [INFO] --> Logowanie użytkownika: [kjasinski]

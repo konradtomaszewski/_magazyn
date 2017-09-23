@@ -1,0 +1,2 @@
+2017-03-12 6:22:55 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-03-12 6:33:30 - [INFO] --> Logowanie użytkownika: [dgasiewski]

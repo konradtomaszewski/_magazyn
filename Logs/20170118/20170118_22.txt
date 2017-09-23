@@ -1,0 +1,5 @@
+2017-01-18 22:04:13 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-01-18 22:14:57 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-01-18 22:40:09 - [INFO] --> Logowanie użytkownika: [abuller]
+2017-01-18 22:58:24 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-01-18 22:59:36 - [INFO] --> Logowanie użytkownika: [dgasiewski]

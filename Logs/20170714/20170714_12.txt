@@ -1,0 +1,20 @@
+2017-07-14 12:50:33 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-07-14 12:52:15 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [317]
+2017-07-14 12:52:15 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [108900], ID urządzenia: [149], Serwisant: [rtworkowski]
+2017-07-14 12:52:45 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [300]
+2017-07-14 12:52:45 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [108901], ID urządzenia: [149], Serwisant: [rtworkowski]
+2017-07-14 12:53:10 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [105]
+2017-07-14 12:53:10 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [108902], ID urządzenia: [149], Serwisant: [rtworkowski]
+2017-07-14 12:53:27 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [312]
+2017-07-14 12:53:27 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [108903], ID urządzenia: [149], Serwisant: [rtworkowski]
+2017-07-14 12:54:15 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [Wyświetlacz LCD 15 cali], Id urządzenia: [25], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [382]
+2017-07-14 12:54:15 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [108904], ID urządzenia: [25], Serwisant: [rtworkowski]
+2017-07-14 12:56:36 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-07-14 12:56:45 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [161], ID damaged_devices: [12216]
+2017-07-14 12:56:45 - [INFO] --> UPDATE damaged_devices SET arrival_id='6734', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='12216' AND product_id='161' AND damaged_devices_status_id='1' and id > '147' 
+2017-07-14 12:56:45 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [43], ID damaged_devices: [12255]
+2017-07-14 12:56:45 - [INFO] --> UPDATE damaged_devices SET arrival_id='6734', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='12255' AND product_id='43' AND damaged_devices_status_id='1' and id > '147' 
+2017-07-14 12:56:45 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [40], ID damaged_devices: [12198]
+2017-07-14 12:56:45 - [INFO] --> UPDATE damaged_devices SET arrival_id='6734', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='12198' AND product_id='40' AND damaged_devices_status_id='1' and id > '147' 
+2017-07-14 12:56:45 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [40], ID damaged_devices: [12199]
+2017-07-14 12:56:45 - [INFO] --> UPDATE damaged_devices SET arrival_id='6734', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='12199' AND product_id='40' AND damaged_devices_status_id='1' and id > '147' 

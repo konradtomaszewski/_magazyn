@@ -1,0 +1,8 @@
+2017-04-15 7:05:09 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-04-15 7:11:55 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-04-15 7:22:31 - [INFO] --> Logowanie użytkownika: [dostawy]
+2017-04-15 7:22:45 - [INFO] --> Typ dokumentu: [Dostawa części (do zatwierdzenia)], Nazwa dokumentu:  [WAR/N/62/2017],  Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
+2017-04-15 7:22:56 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-04-15 7:23:04 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WAR/N/62/2017],  Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
+2017-04-15 7:25:31 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/906/2017], ID dokumentu: [0], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
+2017-04-15 7:40:11 - [INFO] --> Logowanie użytkownika: [dostawy]

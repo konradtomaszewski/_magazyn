@@ -1,0 +1,5 @@
+2017-04-22 22:48:40 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
+2017-04-22 22:49:06 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Jasiński serwisant], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [436]
+2017-04-22 22:49:06 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [64189], ID urządzenia: [149], Serwisant: [tjasinski_s]
+2017-04-22 22:49:32 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Jasiński serwisant], Urządzenie: [Czytnik UX300], Id urządzenia: [161], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [436]
+2017-04-22 22:49:32 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [64190], ID urządzenia: [161], Serwisant: [tjasinski_s]

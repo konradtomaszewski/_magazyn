@@ -1,0 +1,3 @@
+2017-06-23 12:49:08 - [INFO] --> Logowanie użytkownika: [mstaniszewski]
+2017-06-23 12:49:31 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Marcin Staniszewski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [465]
+2017-06-23 12:49:31 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [95919], ID urządzenia: [149], Serwisant: [mstaniszewski]

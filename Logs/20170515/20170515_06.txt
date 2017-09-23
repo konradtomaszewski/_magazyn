@@ -1,0 +1,7 @@
+2017-05-15 6:22:14 - [INFO] --> Logowanie użytkownika: [tkopyra]
+2017-05-15 6:31:31 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-05-15 6:33:58 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-05-15 6:34:39 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1097/2017], ID dokumentu: [4908], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [3]
+2017-05-15 6:39:47 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1098/2017], ID dokumentu: [4909], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [6]
+2017-05-15 6:40:00 - [INFO] --> Logowanie użytkownika: [rstawieraj]
+2017-05-15 6:40:41 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1099/2017], ID dokumentu: [4910], Nazwa serisanta: [Rafał Stawieraj], ID serwisanta: [33], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]

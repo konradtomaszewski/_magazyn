@@ -1,0 +1,3 @@
+2017-05-30 20:21:13 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-05-30 20:23:36 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1156/2017], ID dokumentu: [5334], Nazwa serisanta: [Cezary Skwarzyński], ID serwisanta: [10], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]
+2017-05-30 20:23:51 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1157/2017], ID dokumentu: [5335], Nazwa serisanta: [Mateusz Żerebecki], ID serwisanta: [44], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]

@@ -1,0 +1,3 @@
+2017-07-08 23:30:25 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
+2017-07-08 23:30:47 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Jasiński serwisant], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [215]
+2017-07-08 23:30:47 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [105836], ID urządzenia: [128], Serwisant: [tjasinski_s]

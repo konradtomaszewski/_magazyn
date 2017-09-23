@@ -1,0 +1,7 @@
+2017-06-21 7:02:50 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
+2017-06-21 7:03:29 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1349/2017], ID dokumentu: [5973], Nazwa serisanta: [Marek Madej Sierski], ID serwisanta: [48], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]
+2017-06-21 7:55:44 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-06-21 7:56:19 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [94362], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [3131], Nr automatu: [5821]
+2017-06-21 7:58:25 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [94264], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [607]
+2017-06-21 7:58:36 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1341/2017], ID dokumentu: [5974], Nazwa serisanta: [Artur Buller], ID serwisanta: [6], Nazwa urządzenia: [drukarka (Thino)], ID urządzenia: [17], Ilość: [1]
+2017-06-21 7:59:39 - [INFO] --> Logowanie użytkownika: [abuller]

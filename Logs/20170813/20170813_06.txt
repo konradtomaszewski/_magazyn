@@ -1,0 +1,4 @@
+2017-08-13 6:29:07 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-08-13 6:39:45 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-08-13 6:55:35 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-08-13 6:55:51 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1793/2017], ID dokumentu: [7558], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [4]

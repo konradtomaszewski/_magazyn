@@ -1,0 +1,3 @@
+2017-03-25 17:41:41 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-03-25 17:41:59 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [300]
+2017-03-25 17:41:59 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [50355], ID urządzenia: [149], Serwisant: [mjanek]

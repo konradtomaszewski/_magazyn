@@ -1,0 +1,7 @@
+2017-08-04 9:01:16 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [117634], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [522]
+2017-08-04 9:10:00 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [120298], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [4403], Nr automatu: [5242]
+2017-08-04 9:10:40 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [120299], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [4404], Nr automatu: [5243]
+2017-08-04 9:15:21 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [120006], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [544]
+2017-08-04 9:40:11 - [INFO] --> Logowanie użytkownika: [rstawieraj]
+2017-08-04 9:40:27 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Stawieraj], Urządzenie: [Bateria backup], Id urządzenia: [146], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [344]
+2017-08-04 9:40:27 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [120506], ID urządzenia: [146], Serwisant: [rstawieraj]

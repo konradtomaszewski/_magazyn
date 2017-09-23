@@ -1,0 +1,2 @@
+2017-08-05 14:01:52 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-08-05 14:07:40 - [ERROR] --> Nieudane logowanie użytkownika: [N]

@@ -1,0 +1,5 @@
+2017-01-20 6:11:17 - [INFO] --> Logowanie użytkownika: [pkalinowski]
+2017-01-20 6:27:54 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-01-20 6:31:25 - [INFO] --> Logowanie użytkownika: [jczajka]
+2017-01-20 6:34:36 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/176/2017], ID dokumentu: [1513], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [2]
+2017-01-20 6:34:36 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/176/2017], ID dokumentu: [1513], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]

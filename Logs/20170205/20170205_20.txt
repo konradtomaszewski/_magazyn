@@ -1,0 +1,6 @@
+2017-02-05 20:12:40 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-02-05 20:14:50 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/261/2017], ID dokumentu: [2071], Nazwa serisanta: [Bartosz Larkowski], ID serwisanta: [5], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]
+2017-02-05 20:15:03 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/262/2017], ID dokumentu: [2072], Nazwa serisanta: [Paweł Mikucki], ID serwisanta: [42], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]
+2017-02-05 20:59:04 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
+2017-02-05 20:59:36 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Dariusz Nowakowski- Serwisant], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [205]
+2017-02-05 20:59:36 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [26325], ID urządzenia: [149], Serwisant: [dnowakowski_s]

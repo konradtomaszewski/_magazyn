@@ -1,0 +1,2 @@
+2016-11-19 17:53:34 - [INFO] --> Logowanie użytkownika: [cskwarzynski]
+2016-11-19 17:56:16 - [INFO] --> Logowanie użytkownika: [vector_test]

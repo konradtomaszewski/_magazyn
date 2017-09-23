@@ -1,0 +1,7 @@
+2017-06-03 6:21:27 - [INFO] --> Logowanie użytkownika: [mstaniszewski]
+2017-06-03 6:23:27 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1218/2017], ID dokumentu: [5446], Nazwa serisanta: [Marcin Staniszewski], ID serwisanta: [45], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
+2017-06-03 6:25:18 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-06-03 6:25:38 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1219/2017], ID dokumentu: [5447], Nazwa serisanta: [Marcin Staniszewski], ID serwisanta: [45], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
+2017-06-03 6:27:38 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1220/2017], ID dokumentu: [5448], Nazwa serisanta: [Marcin Staniszewski], ID serwisanta: [45], Nazwa urządzenia: [ZCGVA], ID urządzenia: [44], Ilość: [1]
+2017-06-03 6:27:41 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1220/2017], ID dokumentu: [5449], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [3]
+2017-06-03 6:57:48 - [INFO] --> Logowanie użytkownika: [dgasiewski]

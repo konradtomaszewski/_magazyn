@@ -1,0 +1,8 @@
+2017-09-06 6:00:47 - [INFO] --> Logowanie użytkownika: [jgrzybicki]
+2017-09-06 6:01:07 - [ERROR] --> Nieudane logowanie użytkownika: [serwisant_c]
+2017-09-06 6:01:17 - [INFO] --> Logowanie użytkownika: [serwisant_c]
+2017-09-06 6:13:55 - [INFO] --> Logowanie użytkownika: [serwisant_e]
+2017-09-06 6:20:57 - [INFO] --> Logowanie użytkownika: [serwisant_s]
+2017-09-06 6:39:11 - [INFO] --> Logowanie użytkownika: [jgrzybicki]
+2017-09-06 6:44:10 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-09-06 6:44:27 - [INFO] --> Logowanie użytkownika: [serwisant_n]

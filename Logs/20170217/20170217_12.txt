@@ -1,0 +1,6 @@
+2017-02-17 12:03:05 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-02-17 12:03:28 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [Drukarka Edmonson duża BTVM-1], Id urządzenia: [148], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [248]
+2017-02-17 12:03:28 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [32039], ID urządzenia: [148], Serwisant: [mjanek]
+2017-02-17 12:37:13 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-02-17 12:37:32 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [311]
+2017-02-17 12:37:32 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [32040], ID urządzenia: [149], Serwisant: [mjanek]

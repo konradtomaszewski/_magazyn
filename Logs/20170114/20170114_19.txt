@@ -1,0 +1,5 @@
+2017-01-14 19:15:27 - [INFO] --> Logowanie użytkownika: [lmazurowski]
+2017-01-14 19:16:00 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Łukasz Mazurowski], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [507]
+2017-01-14 19:16:00 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [16335], ID urządzenia: [130], Serwisant: [lmazurowski]
+2017-01-14 19:16:22 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Łukasz Mazurowski], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [563]
+2017-01-14 19:16:22 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [16336], ID urządzenia: [130], Serwisant: [lmazurowski]

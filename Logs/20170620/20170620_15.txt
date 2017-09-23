@@ -1,0 +1,7 @@
+2017-06-20 15:01:07 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-06-20 15:55:48 - [INFO] --> Logowanie użytkownika: [dostawy]
+2017-06-20 15:56:18 - [INFO] --> Typ dokumentu: [Dostawa części (do zatwierdzenia)], Nazwa dokumentu:  [WAR/N/81/2017],  Nazwa urządzenia: [EM Drukarka Edmonson], ID urządzenia: [167], Ilość: [1]
+2017-06-20 15:56:18 - [INFO] --> Typ dokumentu: [Dostawa części (do zatwierdzenia)], Nazwa dokumentu:  [WAR/N/81/2017],  Nazwa urządzenia: [EM Drukarka Edmonson], ID urządzenia: [167], Ilość: [1]
+2017-06-20 15:56:18 - [INFO] --> Typ dokumentu: [Dostawa części (do zatwierdzenia)], Nazwa dokumentu:  [WAR/N/81/2017],  Nazwa urządzenia: [EM Drukarka Edmonson], ID urządzenia: [167], Ilość: [1]
+2017-06-20 15:56:37 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-06-20 15:56:41 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WAR/N/81/2017],  Nazwa urządzenia: [EM Drukarka Edmonson], ID urządzenia: [167], Ilość: [3]

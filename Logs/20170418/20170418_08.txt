@@ -1,0 +1,7 @@
+2017-04-18 8:40:31 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-04-18 8:41:17 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [60596], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [207]
+2017-04-18 8:43:10 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [35965], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [265]
+2017-04-18 8:43:10 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [44655], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [206]
+2017-04-18 8:43:10 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47699], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [136]
+2017-04-18 8:43:10 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [43989], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [291]
+2017-04-18 8:48:36 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/919/2017], ID dokumentu: [4233], Nazwa serisanta: [serwisant], ID serwisanta: [3], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [4]

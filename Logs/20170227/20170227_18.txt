@@ -1,0 +1,1 @@
+2017-02-27 18:02:41 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/526/2017], ID dokumentu: [2762], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Jarzeniówka oświetlenie zewnętrzne], ID urządzenia: [151], Ilość: [1]

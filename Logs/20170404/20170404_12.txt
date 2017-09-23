@@ -1,0 +1,5 @@
+2017-04-04 12:07:00 - [INFO] --> Logowanie użytkownika: [rstawieraj]
+2017-04-04 12:07:32 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Stawieraj], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [290]
+2017-04-04 12:07:32 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [55228], ID urządzenia: [149], Serwisant: [rstawieraj]
+2017-04-04 12:54:30 - [ERROR] --> Nieudane logowanie użytkownika: [kondzik]
+2017-04-04 12:54:32 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

@@ -1,0 +1,2 @@
+2016-12-12 7:14:40 - [INFO] --> Logowanie użytkownika: [blarkowski]
+2016-12-12 7:14:59 - [INFO] --> Logowanie użytkownika: [kjasinski]

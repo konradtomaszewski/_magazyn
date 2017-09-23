@@ -1,0 +1,5 @@
+2017-03-05 22:06:56 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-03-05 22:12:33 - [INFO] --> Logowanie użytkownika: [msieradzki]
+2017-03-05 22:12:51 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/498/2017], ID dokumentu: [2960], Nazwa serisanta: [Mariusz Sieradzki], ID serwisanta: [13], Nazwa urządzenia: [Wentylator 12 v 50x50], ID urządzenia: [73], Ilość: [2]
+2017-03-05 22:13:47 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/499/2017], ID dokumentu: [2961], Nazwa serisanta: [Mariusz Sieradzki], ID serwisanta: [13], Nazwa urządzenia: [zespół drukarki do BM101 (stelaż, mechanizm druk., sterownik)], ID urządzenia: [76], Ilość: [2]
+2017-03-05 22:14:30 - [INFO] --> Logowanie użytkownika: [msieradzki]

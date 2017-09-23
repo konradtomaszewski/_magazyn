@@ -1,0 +1,3 @@
+2017-07-16 15:26:48 - [INFO] --> Logowanie użytkownika: [abukalo]
+2017-07-16 15:29:04 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Arkadiusz Bukało], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1]
+2017-07-16 15:29:04 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Arkadiusz Bukało], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-3]

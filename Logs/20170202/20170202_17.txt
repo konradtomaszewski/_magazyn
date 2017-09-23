@@ -1,0 +1,2 @@
+2017-02-02 17:53:54 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-02-02 17:54:34 - [INFO] --> Logowanie użytkownika: [rtworkowski]

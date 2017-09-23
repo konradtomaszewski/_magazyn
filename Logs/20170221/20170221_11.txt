@@ -1,0 +1,5 @@
+2017-02-21 11:39:27 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-02-21 11:39:58 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Daniel Gąsiewski], Urządzenie: [walidator (NRI)], Id urządzenia: [42], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [351]
+2017-02-21 11:39:59 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [33633], ID urządzenia: [42], Serwisant: [dgasiewski]
+2017-02-21 11:40:39 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Daniel Gąsiewski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [392]
+2017-02-21 11:40:39 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [33634], ID urządzenia: [149], Serwisant: [dgasiewski]

@@ -1,0 +1,2 @@
+2016-11-21 13:37:31 - [INFO] --> Logowanie użytkownika: [tkarabiniewicz]
+2016-11-21 13:48:05 - [INFO] --> Logowanie użytkownika: [kjasinski]

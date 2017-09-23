@@ -1,0 +1,7 @@
+2017-08-28 7:03:18 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
+2017-08-28 7:03:33 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
+2017-08-28 7:04:04 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1899/2017], ID dokumentu: [7891], Nazwa serisanta: [Marek Madej Sierski], ID serwisanta: [48], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]
+2017-08-28 7:13:49 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-08-28 7:14:26 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1900/2017], ID dokumentu: [7892], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
+2017-08-28 7:56:08 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-08-28 7:56:58 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [131740], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [7321], Nr automatu: [5427]

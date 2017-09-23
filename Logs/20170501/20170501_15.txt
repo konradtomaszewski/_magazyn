@@ -1,0 +1,2 @@
+2017-05-01 15:35:54 - [INFO] --> Logowanie użytkownika: [jczajka]
+2017-05-01 15:36:06 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1013/2017], ID dokumentu: [4569], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]

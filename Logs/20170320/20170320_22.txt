@@ -1,0 +1,3 @@
+2017-03-20 22:00:15 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/704/2017], ID dokumentu: [3443], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [Starter do jarzeniówki oświetlenia zewnętrznego], ID urządzenia: [153], Ilość: [2]
+2017-03-20 22:00:15 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/704/2017], ID dokumentu: [3443], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [Jarzeniówka oświetlenie zewnętrzne], ID urządzenia: [151], Ilość: [2]
+2017-03-20 22:38:40 - [INFO] --> Logowanie użytkownika: [mjanek]

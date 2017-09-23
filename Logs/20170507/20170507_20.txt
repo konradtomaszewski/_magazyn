@@ -1,0 +1,7 @@
+2017-05-07 20:34:02 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-05-07 20:34:53 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Nowiński], Urządzenie: [Czytnik UX300], Id urządzenia: [161], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [412]
+2017-05-07 20:34:53 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [70729], ID urządzenia: [161], Serwisant: [tnowinski]
+2017-05-07 20:35:15 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Nowiński], Urządzenie: [Drukarka Edmonson duża BTVM-1], Id urządzenia: [148], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [132]
+2017-05-07 20:35:15 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [70730], ID urządzenia: [148], Serwisant: [tnowinski]
+2017-05-07 20:57:55 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1053/2017], ID dokumentu: [4710], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [Czytnik UX300], ID urządzenia: [161], Ilość: [1]
+2017-05-07 20:57:55 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1053/2017], ID dokumentu: [4710], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]

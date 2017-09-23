@@ -1,0 +1,3 @@
+2016-12-06 7:46:37 - [INFO] --> Logowanie użytkownika: [manager]
+2016-12-06 7:50:21 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-12-06 7:55:54 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [6277], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2715], Nr automatu: [5280]

@@ -1,0 +1,2 @@
+2017-02-12 22:16:30 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-02-12 22:42:47 - [INFO] --> Logowanie użytkownika: [wperko]

@@ -1,0 +1,5 @@
+2017-01-04 4:23:42 - [INFO] --> Logowanie użytkownika: [pmikucki]
+2017-01-04 4:35:59 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Paweł Mikucki], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [2702], Nr automatu: [5267]
+2017-01-04 4:35:59 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [12327], ID urządzenia: [129], Serwisant: [pmikucki]
+2017-01-04 4:36:27 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Paweł Mikucki], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [3102], Nr automatu: [5764]
+2017-01-04 4:36:27 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [12328], ID urządzenia: [129], Serwisant: [pmikucki]

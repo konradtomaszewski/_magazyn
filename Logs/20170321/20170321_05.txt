@@ -1,0 +1,2 @@
+2017-03-21 5:53:58 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
+2017-03-21 5:56:44 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/705/2017], ID dokumentu: [3444], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [3]

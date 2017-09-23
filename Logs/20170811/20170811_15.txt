@@ -1,0 +1,2 @@
+2017-08-11 15:04:12 - [INFO] --> Logowanie użytkownika: [abukalo]
+2017-08-11 15:11:11 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Arkadiusz Bukało], Urządzenie: [antena coin box], Id urządzenia: [2], Ilość: [-1]

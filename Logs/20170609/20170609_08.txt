@@ -1,0 +1,7 @@
+2017-06-09 8:01:41 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-06-09 8:02:51 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-06-09 8:40:33 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-06-09 8:52:00 - [INFO] --> Logowanie użytkownika: [mstaniszewski]
+2017-06-09 8:55:08 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Marcin Staniszewski], Urządzenie: [Drukarka Edmonson duża BTVM-1], Id urządzenia: [148], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [227]
+2017-06-09 8:55:08 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [87960], ID urządzenia: [148], Serwisant: [mstaniszewski]
+2017-06-09 8:57:29 - [INFO] --> Logowanie użytkownika: [serwisant1]

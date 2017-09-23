@@ -1,0 +1,6 @@
+2016-11-15 10:36:56 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/169/2016], ID dokumentu: [310], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [Akumulator 12V 2,3 Ah], ID urządzenia: [58], Ilość: [1]
+2016-11-15 10:36:57 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/169/2016], ID dokumentu: [310], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [Komputer PC 104 AMD GEODE 500 (EVOC:EC3-1641 CLDNA)], ID urządzenia: [65], Ilość: [1]
+2016-11-15 10:37:25 - [INFO] --> Logowanie użytkownika: [tkarabiniewicz]
+2016-11-15 10:39:37 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Karabiniewicz], Urządzenie: [Akumulator 12V 2,3 Ah], Id urządzenia: [58], Ilość: [-1], Nr boczny pojazdu: [5608], Nr automatu: [5760]
+2016-11-15 10:40:36 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Karabiniewicz], Urządzenie: [Komputer PC 104 AMD GEODE 500 (EVOC:EC3-1641 CLDNA)], Id urządzenia: [65], Ilość: [-1], Nr boczny pojazdu: [7001], Nr automatu: [5569]
+2016-11-15 10:40:47 - [INFO] --> Logowanie użytkownika: [kjasinski]

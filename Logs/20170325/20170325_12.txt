@@ -1,0 +1,3 @@
+2017-03-25 12:31:31 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-03-25 12:33:57 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/679/2017], ID dokumentu: [3580], Nazwa serisanta: [Paweł Mikucki], ID serwisanta: [42], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
+2017-03-25 12:33:58 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/679/2017], ID dokumentu: [3580], Nazwa serisanta: [Paweł Mikucki], ID serwisanta: [42], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [3]

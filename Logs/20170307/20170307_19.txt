@@ -1,0 +1,7 @@
+2017-03-07 19:16:15 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-03-07 19:20:36 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/598/2017], ID dokumentu: [3020], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [2]
+2017-03-07 19:20:46 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/599/2017], ID dokumentu: [3021], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
+2017-03-07 19:23:10 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/600/2017], ID dokumentu: [3022], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [2]
+2017-03-07 19:23:21 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/601/2017], ID dokumentu: [3023], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [BNA], ID urządzenia: [7], Ilość: [1]
+2017-03-07 19:25:38 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-03-07 19:25:50 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/602/2017], ID dokumentu: [3024], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [drukarka (Thino)], ID urządzenia: [17], Ilość: [1]

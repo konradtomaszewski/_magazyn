@@ -1,0 +1,2 @@
+2017-01-09 23:05:44 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-01-09 23:11:29 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

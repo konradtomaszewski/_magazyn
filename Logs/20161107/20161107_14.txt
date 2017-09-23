@@ -1,0 +1,5 @@
+2016-11-07 14:25:12 - [INFO] --> Logowanie użytkownika: [vector_test]
+2016-11-07 14:53:16 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-11-07 14:53:49 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/140/2016], ID dokumentu: [247], Nazwa serisanta: [Wojciech Perko], ID serwisanta: [11], Nazwa urządzenia: [Wyświetlacz LCD 15 cali], ID urządzenia: [25], Ilość: [1]
+2016-11-07 14:54:04 - [INFO] --> Logowanie użytkownika: [wperko]
+2016-11-07 14:54:16 - [INFO] --> Logowanie użytkownika: [kjasinski]

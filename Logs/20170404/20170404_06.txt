@@ -1,0 +1,7 @@
+2017-04-04 6:01:36 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
+2017-04-04 6:05:54 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/827/2017], ID dokumentu: [3864], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
+2017-04-04 6:05:54 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/827/2017], ID dokumentu: [3864], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
+2017-04-04 6:07:22 - [INFO] --> Logowanie użytkownika: [znowak]
+2017-04-04 6:27:18 - [INFO] --> Logowanie użytkownika: [rstawieraj]
+2017-04-04 6:27:40 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/828/2017], ID dokumentu: [3865], Nazwa serisanta: [Rafał Stawieraj], ID serwisanta: [33], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
+2017-04-04 6:28:22 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/829/2017], ID dokumentu: [3866], Nazwa serisanta: [Rafał Stawieraj], ID serwisanta: [33], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [4]

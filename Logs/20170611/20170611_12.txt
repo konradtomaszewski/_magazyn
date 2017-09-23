@@ -1,0 +1,5 @@
+2017-06-11 12:10:07 - [INFO] --> Logowanie użytkownika: [znowak]
+2017-06-11 12:11:12 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Zygmunt Nowak], Urządzenie: [Drukarka Edmonson duża BTVM-1], Id urządzenia: [148], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [473]
+2017-06-11 12:11:12 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [88955], ID urządzenia: [148], Serwisant: [znowak]
+2017-06-11 12:11:38 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Zygmunt Nowak], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [184]
+2017-06-11 12:11:38 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [88956], ID urządzenia: [149], Serwisant: [znowak]

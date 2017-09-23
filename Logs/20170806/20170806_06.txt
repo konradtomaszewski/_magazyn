@@ -1,0 +1,2 @@
+2017-08-06 6:04:01 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
+2017-08-06 6:24:34 - [INFO] --> Logowanie użytkownika: [tnowinski]

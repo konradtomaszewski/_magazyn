@@ -1,0 +1,6 @@
+2017-08-27 14:26:58 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-08-27 14:27:23 - [INFO] --> Logowanie użytkownika: [serwisant_n]
+2017-08-27 14:29:47 - [INFO] --> Logowanie użytkownika: [mstaniszewski]
+2017-08-27 14:30:36 - [INFO] --> Logowanie użytkownika: [serwisant_s]
+2017-08-27 14:30:47 - [ERROR] --> Nieudane logowanie użytkownika: [dgasiewski]
+2017-08-27 14:31:40 - [INFO] --> Logowanie użytkownika: [dgasiewski]

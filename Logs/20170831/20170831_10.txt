@@ -1,0 +1,14 @@
+2017-08-31 10:10:48 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-08-31 10:11:40 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [133512], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [304]
+2017-08-31 10:12:21 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [133047], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [390]
+2017-08-31 10:12:49 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [133046], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [142]
+2017-08-31 10:13:31 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [132943], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [226]
+2017-08-31 10:19:12 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [133514], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [405]
+2017-08-31 10:19:52 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [13], ID damaged_devices: [15151]
+2017-08-31 10:19:52 - [INFO] --> UPDATE damaged_devices SET arrival_id='7997', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='15151' AND product_id='13' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-31 10:19:52 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [43], ID damaged_devices: [15152]
+2017-08-31 10:19:52 - [INFO] --> UPDATE damaged_devices SET arrival_id='7997', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='15152' AND product_id='43' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-31 10:19:52 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [1], ID damaged_devices: [15142]
+2017-08-31 10:19:52 - [INFO] --> UPDATE damaged_devices SET arrival_id='7997', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='15142' AND product_id='1' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-31 10:19:52 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [42], ID damaged_devices: [15211]
+2017-08-31 10:19:52 - [INFO] --> UPDATE damaged_devices SET arrival_id='7997', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='15211' AND product_id='42' AND damaged_devices_status_id='1' and id > '147' 

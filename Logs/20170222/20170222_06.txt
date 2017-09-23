@@ -1,0 +1,2 @@
+2017-02-22 6:09:45 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-02-22 6:11:16 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/482/2017], ID dokumentu: [2598], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [3]

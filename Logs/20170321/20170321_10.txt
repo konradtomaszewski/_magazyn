@@ -1,0 +1,64 @@
+2017-03-21 10:22:51 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-03-21 10:23:45 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47279], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [253]
+2017-03-21 10:23:45 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47279], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [253]
+2017-03-21 10:23:45 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47578], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [233]
+2017-03-21 10:23:45 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47579], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [472]
+2017-03-21 10:23:45 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47580], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [264]
+2017-03-21 10:24:16 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47326], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [388]
+2017-03-21 10:24:16 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47327], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [430]
+2017-03-21 10:24:16 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47324], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [103]
+2017-03-21 10:24:16 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47325], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [347]
+2017-03-21 10:24:44 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47704], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [391]
+2017-03-21 10:30:40 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47328], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [422]
+2017-03-21 10:31:03 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [46218], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [215]
+2017-03-21 10:31:52 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [7], ID damaged_devices: [5121]
+2017-03-21 10:31:52 - [INFO] --> UPDATE damaged_devices SET arrival_id='3457', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='5121' AND product_id='7' AND damaged_devices_status_id='1' and id > '147' 
+2017-03-21 10:31:52 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [7], ID damaged_devices: [4979]
+2017-03-21 10:31:52 - [INFO] --> UPDATE damaged_devices SET arrival_id='3457', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='4979' AND product_id='7' AND damaged_devices_status_id='1' and id > '147' 
+2017-03-21 10:31:53 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [16], ID damaged_devices: [5131]
+2017-03-21 10:31:53 - [INFO] --> UPDATE damaged_devices SET arrival_id='3457', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='5131' AND product_id='16' AND damaged_devices_status_id='1' and id > '147' 
+2017-03-21 10:31:53 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [148], ID damaged_devices: [4985]
+2017-03-21 10:31:53 - [INFO] --> UPDATE damaged_devices SET arrival_id='3457', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='4985' AND product_id='148' AND damaged_devices_status_id='1' and id > '147' 
+2017-03-21 10:31:53 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [148], ID damaged_devices: [5038]
+2017-03-21 10:31:53 - [INFO] --> UPDATE damaged_devices SET arrival_id='3457', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='5038' AND product_id='148' AND damaged_devices_status_id='1' and id > '147' 
+2017-03-21 10:31:53 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [148], ID damaged_devices: [4988]
+2017-03-21 10:31:53 - [INFO] --> UPDATE damaged_devices SET arrival_id='3457', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='4988' AND product_id='148' AND damaged_devices_status_id='1' and id > '147' 
+2017-03-21 10:31:53 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [151], ID damaged_devices: [5107]
+2017-03-21 10:31:53 - [INFO] --> UPDATE damaged_devices SET arrival_id='3457', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='5107' AND product_id='151' AND damaged_devices_status_id='1' and id > '147' 
+2017-03-21 10:31:53 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [151], ID damaged_devices: [5108]
+2017-03-21 10:31:53 - [INFO] --> UPDATE damaged_devices SET arrival_id='3457', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='5108' AND product_id='151' AND damaged_devices_status_id='1' and id > '147' 
+2017-03-21 10:31:53 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [139], ID damaged_devices: [4996]
+2017-03-21 10:31:53 - [INFO] --> UPDATE damaged_devices SET arrival_id='3457', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='4996' AND product_id='139' AND damaged_devices_status_id='1' and id > '147' 
+2017-03-21 10:31:54 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [144], ID damaged_devices: [5114]
+2017-03-21 10:31:54 - [INFO] --> UPDATE damaged_devices SET arrival_id='3457', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='5114' AND product_id='144' AND damaged_devices_status_id='1' and id > '147' 
+2017-03-21 10:31:54 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [153], ID damaged_devices: [5110]
+2017-03-21 10:31:54 - [INFO] --> UPDATE damaged_devices SET arrival_id='3457', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='5110' AND product_id='153' AND damaged_devices_status_id='1' and id > '147' 
+2017-03-21 10:31:54 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [153], ID damaged_devices: [5111]
+2017-03-21 10:31:54 - [INFO] --> UPDATE damaged_devices SET arrival_id='3457', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='5111' AND product_id='153' AND damaged_devices_status_id='1' and id > '147' 
+2017-03-21 10:33:39 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47323], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [103]
+2017-03-21 10:35:24 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47641], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [422]
+2017-03-21 10:36:59 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [46162], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [120]
+2017-03-21 10:38:12 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47278], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [390]
+2017-03-21 10:38:49 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [46858], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [317]
+2017-03-21 10:39:37 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [46904], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [498]
+2017-03-21 10:42:24 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [46617], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [209]
+2017-03-21 10:42:24 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47706], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [219]
+2017-03-21 10:42:24 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47707], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [391]
+2017-03-21 10:43:42 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [46410], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [166]
+2017-03-21 10:44:30 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47700], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [135]
+2017-03-21 10:44:30 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47705], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [135]
+2017-03-21 10:44:30 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47709], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [135]
+2017-03-21 10:44:58 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [46615], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [261]
+2017-03-21 10:45:24 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [46416], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [304]
+2017-03-21 10:46:23 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [46217], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [311]
+2017-03-21 10:46:46 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [46412], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [431]
+2017-03-21 10:47:38 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47701], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [137]
+2017-03-21 10:47:38 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47702], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [138]
+2017-03-21 10:47:39 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47703], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [136]
+2017-03-21 10:49:55 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [46163], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [233]
+2017-03-21 10:52:37 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47623], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [265]
+2017-03-21 10:54:14 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47654], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [208]
+2017-03-21 10:54:38 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [46856], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [317]
+2017-03-21 10:55:14 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [46616], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [209]
+2017-03-21 10:55:14 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [46411], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [166]
+2017-03-21 10:55:14 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47708], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [219]

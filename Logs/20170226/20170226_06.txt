@@ -1,0 +1,4 @@
+2017-02-26 6:09:01 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
+2017-02-26 6:13:18 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/516/2017], ID dokumentu: [2717], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [7]
+2017-02-26 6:17:54 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
+2017-02-26 6:23:28 - [INFO] --> Logowanie użytkownika: [tnowinski]

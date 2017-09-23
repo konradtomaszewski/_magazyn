@@ -1,0 +1,5 @@
+2017-05-17 12:04:09 - [INFO] --> Logowanie użytkownika: [dostawy]
+2017-05-17 12:04:43 - [INFO] --> Typ dokumentu: [Dostawa części (do zatwierdzenia)], Nazwa dokumentu:  [WAR/N/72/2017],  Nazwa urządzenia: [EM papier paragonowy], ID urządzenia: [157], Ilość: [18]
+2017-05-17 12:05:07 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-05-17 12:05:19 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WAR/N/72/2017],  Nazwa urządzenia: [EM papier paragonowy], ID urządzenia: [157], Ilość: [18]
+2017-05-17 12:25:43 - [INFO] --> Logowanie użytkownika: [mprzybylski]

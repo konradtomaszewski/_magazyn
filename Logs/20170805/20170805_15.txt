@@ -1,0 +1,5 @@
+2017-08-05 15:03:44 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-08-05 15:42:04 - [INFO] --> Logowanie użytkownika: [smiernik]
+2017-08-05 15:43:17 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1651/2017], ID dokumentu: [7351], Nazwa serisanta: [Szymon Miernik], ID serwisanta: [7], Nazwa urządzenia: [pinpad SB], ID urządzenia: [31], Ilość: [1]
+2017-08-05 15:43:34 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Szymon Miernik], Urządzenie: [pinpad SB], Id urządzenia: [31], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [530]
+2017-08-05 15:43:34 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [121149], ID urządzenia: [31], Serwisant: [smiernik]

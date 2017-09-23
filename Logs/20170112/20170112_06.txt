@@ -1,0 +1,8 @@
+2017-01-12 6:00:22 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/104/2017], ID dokumentu: [1272], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [akceptor ( wlot )], ID urządzenia: [1], Ilość: [1]
+2017-01-12 6:11:18 - [INFO] --> Logowanie użytkownika: [tkopyra]
+2017-01-12 6:16:51 - [INFO] --> Logowanie użytkownika: [jczajka]
+2017-01-12 6:18:41 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/105/2017], ID dokumentu: [1273], Nazwa serisanta: [Tadeusz Kopyra], ID serwisanta: [32], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [2]
+2017-01-12 6:18:58 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-01-12 6:20:35 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/106/2017], ID dokumentu: [1274], Nazwa serisanta: [Tadeusz Kopyra], ID serwisanta: [32], Nazwa urządzenia: [Bateria zamka], ID urządzenia: [145], Ilość: [2]
+2017-01-12 6:21:33 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/106/2017], ID dokumentu: [1275], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
+2017-01-12 6:23:28 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/107/2017], ID dokumentu: [1276], Nazwa serisanta: [Tadeusz Kopyra], ID serwisanta: [32], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]

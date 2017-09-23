@@ -1,0 +1,59 @@
+2017-03-27 14:00:03 - [INFO] --> Logowanie użytkownika: [lmazurowski]
+2017-03-27 14:00:12 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Łukasz Mazurowski], Urządzenie: [akceptor ( wlot )], Id urządzenia: [1], Ilość: [-1]
+2017-03-27 14:00:12 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-27 14:00:12 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Łukasz Mazurowski], Urządzenie: [CR (manualny)], Id urządzenia: [14], Ilość: [-2]
+2017-03-27 14:00:12 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-27 14:00:12 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Łukasz Mazurowski], Urządzenie: [mifare], Id urządzenia: [26], Ilość: [-1]
+2017-03-27 14:00:12 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-27 14:00:12 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Łukasz Mazurowski], Urządzenie: [modem], Id urządzenia: [27], Ilość: [-2]
+2017-03-27 14:00:12 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-27 14:00:12 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Łukasz Mazurowski], Urządzenie: [pinpad SB], Id urządzenia: [31], Ilość: [-1]
+2017-03-27 14:00:12 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-27 14:00:12 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Łukasz Mazurowski], Urządzenie: [płytka do powerbox], Id urządzenia: [35], Ilość: [-1]
+2017-03-27 14:00:12 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-27 14:00:12 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Łukasz Mazurowski], Urządzenie: [przejściówka do modemu], Id urządzenia: [36], Ilość: [-2]
+2017-03-27 14:00:12 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-27 14:00:12 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Łukasz Mazurowski], Urządzenie: [sortownik], Id urządzenia: [39], Ilość: [-1]
+2017-03-27 14:00:12 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-27 14:00:12 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Łukasz Mazurowski], Urządzenie: [walidator (NRI)], Id urządzenia: [42], Ilość: [-1]
+2017-03-27 14:00:12 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-27 14:00:12 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Łukasz Mazurowski], Urządzenie: [ZCGVA], Id urządzenia: [44], Ilość: [-1]
+2017-03-27 14:00:12 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-27 14:00:12 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Łukasz Mazurowski], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1]
+2017-03-27 14:00:12 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-27 14:00:12 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Łukasz Mazurowski], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-2]
+2017-03-27 14:00:12 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-27 14:00:34 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Jasiński serwisant], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [321]
+2017-03-27 14:00:34 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-27 14:00:34 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51106], ID urządzenia: [128], Serwisant: [tjasinski_s]
+2017-03-27 14:01:24 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Jasiński serwisant], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [431]
+2017-03-27 14:01:24 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-27 14:01:24 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51107], ID urządzenia: [149], Serwisant: [tjasinski_s]
+2017-03-27 14:02:04 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Jasiński serwisant], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [122]
+2017-03-27 14:02:04 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-27 14:02:04 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51108], ID urządzenia: [149], Serwisant: [tjasinski_s]
+2017-03-27 14:02:31 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Jasiński serwisant], Urządzenie: [Drukarka Edmonson duża BTVM-1], Id urządzenia: [148], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [122]
+2017-03-27 14:02:31 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-27 14:02:31 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51109], ID urządzenia: [148], Serwisant: [tjasinski_s]
+2017-03-27 14:03:43 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Jasiński serwisant], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [493]
+2017-03-27 14:03:43 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-27 14:03:43 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51110], ID urządzenia: [149], Serwisant: [tjasinski_s]
+2017-03-27 14:05:11 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/757/2017], ID dokumentu: [3636], Nazwa serisanta: [Tomasz Jasiński serwisant], ID serwisanta: [39], Nazwa urządzenia: [Jarzeniówka oświetlenie zewnętrzne], ID urządzenia: [151], Ilość: [2]
+2017-03-27 14:05:11 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/757/2017], ID dokumentu: [3636], Nazwa serisanta: [Tomasz Jasiński serwisant], ID serwisanta: [39], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
+2017-03-27 14:23:34 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-03-27 14:24:23 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-03-27 14:25:46 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-03-27 14:35:35 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
+2017-03-27 14:37:35 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-03-27 14:39:27 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-03-27 14:39:29 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-03-27 14:39:37 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-03-27 14:40:24 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
+2017-03-27 14:40:28 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Daniel Gąsiewski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [218]
+2017-03-27 14:40:28 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-27 14:40:28 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51113], ID urządzenia: [149], Serwisant: [dgasiewski]
+2017-03-27 14:41:25 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Daniel Gąsiewski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [109]
+2017-03-27 14:41:25 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-27 14:41:25 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51162], ID urządzenia: [149], Serwisant: [dgasiewski]
+2017-03-27 14:52:16 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-03-27 14:53:50 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/758/2017], ID dokumentu: [3639], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [2]

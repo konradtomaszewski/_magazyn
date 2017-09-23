@@ -1,0 +1,8 @@
+2017-03-16 20:35:59 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
+2017-03-16 20:36:31 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Dariusz Nowakowski- Serwisant], Urządzenie: [Pleksi kieszeni na bilet], Id urządzenia: [144], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [166]
+2017-03-16 20:36:31 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [45796], ID urządzenia: [144], Serwisant: [dnowakowski_s]
+2017-03-16 20:36:45 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
+2017-03-16 20:37:08 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Dariusz Nowakowski- Serwisant], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [225]
+2017-03-16 20:37:08 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [45797], ID urządzenia: [149], Serwisant: [dnowakowski_s]
+2017-03-16 20:37:49 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Dariusz Nowakowski- Serwisant], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [473]
+2017-03-16 20:37:49 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [45798], ID urządzenia: [149], Serwisant: [dnowakowski_s]

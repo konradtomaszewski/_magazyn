@@ -1,0 +1,4 @@
+2017-01-19 15:12:19 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-01-19 15:12:27 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WAR/N/23/2017],  Nazwa urządzenia: [Bateria zamka], ID urządzenia: [42], Ilość: [2]
+2017-01-19 15:12:27 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WAR/N/23/2017],  Nazwa urządzenia: [Bateria zamka], ID urządzenia: [145], Ilość: [1]
+2017-01-19 15:12:27 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WAR/N/23/2017],  Nazwa urządzenia: [Bateria zamka], ID urządzenia: [148], Ilość: [7]

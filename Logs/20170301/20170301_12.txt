@@ -1,0 +1,2 @@
+2017-03-01 12:03:03 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [33389], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [232]
+2017-03-01 12:16:10 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [34747], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [248]

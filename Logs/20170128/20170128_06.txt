@@ -1,0 +1,3 @@
+2017-01-28 6:13:45 - [INFO] --> Logowanie użytkownika: [jczajka]
+2017-01-28 6:14:56 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/270/2017], ID dokumentu: [1800], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]
+2017-01-28 6:29:44 - [INFO] --> Logowanie użytkownika: [tjasinski_s]

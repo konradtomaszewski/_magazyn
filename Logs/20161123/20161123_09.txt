@@ -1,0 +1,8 @@
+2016-11-23 9:06:39 - [INFO] --> Logowanie użytkownika: [mennica_test]
+2016-11-23 9:07:09 - [INFO] --> Logowanie użytkownika: [vector_test]
+2016-11-23 9:12:44 - [INFO] --> Logowanie użytkownika: [manager]
+2016-11-23 9:17:54 - [INFO] --> Logowanie użytkownika: [msieradzki]
+2016-11-23 9:18:13 - [INFO] --> Logowanie użytkownika: [mprzybylski]
+2016-11-23 9:18:48 - [INFO] --> Logowanie użytkownika: [vector_test]
+2016-11-23 9:21:39 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/210/2016], ID dokumentu: [383], Nazwa serisanta: [Wojciech Perko], ID serwisanta: [11], Nazwa urządzenia: [BNA], ID urządzenia: [7], Ilość: [1]
+2016-11-23 9:45:34 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/211/2016], ID dokumentu: [384], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [Zasilacz], ID urządzenia: [43], Ilość: [2]

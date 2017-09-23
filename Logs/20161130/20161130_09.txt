@@ -1,0 +1,3 @@
+2016-11-30 9:42:28 - [INFO] --> Logowanie użytkownika: [krzysztof]
+2016-11-30 9:42:52 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Krzysztof Jasiński - Serwisant], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [529]
+2016-11-30 9:42:52 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [5275], ID urządzenia: [130], Serwisant: [krzysztof]

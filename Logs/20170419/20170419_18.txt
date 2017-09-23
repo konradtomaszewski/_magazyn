@@ -1,0 +1,7 @@
+2017-04-19 18:34:50 - [ERROR] --> Nieudane logowanie użytkownika: [tkarabiniewcz]
+2017-04-19 18:35:03 - [ERROR] --> Nieudane logowanie użytkownika: [tkarabiniewcz]
+2017-04-19 18:35:03 - [ERROR] --> Nieudane logowanie użytkownika: [tkarabiniewcz]
+2017-04-19 18:35:20 - [ERROR] --> Nieudane logowanie użytkownika: [tkarabiniewcz]
+2017-04-19 18:35:42 - [INFO] --> Logowanie użytkownika: [tkarabiniewicz]
+2017-04-19 18:36:00 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Karabiniewicz], Urządzenie: [pinpad SB], Id urządzenia: [31], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [551]
+2017-04-19 18:36:00 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [62522], ID urządzenia: [31], Serwisant: [tkarabiniewicz]

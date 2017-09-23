@@ -1,0 +1,2 @@
+2016-11-09 22:19:26 - [ERROR] --> Nieudane logowanie użytkownika: [msieradzki]
+2016-11-09 22:19:43 - [INFO] --> Logowanie użytkownika: [msieradzki]

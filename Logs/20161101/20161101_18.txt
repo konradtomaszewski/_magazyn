@@ -1,0 +1,1 @@
+2016-11-01 18:48:26 - [INFO] --> Logowanie użytkownika: [vector_test]

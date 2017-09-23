@@ -1,0 +1,7 @@
+2017-02-16 12:03:52 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/357/2017], ID dokumentu: [2432], Nazwa serisanta: [Krzysztof Jasiński - Serwisant], ID serwisanta: [22], Nazwa urządzenia: [Mechanizm drukujący SEIKO z obcinaczem], ID urządzenia: [67], Ilość: [1]
+2017-02-16 12:05:21 - [INFO] --> Logowanie użytkownika: [krzysztof]
+2017-02-16 12:09:53 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Krzysztof Jasiński - Serwisant], Urządzenie: [Mechanizm drukujący SEIKO z obcinaczem], Id urządzenia: [67], Ilość: [-1], Nr boczny pojazdu: [2509], Nr automatu: [5058]
+2017-02-16 12:09:53 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [31487], ID urządzenia: [67], Serwisant: [krzysztof]
+2017-02-16 12:28:07 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-02-16 12:45:46 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [29163], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [633]
+2017-02-16 12:46:06 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [30052], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [563]

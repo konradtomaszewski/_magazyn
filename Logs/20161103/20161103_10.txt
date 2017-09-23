@@ -1,0 +1,4 @@
+2016-11-03 10:52:26 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-11-03 10:55:18 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/120/2016], ID dokumentu: [216], Nazwa serisanta: [Wojciech Perko], ID serwisanta: [11], Nazwa urządzenia: [PC], ID urządzenia: [30], Ilość: [1]
+2016-11-03 10:55:37 - [INFO] --> Logowanie użytkownika: [wperko]
+2016-11-03 10:56:26 - [INFO] --> Logowanie użytkownika: [kjasinski]

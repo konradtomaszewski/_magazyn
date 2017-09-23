@@ -1,0 +1,4 @@
+2016-11-26 18:19:36 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-11-26 18:19:59 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [4583], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2283], Nr automatu: [5152]
+2016-11-26 18:20:33 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/243/2016], ID dokumentu: [440], Nazwa serisanta: [Artur Buller], ID serwisanta: [6], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
+2016-11-26 18:20:33 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/243/2016], ID dokumentu: [440], Nazwa serisanta: [Artur Buller], ID serwisanta: [6], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [3]

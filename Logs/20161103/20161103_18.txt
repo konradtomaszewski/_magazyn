@@ -1,0 +1,4 @@
+2016-11-03 18:08:44 - [INFO] --> Logowanie użytkownika: [cskwarzynski]
+2016-11-03 18:08:59 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-11-03 18:09:34 - [INFO] --> Logowanie użytkownika: [kwiaterski]
+2016-11-03 18:11:54 - [INFO] --> Logowanie użytkownika: [kjasinski]

@@ -1,0 +1,15 @@
+2016-12-19 13:15:03 - [INFO] --> Logowanie użytkownika: [abuller]
+2016-12-19 13:15:53 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-12-19 13:19:07 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [66], ID damaged_devices: [990]
+2016-12-19 13:19:07 - [INFO] --> UPDATE damaged_devices SET arrival_id='749', damaged_devices_status_id='4', mennica_service_id='2', change_status_datetime=NOW() WHERE id='990' AND product_id='66' AND damaged_devices_status_id='1' and id > '147' 
+2016-12-19 13:19:07 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [66], ID damaged_devices: [904]
+2016-12-19 13:19:07 - [INFO] --> UPDATE damaged_devices SET arrival_id='749', damaged_devices_status_id='4', mennica_service_id='2', change_status_datetime=NOW() WHERE id='904' AND product_id='66' AND damaged_devices_status_id='1' and id > '147' 
+2016-12-19 13:19:07 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [66], ID damaged_devices: [903]
+2016-12-19 13:19:07 - [INFO] --> UPDATE damaged_devices SET arrival_id='749', damaged_devices_status_id='4', mennica_service_id='2', change_status_datetime=NOW() WHERE id='903' AND product_id='66' AND damaged_devices_status_id='1' and id > '147' 
+2016-12-19 13:19:07 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [66], ID damaged_devices: [1099]
+2016-12-19 13:19:07 - [INFO] --> UPDATE damaged_devices SET arrival_id='749', damaged_devices_status_id='4', mennica_service_id='2', change_status_datetime=NOW() WHERE id='1099' AND product_id='66' AND damaged_devices_status_id='1' and id > '147' 
+2016-12-19 13:19:07 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [75], ID damaged_devices: [1100]
+2016-12-19 13:19:07 - [INFO] --> UPDATE damaged_devices SET arrival_id='749', damaged_devices_status_id='4', mennica_service_id='2', change_status_datetime=NOW() WHERE id='1100' AND product_id='75' AND damaged_devices_status_id='1' and id > '147' 
+2016-12-19 13:19:17 - [INFO] --> Logowanie użytkownika: [abuller]
+2016-12-19 13:50:00 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-12-19 13:55:53 - [INFO] --> Logowanie użytkownika: [tkarabiniewicz]

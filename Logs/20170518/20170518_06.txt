@@ -1,0 +1,6 @@
+2017-05-18 6:11:07 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-05-18 6:15:44 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-05-18 6:16:16 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Daniel Gąsiewski], Urządzenie: [Zasilacz], Id urządzenia: [43], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [426]
+2017-05-18 6:16:16 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [76034], ID urządzenia: [43], Serwisant: [dgasiewski]
+2017-05-18 6:17:23 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1116/2017], ID dokumentu: [4996], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [Zasilacz], ID urządzenia: [43], Ilość: [1]
+2017-05-18 6:45:55 - [INFO] --> Logowanie użytkownika: [tjasinski]

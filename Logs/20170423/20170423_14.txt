@@ -1,0 +1,7 @@
+2017-04-23 14:12:58 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-04-23 14:25:08 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-04-23 14:31:44 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-04-23 14:35:40 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Rafał Tworkowski], Urządzenie: [Bateria zamka], Id urządzenia: [145], Ilość: [-1]
+2017-04-23 14:37:07 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/953/2017], ID dokumentu: [4366], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
+2017-04-23 14:39:49 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/954/2017], ID dokumentu: [4367], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [7]
+2017-04-23 14:43:45 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/955/2017], ID dokumentu: [4368], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Zasilacz], ID urządzenia: [43], Ilość: [1]

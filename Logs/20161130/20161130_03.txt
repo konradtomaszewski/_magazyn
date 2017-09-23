@@ -1,0 +1,3 @@
+2016-11-30 3:59:07 - [INFO] --> Logowanie użytkownika: [msieradzki]
+2016-11-30 3:59:37 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mariusz Sieradzki], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [2231], Nr automatu: [5116]
+2016-11-30 3:59:37 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [5216], ID urządzenia: [129], Serwisant: [msieradzki]

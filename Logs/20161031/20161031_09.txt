@@ -1,0 +1,2 @@
+2016-10-31 9:26:04 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/100/2016], ID dokumentu: [183], Nazwa serisanta: [Łukasz Mazurowski], ID serwisanta: [9], Nazwa urządzenia: [MAIN (WRDE 0141)], ID urządzenia: [66], Ilość: [1]
+2016-10-31 9:50:09 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/100/2016], ID dokumentu: [184], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [Akumulator żelowy 12V 2,3 Ah], ID urządzenia: [58], Ilość: [38]

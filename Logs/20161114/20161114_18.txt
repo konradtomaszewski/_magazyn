@@ -1,0 +1,4 @@
+2016-11-14 18:31:44 - [INFO] --> Logowanie użytkownika: [vector_test]
+2016-11-14 18:33:35 - [INFO] --> Logowanie użytkownika: [vector_test]
+2016-11-14 18:34:36 - [INFO] --> Logowanie użytkownika: [abuller]
+2016-11-14 18:34:55 - [INFO] --> Logowanie użytkownika: [vector_test]

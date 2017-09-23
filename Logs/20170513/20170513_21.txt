@@ -1,0 +1,2 @@
+2017-05-13 21:00:34 - [INFO] --> Logowanie użytkownika: [mprzybylski]
+2017-05-13 21:37:36 - [INFO] --> Logowanie użytkownika: [smiernik]

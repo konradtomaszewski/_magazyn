@@ -1,0 +1,99 @@
+2017-03-28 5:17:20 - [INFO] --> Logowanie użytkownika: [krechul]
+2017-03-28 5:17:57 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Krystian Rechul], Urządzenie: [Sprężyna do koszyka w biletomacie BM 101], Id urządzenia: [134], Ilość: [-1], Nr boczny pojazdu: [8334], Nr automatu: [5541]
+2017-03-28 5:17:57 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:17:57 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51420], ID urządzenia: [134], Serwisant: [krechul]
+2017-03-28 5:17:57 - [INFO] --> Sprawdzono spójność danych w damaged devices
+2017-03-28 5:18:28 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Krystian Rechul], Urządzenie: [Sprężyna do koszyka w biletomacie BM 101], Id urządzenia: [134], Ilość: [-1], Nr boczny pojazdu: [8339], Nr automatu: [5546]
+2017-03-28 5:18:28 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:18:28 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51421], ID urządzenia: [134], Serwisant: [krechul]
+2017-03-28 5:18:28 - [INFO] --> Sprawdzono spójność danych w damaged devices
+2017-03-28 5:19:25 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Krystian Rechul], Urządzenie: [zespół drukarki do BM101 (stelaż, mechanizm druk., sterownik)], Id urządzenia: [76], Ilość: [-1], Nr boczny pojazdu: [8339], Nr automatu: [5546]
+2017-03-28 5:19:25 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:19:25 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51422], ID urządzenia: [76], Serwisant: [krechul]
+2017-03-28 5:19:25 - [INFO] --> Sprawdzono spójność danych w damaged devices
+2017-03-28 5:19:52 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Krystian Rechul], Urządzenie: [Sprężyna do koszyka w biletomacie BM 101], Id urządzenia: [134], Ilość: [-1], Nr boczny pojazdu: [5426], Nr automatu: [5732]
+2017-03-28 5:19:52 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:19:52 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51423], ID urządzenia: [134], Serwisant: [krechul]
+2017-03-28 5:19:52 - [INFO] --> Sprawdzono spójność danych w damaged devices
+2017-03-28 5:20:55 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Krystian Rechul], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [4607], Nr automatu: [5117]
+2017-03-28 5:20:55 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:20:55 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51424], ID urządzenia: [129], Serwisant: [krechul]
+2017-03-28 5:20:55 - [INFO] --> Sprawdzono spójność danych w damaged devices
+2017-03-28 5:21:22 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Krystian Rechul], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [4613], Nr automatu: [5169]
+2017-03-28 5:21:22 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:21:22 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51425], ID urządzenia: [129], Serwisant: [krechul]
+2017-03-28 5:21:22 - [INFO] --> Sprawdzono spójność danych w damaged devices
+2017-03-28 5:21:51 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Krystian Rechul], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [5414], Nr automatu: [5565]
+2017-03-28 5:21:51 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:21:51 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51426], ID urządzenia: [129], Serwisant: [krechul]
+2017-03-28 5:21:51 - [INFO] --> Sprawdzono spójność danych w damaged devices
+2017-03-28 5:22:20 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Krystian Rechul], Urządzenie: [Antena dwupasmowa GSM/GPS], Id urządzenia: [59], Ilość: [-1], Nr boczny pojazdu: [5414], Nr automatu: [5565]
+2017-03-28 5:22:20 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:22:20 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51427], ID urządzenia: [59], Serwisant: [krechul]
+2017-03-28 5:22:20 - [INFO] --> Sprawdzono spójność danych w damaged devices
+2017-03-28 5:22:48 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Krystian Rechul], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [5609], Nr automatu: [5758]
+2017-03-28 5:22:48 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:22:48 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51428], ID urządzenia: [129], Serwisant: [krechul]
+2017-03-28 5:22:48 - [INFO] --> Sprawdzono spójność danych w damaged devices
+2017-03-28 5:23:16 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Krystian Rechul], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [7030], Nr automatu: [5598]
+2017-03-28 5:23:16 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:23:16 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51429], ID urządzenia: [129], Serwisant: [krechul]
+2017-03-28 5:23:16 - [INFO] --> Sprawdzono spójność danych w damaged devices
+2017-03-28 5:23:43 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Krystian Rechul], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [8040], Nr automatu: [5501]
+2017-03-28 5:23:43 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:23:43 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51430], ID urządzenia: [129], Serwisant: [krechul]
+2017-03-28 5:23:43 - [INFO] --> Sprawdzono spójność danych w damaged devices
+2017-03-28 5:24:17 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Krystian Rechul], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [8079], Nr automatu: [5638]
+2017-03-28 5:24:17 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:24:17 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51431], ID urządzenia: [129], Serwisant: [krechul]
+2017-03-28 5:24:17 - [INFO] --> Sprawdzono spójność danych w damaged devices
+2017-03-28 5:24:53 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Krystian Rechul], Urządzenie: [Sprężyna do koszyka w biletomacie BM 101], Id urządzenia: [134], Ilość: [-1], Nr boczny pojazdu: [8079], Nr automatu: [5638]
+2017-03-28 5:24:53 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:24:53 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51432], ID urządzenia: [134], Serwisant: [krechul]
+2017-03-28 5:24:53 - [INFO] --> Sprawdzono spójność danych w damaged devices
+2017-03-28 5:25:19 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Krystian Rechul], Urządzenie: [Sprężyna do koszyka w biletomacie BM 101], Id urządzenia: [134], Ilość: [-1], Nr boczny pojazdu: [8082], Nr automatu: [5641]
+2017-03-28 5:25:19 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:25:19 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51433], ID urządzenia: [134], Serwisant: [krechul]
+2017-03-28 5:25:19 - [INFO] --> Sprawdzono spójność danych w damaged devices
+2017-03-28 5:25:42 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Krystian Rechul], Urządzenie: [Sprężyna do koszyka w biletomacie BM 101], Id urządzenia: [134], Ilość: [-1], Nr boczny pojazdu: [8112], Nr automatu: [5671]
+2017-03-28 5:25:42 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:25:42 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [51434], ID urządzenia: [134], Serwisant: [krechul]
+2017-03-28 5:25:42 - [INFO] --> Sprawdzono spójność danych w damaged devices
+2017-03-28 5:33:04 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Krystian Rechul], Urządzenie: [Akumulator 12V 2,3 Ah], Id urządzenia: [58], Ilość: [-2]
+2017-03-28 5:33:04 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:33:04 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Krystian Rechul], Urządzenie: [CR manual mobilny], Id urządzenia: [61], Ilość: [-2]
+2017-03-28 5:33:04 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:33:04 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Krystian Rechul], Urządzenie: [kabel ZASILACZ - MAIN (4 żyły)], Id urządzenia: [64], Ilość: [-2]
+2017-03-28 5:33:04 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:33:04 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Krystian Rechul], Urządzenie: [Komputer PC 104 AMD GEODE 500 (EVOC:EC3-1641 CLDNA)], Id urządzenia: [65], Ilość: [-1]
+2017-03-28 5:33:04 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:33:05 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Krystian Rechul], Urządzenie: [MAIN (WRDE 0141)], Id urządzenia: [66], Ilość: [-2]
+2017-03-28 5:33:05 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:33:05 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Krystian Rechul], Urządzenie: [opóźniacz], Id urządzenia: [69], Ilość: [-1]
+2017-03-28 5:33:05 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:33:05 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Krystian Rechul], Urządzenie: [Wentylator 12 v 50x50], Id urządzenia: [73], Ilość: [-4]
+2017-03-28 5:33:05 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:33:05 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Krystian Rechul], Urządzenie: [Zasilacz (WRKP0135)], Id urządzenia: [75], Ilość: [-2]
+2017-03-28 5:33:05 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:33:05 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Krystian Rechul], Urządzenie: [zespół drukarki do BM101 (stelaż, mechanizm druk., sterownik)], Id urządzenia: [76], Ilość: [-1]
+2017-03-28 5:33:05 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:33:05 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Krystian Rechul], Urządzenie: [Kabel sygnałowy LVDS do wyświetlacza 10cali użytego w BM102], Id urządzenia: [101], Ilość: [-1]
+2017-03-28 5:33:05 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:33:05 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Krystian Rechul], Urządzenie: [Pakiet terminala kart zbliżeniowych w standardzie MIFARE (GAMMA SAMIF)], Id urządzenia: [112], Ilość: [-1]
+2017-03-28 5:33:05 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:33:05 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Krystian Rechul], Urządzenie: [Kabel ZASILACZ - PC], Id urządzenia: [115], Ilość: [-2]
+2017-03-28 5:33:05 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:33:05 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Krystian Rechul], Urządzenie: [Kabel ZASILACZ - MIFARE], Id urządzenia: [117], Ilość: [-1]
+2017-03-28 5:33:05 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:33:05 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Krystian Rechul], Urządzenie: [Taśma do czytnika kart (CR - ARTEMA)], Id urządzenia: [121], Ilość: [-1]
+2017-03-28 5:33:05 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:33:05 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Krystian Rechul], Urządzenie: [Kabel PC - DRUKARKA], Id urządzenia: [122], Ilość: [-2]
+2017-03-28 5:33:05 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:33:05 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Krystian Rechul], Urządzenie: [Kabel ZASILACZ - MAIN (14pin)], Id urządzenia: [123], Ilość: [-2]
+2017-03-28 5:33:05 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:33:05 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Krystian Rechul], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-17]
+2017-03-28 5:33:05 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:33:05 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Krystian Rechul], Urządzenie: [Uchwyt nagrzewnicy automatu BM 101], Id urządzenia: [133], Ilość: [-5]
+2017-03-28 5:33:05 - [INFO] --> Sprawdzono spójność danych w service_request
+2017-03-28 5:33:05 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Krystian Rechul], Urządzenie: [Sprężyna do koszyka w biletomacie BM 101], Id urządzenia: [134], Ilość: [-24]
+2017-03-28 5:33:05 - [INFO] --> Sprawdzono spójność danych w service_request

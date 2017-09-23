@@ -1,0 +1,2 @@
+2017-01-31 19:08:59 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-01-31 19:09:22 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/294/2017], ID dokumentu: [1911], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]

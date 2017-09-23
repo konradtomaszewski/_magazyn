@@ -1,0 +1,7 @@
+2017-01-03 23:46:20 - [ERROR] --> Nieudane logowanie użytkownika: [jczajka]
+2017-01-03 23:46:32 - [ERROR] --> Nieudane logowanie użytkownika: [jczajka]
+2017-01-03 23:48:22 - [ERROR] --> Nieudane logowanie użytkownika: [jczajka]
+2017-01-03 23:48:46 - [ERROR] --> Nieudane logowanie użytkownika: [jczajka]
+2017-01-03 23:49:34 - [ERROR] --> Nieudane logowanie użytkownika: [jczajka]
+2017-01-03 23:51:36 - [ERROR] --> Nieudane logowanie użytkownika: [jczajka]
+2017-01-03 23:51:53 - [ERROR] --> Nieudane logowanie użytkownika: [jczajka]

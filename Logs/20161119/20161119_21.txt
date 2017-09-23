@@ -1,0 +1,2 @@
+2016-11-19 21:12:29 - [INFO] --> Logowanie użytkownika: [smiernik]
+2016-11-19 21:33:42 - [INFO] --> Logowanie użytkownika: [smiernik]

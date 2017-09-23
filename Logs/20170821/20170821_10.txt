@@ -1,0 +1,7 @@
+2017-08-21 10:07:41 - [INFO] --> Logowanie użytkownika: [mprzybylski]
+2017-08-21 10:58:20 - [INFO] --> Logowanie użytkownika: [dostawy]
+2017-08-21 10:58:53 - [INFO] --> Typ dokumentu: [Dostawa części (do zatwierdzenia)], Nazwa dokumentu:  [WRO/N/50/2017],  Nazwa urządzenia: [Zasilacz (WRKP0135)], ID urządzenia: [75], Ilość: [1]
+2017-08-21 10:58:53 - [INFO] --> Typ dokumentu: [Dostawa części (do zatwierdzenia)], Nazwa dokumentu:  [WRO/N/50/2017],  Nazwa urządzenia: [MAIN (WRDE 0141)], ID urządzenia: [66], Ilość: [1]
+2017-08-21 10:59:18 - [INFO] --> Logowanie użytkownika: [mprzybylski]
+2017-08-21 10:59:46 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WRO/N/50/2017],  Nazwa urządzenia: [MAIN (WRDE 0141)], ID urządzenia: [66], Ilość: [1]
+2017-08-21 10:59:46 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WRO/N/50/2017],  Nazwa urządzenia: [MAIN (WRDE 0141)], ID urządzenia: [75], Ilość: [1]

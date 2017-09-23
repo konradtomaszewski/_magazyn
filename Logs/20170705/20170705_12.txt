@@ -1,0 +1,7 @@
+2017-07-05 12:19:46 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [241]
+2017-07-05 12:19:46 - [ERROR] --> Poprawiono dane w service_request id: 103237
+2017-07-05 12:19:46 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [103237], ID urządzenia: [149], Serwisant: []
+2017-07-05 12:19:46 - [ERROR] --> Poprawiono dane w damaged_devices id: 11714
+2017-07-05 12:19:51 - [INFO] --> Logowanie użytkownika: [rstawieraj]
+2017-07-05 12:20:07 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Stawieraj], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [241]
+2017-07-05 12:20:07 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [103238], ID urządzenia: [149], Serwisant: [rstawieraj]

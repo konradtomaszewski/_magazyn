@@ -1,0 +1,5 @@
+2017-05-07 12:36:39 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-05-07 12:38:47 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/970/2017], ID dokumentu: [4698], Nazwa serisanta: [Paweł Mikucki], ID serwisanta: [42], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
+2017-05-07 12:38:48 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/970/2017], ID dokumentu: [4698], Nazwa serisanta: [Paweł Mikucki], ID serwisanta: [42], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [3]
+2017-05-07 12:39:05 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/971/2017], ID dokumentu: [4699], Nazwa serisanta: [Krystian Rechul], ID serwisanta: [43], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]
+2017-05-07 12:39:16 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/972/2017], ID dokumentu: [4700], Nazwa serisanta: [Mateusz Żerebecki], ID serwisanta: [44], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]

@@ -1,0 +1,3 @@
+2017-04-27 16:20:26 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-04-27 16:26:30 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-04-27 16:45:43 - [INFO] --> Logowanie użytkownika: [mjanek]

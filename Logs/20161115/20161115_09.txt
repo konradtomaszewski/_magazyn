@@ -1,0 +1,8 @@
+2016-11-15 9:00:09 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-11-15 9:21:07 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-11-15 9:31:58 - [INFO] --> Logowanie użytkownika: [vector_test]
+2016-11-15 9:49:39 - [INFO] --> Logowanie użytkownika: [kwiaterski]
+2016-11-15 9:50:03 - [INFO] --> Typ dokumentu: [Dostawa części (do zatwierdzenia)], Nazwa dokumentu:  [WRO/N/11/2016],  Nazwa urządzenia: [BNA], ID urządzenia: [7], Ilość: [4]
+2016-11-15 9:50:17 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-11-15 9:50:32 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WRO/N/11/2016],  Nazwa urządzenia: [BNA], ID urządzenia: [7], Ilość: [4]
+2016-11-15 9:52:43 - [INFO] --> Logowanie użytkownika: [kjasinski]

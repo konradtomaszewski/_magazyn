@@ -1,0 +1,4 @@
+2017-06-10 6:10:30 - [ERROR] --> Nieudane logowanie użytkownika: [dgasiewski]
+2017-06-10 6:10:48 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-06-10 6:20:31 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-06-10 6:20:58 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1272/2017], ID dokumentu: [5666], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]

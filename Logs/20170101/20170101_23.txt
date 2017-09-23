@@ -1,0 +1,9 @@
+2017-01-01 23:11:14 - [INFO] --> Logowanie użytkownika: [pkalinowski]
+2017-01-01 23:23:58 - [ERROR] --> Nieudane logowanie użytkownika: [mjanek]
+2017-01-01 23:24:15 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-01-01 23:30:15 - [ERROR] --> Nieudane logowanie użytkownika: [jczajka]
+2017-01-01 23:31:02 - [INFO] --> Logowanie użytkownika: [jczajka]
+2017-01-01 23:32:10 - [INFO] --> Użytkownik: [jczajka] zmienił hasło do konta
+2017-01-01 23:49:16 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-01-01 23:50:14 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-01-01 23:52:10 - [INFO] --> Logowanie użytkownika: [dgasiewski]

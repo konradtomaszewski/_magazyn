@@ -1,0 +1,8 @@
+2017-04-02 13:18:58 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-04-02 13:36:33 - [INFO] --> Logowanie użytkownika: [tkopyra]
+2017-04-02 13:37:46 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tadeusz Kopyra], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [136]
+2017-04-02 13:37:46 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [54292], ID urządzenia: [149], Serwisant: [tkopyra]
+2017-04-02 13:38:05 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tadeusz Kopyra], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [241]
+2017-04-02 13:38:05 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [54293], ID urządzenia: [149], Serwisant: [tkopyra]
+2017-04-02 13:38:22 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tadeusz Kopyra], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [253]
+2017-04-02 13:38:22 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [54294], ID urządzenia: [149], Serwisant: [tkopyra]

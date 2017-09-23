@@ -1,0 +1,8 @@
+2017-04-16 21:00:22 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
+2017-04-16 21:00:47 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/912/2017], ID dokumentu: [4207], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [2]
+2017-04-16 21:05:57 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-04-16 21:07:32 - [INFO] --> Logowanie użytkownika: [mprzybylski]
+2017-04-16 21:08:33 - [INFO] --> Logowanie użytkownika: [mprzybylski]
+2017-04-16 21:11:39 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [61116], przez uzytkownika: [mprzybylski], Nr boczny pojazdu: [], Nr automatu: [598]
+2017-04-16 21:30:52 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-04-16 21:47:46 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]

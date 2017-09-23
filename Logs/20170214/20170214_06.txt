@@ -1,0 +1,6 @@
+2017-02-14 6:00:50 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/426/2017], ID dokumentu: [2359], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [6]
+2017-02-14 6:01:01 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
+2017-02-14 6:01:24 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/427/2017], ID dokumentu: [2360], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [2]
+2017-02-14 6:02:35 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/427/2017], ID dokumentu: [2361], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
+2017-02-14 6:22:05 - [INFO] --> Logowanie użytkownika: [znowak]
+2017-02-14 6:22:42 - [INFO] --> Logowanie użytkownika: [rstawieraj]

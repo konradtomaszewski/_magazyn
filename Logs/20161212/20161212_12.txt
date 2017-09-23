@@ -1,0 +1,6 @@
+2016-12-12 12:03:47 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/355/2016], ID dokumentu: [632], Nazwa serisanta: [Artur Buller], ID serwisanta: [6], Nazwa urządzenia: [CR (manualny)], ID urządzenia: [14], Ilość: [1]
+2016-12-12 12:04:04 - [INFO] --> Logowanie użytkownika: [abuller]
+2016-12-12 12:04:50 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Artur Buller], Urządzenie: [CR (manualny)], Id urządzenia: [14], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [522]
+2016-12-12 12:04:50 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [7535], ID urządzenia: [14], Serwisant: [abuller]
+2016-12-12 12:05:04 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-12-12 12:07:35 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [7535], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [522]

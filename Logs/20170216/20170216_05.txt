@@ -1,0 +1,3 @@
+2017-02-16 5:00:12 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Cezary Skwarzyński], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [8312], Nr automatu: [5519]
+2017-02-16 5:00:12 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [31421], ID urządzenia: [129], Serwisant: [cskwarzynski]
+2017-02-16 5:00:36 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Cezary Skwarzyński], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-11]

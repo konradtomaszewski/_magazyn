@@ -1,0 +1,8 @@
+2016-12-27 10:12:22 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/477/2016], ID dokumentu: [856], Nazwa serisanta: [Wojciech Perko], ID serwisanta: [11], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [1]
+2016-12-27 10:12:35 - [INFO] --> Logowanie użytkownika: [wperko]
+2016-12-27 10:13:09 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Wojciech Perko], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [570]
+2016-12-27 10:13:09 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [10427], ID urządzenia: [130], Serwisant: [wperko]
+2016-12-27 10:16:12 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-12-27 10:16:59 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [10427], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [570]
+2016-12-27 10:17:34 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/478/2016], ID dokumentu: [857], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [2]
+2016-12-27 10:17:34 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/478/2016], ID dokumentu: [857], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [Zasilacz], ID urządzenia: [43], Ilość: [1]

@@ -1,0 +1,2 @@
+2017-03-14 16:24:05 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-03-14 16:24:41 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/656/2017], ID dokumentu: [3262], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [Plastikowa osłona anteny MIFARE], ID urządzenia: [139], Ilość: [1]

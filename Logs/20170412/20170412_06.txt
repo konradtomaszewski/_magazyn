@@ -1,0 +1,6 @@
+2017-04-12 6:30:04 - [INFO] --> Logowanie użytkownika: [jczajka]
+2017-04-12 6:48:07 - [INFO] --> Logowanie użytkownika: [jczajka]
+2017-04-12 6:48:25 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Jacek Czajka], Urządzenie: [płyta za ACM], Id urządzenia: [34], Ilość: [-1]
+2017-04-12 6:50:11 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/886/2017], ID dokumentu: [4092], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [płyta za ACM], ID urządzenia: [34], Ilość: [1]
+2017-04-12 6:57:09 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/887/2017], ID dokumentu: [4093], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [2]
+2017-04-12 6:59:52 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Jacek Czajka], Urządzenie: [EM papier paragonowy], Id urządzenia: [157], Ilość: [-4]

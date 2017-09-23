@@ -1,0 +1,5 @@
+2017-06-18 6:10:07 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
+2017-06-18 6:14:30 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
+2017-06-18 6:15:33 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1324/2017], ID dokumentu: [5877], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
+2017-06-18 6:47:45 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1325/2017], ID dokumentu: [5878], Nazwa serisanta: [Marcin Staniszewski], ID serwisanta: [45], Nazwa urządzenia: [Czytnik UX300], ID urządzenia: [161], Ilość: [1]
+2017-06-18 6:50:17 - [INFO] --> Logowanie użytkownika: [serwisant_n]

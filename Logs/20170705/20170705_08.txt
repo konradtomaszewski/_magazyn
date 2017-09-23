@@ -1,0 +1,71 @@
+2017-07-05 8:23:35 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-07-05 8:24:03 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WAR/N/88/2017],  Nazwa urządzenia: [Czujnik temperatury], ID urządzenia: [7], Ilość: [1]
+2017-07-05 8:24:03 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WAR/N/88/2017],  Nazwa urządzenia: [Czujnik temperatury], ID urządzenia: [43], Ilość: [1]
+2017-07-05 8:24:03 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WAR/N/88/2017],  Nazwa urządzenia: [Czujnik temperatury], ID urządzenia: [161], Ilość: [9]
+2017-07-05 8:24:03 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WAR/N/88/2017],  Nazwa urządzenia: [Czujnik temperatury], ID urządzenia: [191], Ilość: [1]
+2017-07-05 8:28:09 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [7], ID damaged_devices: [11378]
+2017-07-05 8:28:09 - [INFO] --> UPDATE damaged_devices SET arrival_id='6459', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='11378' AND product_id='7' AND damaged_devices_status_id='1' and id > '147' 
+2017-07-05 8:28:09 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [161], ID damaged_devices: [11350]
+2017-07-05 8:28:09 - [INFO] --> UPDATE damaged_devices SET arrival_id='6459', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='11350' AND product_id='161' AND damaged_devices_status_id='1' and id > '147' 
+2017-07-05 8:28:09 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [161], ID damaged_devices: [11490]
+2017-07-05 8:28:09 - [INFO] --> UPDATE damaged_devices SET arrival_id='6459', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='11490' AND product_id='161' AND damaged_devices_status_id='1' and id > '147' 
+2017-07-05 8:28:09 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [161], ID damaged_devices: [11422]
+2017-07-05 8:28:09 - [INFO] --> UPDATE damaged_devices SET arrival_id='6459', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='11422' AND product_id='161' AND damaged_devices_status_id='1' and id > '147' 
+2017-07-05 8:28:09 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [161], ID damaged_devices: [11452]
+2017-07-05 8:28:09 - [INFO] --> UPDATE damaged_devices SET arrival_id='6459', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='11452' AND product_id='161' AND damaged_devices_status_id='1' and id > '147' 
+2017-07-05 8:28:09 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [161], ID damaged_devices: [11365]
+2017-07-05 8:28:09 - [INFO] --> UPDATE damaged_devices SET arrival_id='6459', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='11365' AND product_id='161' AND damaged_devices_status_id='1' and id > '147' 
+2017-07-05 8:28:10 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [161], ID damaged_devices: [11382]
+2017-07-05 8:28:10 - [INFO] --> UPDATE damaged_devices SET arrival_id='6459', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='11382' AND product_id='161' AND damaged_devices_status_id='1' and id > '147' 
+2017-07-05 8:28:10 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [161], ID damaged_devices: [11345]
+2017-07-05 8:28:10 - [INFO] --> UPDATE damaged_devices SET arrival_id='6459', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='11345' AND product_id='161' AND damaged_devices_status_id='1' and id > '147' 
+2017-07-05 8:28:10 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [161], ID damaged_devices: [11380]
+2017-07-05 8:28:10 - [INFO] --> UPDATE damaged_devices SET arrival_id='6459', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='11380' AND product_id='161' AND damaged_devices_status_id='1' and id > '147' 
+2017-07-05 8:28:10 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [161], ID damaged_devices: [11349]
+2017-07-05 8:28:10 - [INFO] --> UPDATE damaged_devices SET arrival_id='6459', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='11349' AND product_id='161' AND damaged_devices_status_id='1' and id > '147' 
+2017-07-05 8:28:10 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [177], ID damaged_devices: [11306]
+2017-07-05 8:28:10 - [INFO] --> UPDATE damaged_devices SET arrival_id='6459', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='11306' AND product_id='177' AND damaged_devices_status_id='1' and id > '147' 
+2017-07-05 8:28:10 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [172], ID damaged_devices: [11449]
+2017-07-05 8:28:10 - [INFO] --> UPDATE damaged_devices SET arrival_id='6459', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='11449' AND product_id='172' AND damaged_devices_status_id='1' and id > '147' 
+2017-07-05 8:28:10 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [25], ID damaged_devices: [11483]
+2017-07-05 8:28:10 - [INFO] --> UPDATE damaged_devices SET arrival_id='6459', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='11483' AND product_id='25' AND damaged_devices_status_id='1' and id > '147' 
+2017-07-05 8:28:11 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [43], ID damaged_devices: [11413]
+2017-07-05 8:28:11 - [INFO] --> UPDATE damaged_devices SET arrival_id='6459', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='11413' AND product_id='43' AND damaged_devices_status_id='1' and id > '147' 
+2017-07-05 8:28:47 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [102230], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [182]
+2017-07-05 8:28:47 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [102541], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [220]
+2017-07-05 8:31:11 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [102119], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [117]
+2017-07-05 8:31:11 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [101759], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [398]
+2017-07-05 8:38:46 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103025], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [5403], Nr automatu: [5726]
+2017-07-05 8:38:46 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103027], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [5417], Nr automatu: [5405]
+2017-07-05 8:38:46 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103029], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [5431], Nr automatu: [5188]
+2017-07-05 8:38:46 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103034], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [7327], Nr automatu: [5433]
+2017-07-05 8:38:46 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103035], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [8090], Nr automatu: [5649]
+2017-07-05 8:38:46 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103038], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [8301], Nr automatu: [5508]
+2017-07-05 8:38:46 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103060], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2217], Nr automatu: [5106]
+2017-07-05 8:38:46 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103061], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2292], Nr automatu: [5161]
+2017-07-05 8:38:47 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103062], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2334], Nr automatu: [5234]
+2017-07-05 8:38:47 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103063], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2357], Nr automatu: [5326]
+2017-07-05 8:38:47 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103065], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2292], Nr automatu: [5161]
+2017-07-05 8:38:47 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103036], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [8090], Nr automatu: [5649]
+2017-07-05 8:41:32 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [102835], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [578]
+2017-07-05 8:41:33 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [102835], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [578]
+2017-07-05 8:41:33 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [102836], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [543]
+2017-07-05 8:41:33 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [102837], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [527]
+2017-07-05 8:45:15 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103016], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2332], Nr automatu: [5300]
+2017-07-05 8:45:15 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103017], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2352], Nr automatu: [5015]
+2017-07-05 8:45:15 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103018], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2473], Nr automatu: [5032]
+2017-07-05 8:45:16 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103019], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2499], Nr automatu: [5048]
+2017-07-05 8:45:16 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103020], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2528], Nr automatu: [5073]
+2017-07-05 8:45:16 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103021], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [3202], Nr automatu: [5080]
+2017-07-05 8:45:16 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103022], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [3208], Nr automatu: [5120]
+2017-07-05 8:45:16 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103023], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2719], Nr automatu: [5132]
+2017-07-05 8:45:16 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103024], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [3007], Nr automatu: [5288]
+2017-07-05 8:45:16 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103026], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [3008], Nr automatu: [5289]
+2017-07-05 8:45:16 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103028], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [3105], Nr automatu: [5769]
+2017-07-05 8:45:16 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103032], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [3113], Nr automatu: [5786]
+2017-07-05 8:45:16 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103037], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [4610], Nr automatu: [5128]
+2017-07-05 8:45:16 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [103039], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [4634], Nr automatu: [5484]
+2017-07-05 8:47:05 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [102226], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2356], Nr automatu: [5323]
+2017-07-05 8:47:05 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [102225], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2356], Nr automatu: [5323]
+2017-07-05 8:48:09 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [102224], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [5437], Nr automatu: [5552]
+2017-07-05 8:48:40 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [102335], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2254], Nr automatu: [5137]

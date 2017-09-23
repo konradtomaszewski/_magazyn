@@ -1,0 +1,2 @@
+2017-02-23 6:03:06 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
+2017-02-23 6:07:42 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]

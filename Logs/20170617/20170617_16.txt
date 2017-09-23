@@ -1,0 +1,2 @@
+2017-06-17 16:45:19 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Paweł Mikucki], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1]
+2017-06-17 16:45:19 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Paweł Mikucki], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-2]

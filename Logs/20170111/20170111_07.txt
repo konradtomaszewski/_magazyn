@@ -1,0 +1,4 @@
+2017-01-11 7:55:07 - [ERROR] --> Nieudane logowanie użytkownika: [ktomaszewski]
+2017-01-11 7:55:18 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-01-11 7:58:09 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [14712], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: []
+2017-01-11 7:58:35 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/99/2017], ID dokumentu: [1245], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [Nagrzewnica], ID urządzenia: [28], Ilość: [1]

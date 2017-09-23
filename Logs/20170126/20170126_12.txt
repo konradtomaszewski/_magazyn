@@ -1,0 +1,6 @@
+2017-01-26 12:24:48 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-01-26 12:49:27 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-01-26 12:49:59 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/255/2017], ID dokumentu: [1740], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [Bateria zamka], ID urządzenia: [145], Ilość: [1]
+2017-01-26 12:54:40 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-01-26 12:55:38 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/256/2017], ID dokumentu: [1741], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [2]
+2017-01-26 12:56:14 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/257/2017], ID dokumentu: [1742], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]

@@ -1,0 +1,3 @@
+2017-04-13 12:04:59 - [INFO] --> Logowanie użytkownika: [abuller]
+2017-04-13 12:05:19 - [INFO] --> Logowanie użytkownika: [pmikucki]
+2017-04-13 12:06:00 - [INFO] --> Logowanie użytkownika: [kjasinski]

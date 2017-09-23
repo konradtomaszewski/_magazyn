@@ -1,0 +1,2 @@
+2017-05-25 11:06:02 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [78209], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [8300], Nr automatu: [5507]
+2017-05-25 11:10:36 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [78208], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [8300], Nr automatu: [5507]

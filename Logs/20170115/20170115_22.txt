@@ -1,0 +1,8 @@
+2017-01-15 22:03:02 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
+2017-01-15 22:04:02 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Dariusz Nowakowski- Serwisant], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [124]
+2017-01-15 22:04:02 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [16686], ID urządzenia: [149], Serwisant: [dnowakowski_s]
+2017-01-15 22:04:26 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Dariusz Nowakowski- Serwisant], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [122]
+2017-01-15 22:04:26 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [16687], ID urządzenia: [149], Serwisant: [dnowakowski_s]
+2017-01-15 22:04:49 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Dariusz Nowakowski- Serwisant], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [173]
+2017-01-15 22:04:49 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [16688], ID urządzenia: [128], Serwisant: [dnowakowski_s]
+2017-01-15 22:11:19 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

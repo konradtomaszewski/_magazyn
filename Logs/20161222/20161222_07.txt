@@ -1,0 +1,4 @@
+2016-12-22 7:18:51 - [INFO] --> Logowanie użytkownika: [msieradzki]
+2016-12-22 7:21:22 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-12-22 7:42:10 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-12-22 7:59:36 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [9785], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2543], Nr automatu: [5202]

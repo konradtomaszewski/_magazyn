@@ -1,0 +1,1 @@
+2017-05-14 22:25:58 - [INFO] --> Logowanie użytkownika: [mjanek]

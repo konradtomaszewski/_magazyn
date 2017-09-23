@@ -1,0 +1,6 @@
+2017-05-28 6:03:20 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
+2017-05-28 6:09:38 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1178/2017], ID dokumentu: [5268], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
+2017-05-28 6:22:55 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
+2017-05-28 6:24:00 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1179/2017], ID dokumentu: [5269], Nazwa serisanta: [Marek Madej Sierski], ID serwisanta: [48], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [3]
+2017-05-28 6:32:09 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-05-28 6:33:12 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1180/2017], ID dokumentu: [5270], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]

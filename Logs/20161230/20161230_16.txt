@@ -1,0 +1,5 @@
+2016-12-30 16:02:52 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2016-12-30 16:03:19 - [INFO] --> Logowanie użytkownika: [mprzybylski]
+2016-12-30 16:04:00 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/508/2016], ID dokumentu: [920], Nazwa serisanta: [Wojciech Perko], ID serwisanta: [11], Nazwa urządzenia: [panel wewnętrzny], ID urządzenia: [29], Ilość: [1]
+2016-12-30 16:54:52 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-12-30 16:55:11 - [INFO] --> Logowanie użytkownika: [dostawy]

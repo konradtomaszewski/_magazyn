@@ -1,0 +1,6 @@
+2017-01-18 20:09:33 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [Bateria zamka], Id urządzenia: [145], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [176]
+2017-01-18 20:09:33 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [17911], ID urządzenia: [145], Serwisant: [rtworkowski]
+2017-01-18 20:10:41 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Rafał Tworkowski], Urządzenie: [Elektromagnez zamka], Id urządzenia: [147], Ilość: [-1]
+2017-01-18 20:11:38 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Rafał Tworkowski], Urządzenie: [Płytka zamka D], Id urządzenia: [141], Ilość: [-1]
+2017-01-18 20:11:54 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Rafał Tworkowski], Urządzenie: [Płytka zamka M], Id urządzenia: [142], Ilość: [-1]
+2017-01-18 20:27:42 - [INFO] --> Logowanie użytkownika: [kjasinski]

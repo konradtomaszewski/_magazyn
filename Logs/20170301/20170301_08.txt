@@ -1,0 +1,5 @@
+2017-03-01 8:03:47 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [36319], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [7022], Nr automatu: [5590]
+2017-03-01 8:12:55 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [36302], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2501], Nr automatu: [5050]
+2017-03-01 8:21:54 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [36311], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2714], Nr automatu: [5279]
+2017-03-01 8:40:19 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-03-01 8:57:42 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/539/2017], ID dokumentu: [2814], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [Plastikowa osłona anteny MIFARE], ID urządzenia: [139], Ilość: [1]

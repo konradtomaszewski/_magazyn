@@ -1,0 +1,5 @@
+2017-02-13 5:48:32 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-02-13 5:50:10 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/418/2017], ID dokumentu: [2314], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [BNA], ID urządzenia: [7], Ilość: [1]
+2017-02-13 5:51:12 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-02-13 5:52:06 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/419/2017], ID dokumentu: [2315], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
+2017-02-13 5:52:06 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/419/2017], ID dokumentu: [2315], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [Bateria zamka], ID urządzenia: [145], Ilość: [1]

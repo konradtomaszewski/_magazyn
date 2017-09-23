@@ -1,0 +1,8 @@
+2017-03-04 14:00:54 - [INFO] --> Logowanie użytkownika: [tkopyra]
+2017-03-04 14:01:16 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-03-04 14:22:32 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-03-04 14:22:58 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/572/2017], ID dokumentu: [2923], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [2]
+2017-03-04 14:22:58 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/572/2017], ID dokumentu: [2923], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]
+2017-03-04 14:24:32 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-03-04 14:26:20 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-03-04 14:26:49 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/573/2017], ID dokumentu: [2924], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [drukarka (Thino)], ID urządzenia: [17], Ilość: [1]

@@ -1,0 +1,2 @@
+2017-03-30 7:32:51 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-03-30 7:58:26 - [INFO] --> Logowanie użytkownika: [kjasinski]

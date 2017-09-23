@@ -1,0 +1,1 @@
+2016-12-21 15:04:27 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [8821], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [564]

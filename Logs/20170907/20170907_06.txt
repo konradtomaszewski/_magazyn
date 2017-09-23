@@ -1,0 +1,6 @@
+2017-09-07 6:05:16 - [INFO] --> Logowanie użytkownika: [serwisant_s]
+2017-09-07 6:06:09 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1971/2017], ID dokumentu: [8167], Nazwa serisanta: [serwisant s], ID serwisanta: [58], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
+2017-09-07 6:23:47 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-09-07 6:24:14 - [INFO] --> Logowanie użytkownika: [serwisant_c]
+2017-09-07 6:36:59 - [INFO] --> Logowanie użytkownika: [mstaniszewski]
+2017-09-07 6:37:20 - [INFO] --> Logowanie użytkownika: [serwisant_e]

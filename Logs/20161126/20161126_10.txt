@@ -1,0 +1,3 @@
+2016-11-26 10:53:11 - [INFO] --> Logowanie użytkownika: [michał]
+2016-11-26 10:54:09 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Michał Przybylski - Serwisant], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [575]
+2016-11-26 10:54:09 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [4599], ID urządzenia: [130], Serwisant: [michał]

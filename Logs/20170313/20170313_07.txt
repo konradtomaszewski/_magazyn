@@ -1,0 +1,2 @@
+2017-03-13 7:48:46 - [ERROR] --> Nieudane logowanie użytkownika: [kjasinski]
+2017-03-13 7:49:43 - [INFO] --> Logowanie użytkownika: [kjasinski]

@@ -1,0 +1,3 @@
+2017-06-29 11:30:56 - [INFO] --> Logowanie użytkownika: [rstawieraj]
+2017-06-29 11:31:33 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Stawieraj], Urządzenie: [Wyświetlacz LCD 15 cali], Id urządzenia: [25], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [275]
+2017-06-29 11:31:33 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [99415], ID urządzenia: [25], Serwisant: [rstawieraj]

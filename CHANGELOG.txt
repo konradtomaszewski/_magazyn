@@ -1,0 +1,34 @@
+2017-01-07  - 	delivery_release (vector_magazyn i serwisant) - poprawka funkcji valid_quantity i valid_quantity_x
+				Dodano warunek sprawdzaj¹cy czy wprowadzona wartoœæ nie jest zerowa oraz ujemna
+
+#2017-01-10 -	db.class.php modyfikacja funkcji report_serviceman_devices (do raportu iloœciowego). Ograniczenie 			arrivalsów z przekazywaniem urzadzeñ (arrival_type_id=8)
+
+#2017-01-16 - 	poprawiona responsywnoœc mobilna modu³u serwisanta
+
+#2017-01-19 - 	zapisywanie danych logowania do localstorage tylko z urz¹dzeñ mobilnych
+
+#2017-01-24 -	Raport z urz¹dzeñ pobranych przez serwisantów
+
+#2017-01-25 -	Poprawka na funkcjê generuj¹c¹ monitor magazynu dla modu³u magazyniera (dodano having)
+
+#2017-01-31 -	Dodano funkcjê verifyProductId_arrivalTemp w module mennica, do weryfikacji czy do urz¹dzenia 				przypisane zosta³o poprawne id urz¹dzenia
+
+#2017-02-06 -	Poprawka widoku na urz¹dzenia pobrane z automatów (getDamagedDevices), sortowanie w kolejnoœci 				rosn¹cej po serwisancie,urz¹dzeniu,dacie
+
+#2017-02-08 -	edycja css atrybutu wysokoœci dla <a> w top_menu dla przycisku settings w ka¿dym module
+
+#2017-02-15 -	edycja my_devices(modu³ serwisanta), przypisanie sta³ej wartoœci do sn=''
+				edycja forward_devices(modu³ serwisanta), przypisanie sta³ej wartoœci do sn=''
+
+#2017-02-20 -	przy przekazywaniu urz¹dzeñ na stock serwisanta zapisuje siê arrival_id
+
+#2017-02-22 -	funkcja wyœwietlaj¹ca historiê dzia³añ serwisowych za podany dzieñ
+				w history (modu³ serwisanta) ukrycie klawiatury ekranowej dla input date
+
+#2017-03-27 -	dodano funkcjê sprawdzaj¹c¹ (check_user_service_request($service_request_id)) (ta sama funkcja jest dla add_damaged_devices) czy w service_request zapisuje siê id serwisanta
+				w histori dzia³añ serwisanta dodano iloœci	
+#2017-04-12 -	utworzono tabelê cache'uj¹c¹ ostatnie dokumenty z tabeli arrivals, w celu przyspieszenia generowania siê nazwy i numeru dokumentu	magazynowego	
+#2017-06-01 -   modyfikacja pliku php.ini parametr max_input_vars = 5000
+#2017-06-02 -   poprawienie funkcji monitoru magazynu
+#2017-06-08 -	w module vector_magazyn i serwisant przy wydawaniu urz¹dzeñ (lib/delivery_released_process) narzucono odgórnie pobranie id urz¹dzenia na podstawie jego nazwy
+#2017-08-16 -	w module vectorsoft_magazyn w pobranych przez serwisantów urz¹dzeniach dodano przycisk uruchamiaj¹cy metodê w klasie (utilize_paper($storage_id))

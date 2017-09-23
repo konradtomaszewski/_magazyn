@@ -1,0 +1,2 @@
+2017-04-03 22:07:41 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-04-03 22:07:57 - [INFO] --> Logowanie użytkownika: [mjanek]

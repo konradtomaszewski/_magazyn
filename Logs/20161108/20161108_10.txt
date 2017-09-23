@@ -1,0 +1,6 @@
+2016-11-08 10:06:07 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-11-08 10:08:20 - [INFO] --> Logowanie użytkownika: [vector_test]
+2016-11-08 10:09:35 - [INFO] --> Logowanie użytkownika: [mprzybylski]
+2016-11-08 10:34:58 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-11-08 10:36:21 - [INFO] --> Logowanie użytkownika: [mennica_test]
+2016-11-08 10:37:42 - [INFO] --> Logowanie użytkownika: [vector_test]

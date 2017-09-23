@@ -1,0 +1,5 @@
+2016-12-04 20:52:00 - [INFO] --> Logowanie użytkownika: [cskwarzynski]
+2016-12-04 20:52:18 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Cezary Skwarzyński], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-2]
+2016-12-04 20:52:49 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Cezary Skwarzyński], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [524]
+2016-12-04 20:52:49 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [5999], ID urządzenia: [130], Serwisant: [cskwarzynski]
+2016-12-04 20:52:59 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Cezary Skwarzyński], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-5]

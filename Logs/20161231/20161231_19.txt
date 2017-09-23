@@ -1,0 +1,4 @@
+2016-12-31 19:16:51 - [ERROR] --> Nieudane logowanie użytkownika: [mjanek]
+2016-12-31 19:35:33 - [INFO] --> Logowanie użytkownika: [tkopyra]
+2016-12-31 19:42:03 - [ERROR] --> Nieudane logowanie użytkownika: [mjanek]
+2016-12-31 19:54:57 - [ERROR] --> Nieudane logowanie użytkownika: [mjanek]

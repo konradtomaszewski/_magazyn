@@ -1,0 +1,7 @@
+2017-07-14 8:50:50 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [108673], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [7345], Nr automatu: [5451]
+2017-07-14 8:50:50 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [108674], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2347], Nr automatu: [5236]
+2017-07-14 8:53:17 - [INFO] --> Logowanie użytkownika: [rstawieraj]
+2017-07-14 8:53:36 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Stawieraj], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-2], Nr boczny pojazdu: [], Nr automatu: [217]
+2017-07-14 8:53:36 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [108837], ID urządzenia: [149], Serwisant: [rstawieraj]
+2017-07-14 8:53:36 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [108837], ID urządzenia: [149], Serwisant: [rstawieraj]
+2017-07-14 8:54:04 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

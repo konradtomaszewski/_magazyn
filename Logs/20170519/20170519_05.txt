@@ -1,0 +1,2 @@
+2017-05-19 5:09:41 - [INFO] --> Logowanie użytkownika: [krechul]
+2017-05-19 5:27:54 - [INFO] --> Logowanie użytkownika: [dgasiewski]

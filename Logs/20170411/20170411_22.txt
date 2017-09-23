@@ -1,0 +1,2 @@
+2017-04-11 22:34:39 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
+2017-04-11 22:42:18 - [INFO] --> Logowanie użytkownika: [mjanek]

@@ -1,0 +1,2 @@
+2017-05-10 6:13:11 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-05-10 6:22:34 - [INFO] --> Logowanie użytkownika: [mstaniszewski]

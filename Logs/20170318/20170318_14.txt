@@ -1,0 +1,5 @@
+2017-03-18 14:04:01 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/624/2017], ID dokumentu: [3375], Nazwa serisanta: [Łukasz Mazurowski], ID serwisanta: [9], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [1]
+2017-03-18 14:04:13 - [INFO] --> Logowanie użytkownika: [lmazurowski]
+2017-03-18 14:04:31 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Łukasz Mazurowski], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [587]
+2017-03-18 14:04:31 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [46751], ID urządzenia: [130], Serwisant: [lmazurowski]
+2017-03-18 14:39:21 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [46751], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [587]

@@ -1,0 +1,72 @@
+2017-08-25 11:17:26 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [130382], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [164]
+2017-08-25 11:20:43 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-08-25 11:20:54 - [INFO] --> Logowanie użytkownika: [dostawy]
+2017-08-25 11:21:56 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1883/2017], ID dokumentu: [7825], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [walidator (NRI)], ID urządzenia: [42], Ilość: [2]
+2017-08-25 11:21:56 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1883/2017], ID dokumentu: [7825], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [6]
+2017-08-25 11:21:56 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1883/2017], ID dokumentu: [7825], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
+2017-08-25 11:22:05 - [INFO] --> Typ dokumentu: [Dostawa części (do zatwierdzenia)], Nazwa dokumentu:  [WAR/N/109/2017],  Nazwa urządzenia: [EM czytnik banknotów NV200], ID urządzenia: [188], Ilość: [1]
+2017-08-25 11:24:19 - [INFO] --> Typ dokumentu: [Dostawa części (do zatwierdzenia)], Nazwa dokumentu:  [WAR/N/110/2017],  Nazwa urządzenia: [EM czytnik banknotów NV200], ID urządzenia: [188], Ilość: [1]
+2017-08-25 11:24:31 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-08-25 11:25:07 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WAR/N/109/2017],  Nazwa urządzenia: [EM czytnik banknotów NV200], ID urządzenia: [188], Ilość: [1]
+2017-08-25 11:25:17 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WAR/N/110/2017],  Nazwa urządzenia: [EM czytnik banknotów NV200], ID urządzenia: [188], Ilość: [1]
+2017-08-25 11:25:24 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-08-25 11:26:17 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1884/2017], ID dokumentu: [7828], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [EM czytnik banknotów NV200], ID urządzenia: [188], Ilość: [1]
+2017-08-25 11:26:40 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [EM czytnik banknotów NV200], Id urządzenia: [188], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [9]
+2017-08-25 11:26:40 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [130477], ID urządzenia: [188], Serwisant: [mjanek]
+2017-08-25 11:28:31 - [INFO] --> Logowanie użytkownika: [dostawy]
+2017-08-25 11:29:16 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-08-25 11:29:34 - [INFO] --> Typ dokumentu: [Dostawa części (do zatwierdzenia)], Nazwa dokumentu:  [WAR/N/111/2017],  Nazwa urządzenia: [EM Smart Hopper], ID urządzenia: [194], Ilość: [1]
+2017-08-25 11:29:36 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [walidator (NRI)], Id urządzenia: [42], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [297]
+2017-08-25 11:29:36 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [130478], ID urządzenia: [42], Serwisant: [mjanek]
+2017-08-25 11:29:45 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-08-25 11:29:50 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [297]
+2017-08-25 11:29:50 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [130479], ID urządzenia: [128], Serwisant: [mjanek]
+2017-08-25 11:29:54 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WAR/N/111/2017],  Nazwa urządzenia: [EM Smart Hopper], ID urządzenia: [194], Ilość: [1]
+2017-08-25 11:30:07 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-2], Nr boczny pojazdu: [], Nr automatu: [297]
+2017-08-25 11:30:07 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [130480], ID urządzenia: [149], Serwisant: [mjanek]
+2017-08-25 11:30:07 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [130480], ID urządzenia: [149], Serwisant: [mjanek]
+2017-08-25 11:30:21 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [296]
+2017-08-25 11:30:21 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [130481], ID urządzenia: [149], Serwisant: [mjanek]
+2017-08-25 11:30:42 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-2], Nr boczny pojazdu: [], Nr automatu: [203]
+2017-08-25 11:30:42 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [130482], ID urządzenia: [149], Serwisant: [mjanek]
+2017-08-25 11:30:42 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [130482], ID urządzenia: [149], Serwisant: [mjanek]
+2017-08-25 11:30:53 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [130477], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [9]
+2017-08-25 11:31:08 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1885/2017], ID dokumentu: [7830], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [EM Smart Hopper], ID urządzenia: [194], Ilość: [1]
+2017-08-25 11:31:30 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [EM Smart Hopper], Id urządzenia: [194], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [27]
+2017-08-25 11:31:30 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [130484], ID urządzenia: [194], Serwisant: [mjanek]
+2017-08-25 11:32:50 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [130484], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [27]
+2017-08-25 11:34:20 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [130478], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [297]
+2017-08-25 11:37:49 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [7], ID damaged_devices: [14712]
+2017-08-25 11:37:49 - [INFO] --> UPDATE damaged_devices SET arrival_id='7831', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14712' AND product_id='7' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-25 11:37:49 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [7], ID damaged_devices: [14748]
+2017-08-25 11:37:49 - [INFO] --> UPDATE damaged_devices SET arrival_id='7831', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14748' AND product_id='7' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-25 11:37:49 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [7], ID damaged_devices: [14790]
+2017-08-25 11:37:49 - [INFO] --> UPDATE damaged_devices SET arrival_id='7831', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14790' AND product_id='7' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-25 11:37:49 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [7], ID damaged_devices: [14737]
+2017-08-25 11:37:49 - [INFO] --> UPDATE damaged_devices SET arrival_id='7831', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14737' AND product_id='7' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-25 11:37:49 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [146], ID damaged_devices: [14711]
+2017-08-25 11:37:49 - [INFO] --> UPDATE damaged_devices SET arrival_id='7831', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14711' AND product_id='146' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-25 11:37:50 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [146], ID damaged_devices: [14782]
+2017-08-25 11:37:50 - [INFO] --> UPDATE damaged_devices SET arrival_id='7831', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14782' AND product_id='146' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-25 11:37:50 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [161], ID damaged_devices: [14802]
+2017-08-25 11:37:50 - [INFO] --> UPDATE damaged_devices SET arrival_id='7831', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14802' AND product_id='161' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-25 11:37:50 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [161], ID damaged_devices: [14814]
+2017-08-25 11:37:50 - [INFO] --> UPDATE damaged_devices SET arrival_id='7831', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14814' AND product_id='161' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-25 11:37:50 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [161], ID damaged_devices: [14786]
+2017-08-25 11:37:50 - [INFO] --> UPDATE damaged_devices SET arrival_id='7831', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14786' AND product_id='161' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-25 11:37:50 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [198], ID damaged_devices: [14746]
+2017-08-25 11:37:50 - [INFO] --> UPDATE damaged_devices SET arrival_id='7831', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14746' AND product_id='198' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-25 11:37:50 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [194], ID damaged_devices: [14858]
+2017-08-25 11:37:50 - [INFO] --> UPDATE damaged_devices SET arrival_id='7831', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14858' AND product_id='194' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-25 11:37:50 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [188], ID damaged_devices: [14850]
+2017-08-25 11:37:50 - [INFO] --> UPDATE damaged_devices SET arrival_id='7831', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14850' AND product_id='188' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-25 11:37:51 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [151], ID damaged_devices: [14636]
+2017-08-25 11:37:51 - [INFO] --> UPDATE damaged_devices SET arrival_id='7831', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14636' AND product_id='151' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-25 11:37:51 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [139], ID damaged_devices: [14668]
+2017-08-25 11:37:51 - [INFO] --> UPDATE damaged_devices SET arrival_id='7831', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14668' AND product_id='139' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-25 11:37:51 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [153], ID damaged_devices: [14635]
+2017-08-25 11:37:51 - [INFO] --> UPDATE damaged_devices SET arrival_id='7831', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14635' AND product_id='153' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-25 11:37:51 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [42], ID damaged_devices: [14851]
+2017-08-25 11:37:51 - [INFO] --> UPDATE damaged_devices SET arrival_id='7831', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14851' AND product_id='42' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-25 11:37:51 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [42], ID damaged_devices: [14728]
+2017-08-25 11:37:51 - [INFO] --> UPDATE damaged_devices SET arrival_id='7831', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14728' AND product_id='42' AND damaged_devices_status_id='1' and id > '147' 

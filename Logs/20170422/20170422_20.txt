@@ -1,0 +1,5 @@
+2017-04-22 20:58:51 - [INFO] --> Logowanie użytkownika: [pmikucki]
+2017-04-22 20:59:12 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Paweł Mikucki], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [539]
+2017-04-22 20:59:12 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [64081], ID urządzenia: [130], Serwisant: [pmikucki]
+2017-04-22 20:59:29 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Paweł Mikucki], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1]
+2017-04-22 20:59:29 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Paweł Mikucki], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-2]

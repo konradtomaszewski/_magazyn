@@ -1,0 +1,7 @@
+2017-07-13 23:17:43 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
+2017-07-13 23:18:23 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Jasiński serwisant], Urządzenie: [Drukarka Edmonson duża BTVM-1], Id urządzenia: [148], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [293]
+2017-07-13 23:18:23 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [108626], ID urządzenia: [148], Serwisant: [tjasinski_s]
+2017-07-13 23:18:57 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Jasiński serwisant], Urządzenie: [Czytnik UX300], Id urządzenia: [161], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [293]
+2017-07-13 23:18:57 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [108627], ID urządzenia: [161], Serwisant: [tjasinski_s]
+2017-07-13 23:19:20 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Jasiński serwisant], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [293]
+2017-07-13 23:19:20 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [108628], ID urządzenia: [149], Serwisant: [tjasinski_s]

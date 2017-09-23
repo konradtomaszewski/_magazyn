@@ -1,0 +1,4 @@
+2017-09-04 18:50:16 - [INFO] --> Logowanie użytkownika: [abukalo]
+2017-09-04 18:51:16 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1827/2017], ID dokumentu: [8100], Nazwa serisanta: [Arkadiusz Bukało], ID serwisanta: [60], Nazwa urządzenia: [sterownik drukarki], ID urządzenia: [40], Ilość: [1]
+2017-09-04 18:51:30 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Arkadiusz Bukało], Urządzenie: [sterownik drukarki], Id urządzenia: [40], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [576]
+2017-09-04 18:51:30 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [136169], ID urządzenia: [40], Serwisant: [abukalo]

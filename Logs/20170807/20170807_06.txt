@@ -1,0 +1,2 @@
+2017-08-07 6:27:11 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
+2017-08-07 6:55:05 - [INFO] --> Logowanie użytkownika: [jczajka]

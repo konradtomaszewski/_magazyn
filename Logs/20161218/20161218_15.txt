@@ -1,0 +1,2 @@
+2016-12-18 15:11:01 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/412/2016], ID dokumentu: [735], Nazwa serisanta: [Łukasz Mazurowski], ID serwisanta: [9], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]
+2016-12-18 15:11:21 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/413/2016], ID dokumentu: [736], Nazwa serisanta: [Mariusz Sieradzki], ID serwisanta: [13], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]

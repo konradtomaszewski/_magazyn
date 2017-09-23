@@ -1,0 +1,8 @@
+2017-04-17 10:15:38 - [INFO] --> Logowanie użytkownika: [mprzybylski]
+2017-04-17 10:20:10 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [61274], przez uzytkownika: [mprzybylski], Nr boczny pojazdu: [3015], Nr automatu: [5296]
+2017-04-17 10:20:10 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [61275], przez uzytkownika: [mprzybylski], Nr boczny pojazdu: [5607], Nr automatu: [5724]
+2017-04-17 10:20:10 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [61276], przez uzytkownika: [mprzybylski], Nr boczny pojazdu: [8091], Nr automatu: [5650]
+2017-04-17 10:20:10 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [61277], przez uzytkownika: [mprzybylski], Nr boczny pojazdu: [8134], Nr automatu: [5692]
+2017-04-17 10:20:10 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [61278], przez uzytkownika: [mprzybylski], Nr boczny pojazdu: [8139], Nr automatu: [5697]
+2017-04-17 10:20:10 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [61279], przez uzytkownika: [mprzybylski], Nr boczny pojazdu: [8318], Nr automatu: [5525]
+2017-04-17 10:20:10 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [61280], przez uzytkownika: [mprzybylski], Nr boczny pojazdu: [8320], Nr automatu: [5527]

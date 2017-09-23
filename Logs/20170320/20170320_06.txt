@@ -1,0 +1,5 @@
+2017-03-20 6:16:09 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-03-20 6:20:16 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/692/2017], ID dokumentu: [3404], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [6]
+2017-03-20 6:22:22 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
+2017-03-20 6:29:38 - [INFO] --> Logowanie użytkownika: [tkopyra]
+2017-03-20 6:30:19 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/693/2017], ID dokumentu: [3405], Nazwa serisanta: [Tadeusz Kopyra], ID serwisanta: [32], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [3]

@@ -1,0 +1,8 @@
+2017-06-02 10:02:47 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-06-02 10:04:29 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-06-02 10:06:00 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-06-02 10:06:24 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [84085], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [450]
+2017-06-02 10:07:00 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1211/2017], ID dokumentu: [5423], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [CM 2,0 zł], ID urządzenia: [12], Ilość: [1]
+2017-06-02 10:07:25 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-06-02 10:07:53 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [CM 5,0 zł], Id urządzenia: [13], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [450]
+2017-06-02 10:07:53 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [84317], ID urządzenia: [13], Serwisant: [mjanek]

@@ -1,0 +1,36 @@
+2017-08-29 9:00:39 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [132506], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [5443], Nr automatu: [5716]
+2017-08-29 9:04:06 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1788/2017], ID dokumentu: [7933], Nazwa serisanta: [Mateusz Żerebecki], ID serwisanta: [44], Nazwa urządzenia: [MAIN (WRDE 0141)], ID urządzenia: [66], Ilość: [1]
+2017-08-29 9:04:17 - [INFO] --> Logowanie użytkownika: [mzerebecki]
+2017-08-29 9:04:36 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mateusz Żerebecki], Urządzenie: [MAIN (WRDE 0141)], Id urządzenia: [66], Ilość: [-1], Nr boczny pojazdu: [4641], Nr automatu: [5757]
+2017-08-29 9:04:36 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [132560], ID urządzenia: [66], Serwisant: [mzerebecki]
+2017-08-29 9:04:51 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-08-29 9:06:11 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-08-29 9:06:55 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [132560], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [4641], Nr automatu: [5757]
+2017-08-29 9:11:02 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-08-29 9:11:45 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [161], ID damaged_devices: [14940]
+2017-08-29 9:11:45 - [INFO] --> UPDATE damaged_devices SET arrival_id='7934', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14940' AND product_id='161' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-29 9:11:45 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [161], ID damaged_devices: [14901]
+2017-08-29 9:11:45 - [INFO] --> UPDATE damaged_devices SET arrival_id='7934', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14901' AND product_id='161' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-29 9:11:45 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [148], ID damaged_devices: [14889]
+2017-08-29 9:11:45 - [INFO] --> UPDATE damaged_devices SET arrival_id='7934', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14889' AND product_id='148' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-29 9:11:46 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [148], ID damaged_devices: [14900]
+2017-08-29 9:11:46 - [INFO] --> UPDATE damaged_devices SET arrival_id='7934', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14900' AND product_id='148' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-29 9:11:46 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [167], ID damaged_devices: [14902]
+2017-08-29 9:11:46 - [INFO] --> UPDATE damaged_devices SET arrival_id='7934', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14902' AND product_id='167' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-29 9:11:46 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [194], ID damaged_devices: [15027]
+2017-08-29 9:11:46 - [INFO] --> UPDATE damaged_devices SET arrival_id='7934', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='15027' AND product_id='194' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-29 9:11:46 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [1], ID damaged_devices: [14964]
+2017-08-29 9:11:46 - [INFO] --> UPDATE damaged_devices SET arrival_id='7934', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14964' AND product_id='1' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-29 9:11:46 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [17], ID damaged_devices: [14865]
+2017-08-29 9:11:46 - [INFO] --> UPDATE damaged_devices SET arrival_id='7934', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14865' AND product_id='17' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-29 9:11:46 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [39], ID damaged_devices: [15079]
+2017-08-29 9:11:46 - [INFO] --> UPDATE damaged_devices SET arrival_id='7934', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='15079' AND product_id='39' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-29 9:11:47 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [40], ID damaged_devices: [14896]
+2017-08-29 9:11:47 - [INFO] --> UPDATE damaged_devices SET arrival_id='7934', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14896' AND product_id='40' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-29 9:16:28 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [132502], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2258], Nr automatu: [5139]
+2017-08-29 9:16:42 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1789/2017], ID dokumentu: [7935], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [Mechanizm drukujący SEIKO z obcinaczem], ID urządzenia: [67], Ilość: [1]
+2017-08-29 9:17:08 - [INFO] --> Logowanie użytkownika: [tkarabiniewicz]
+2017-08-29 9:17:23 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Karabiniewicz], Urządzenie: [Mechanizm drukujący SEIKO z obcinaczem], Id urządzenia: [67], Ilość: [-1], Nr boczny pojazdu: [2258], Nr automatu: [5139]
+2017-08-29 9:17:23 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [132562], ID urządzenia: [67], Serwisant: [tkarabiniewicz]
+2017-08-29 9:17:33 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-08-29 9:17:44 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [132562], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2258], Nr automatu: [5139]

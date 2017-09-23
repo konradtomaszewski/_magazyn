@@ -1,0 +1,6 @@
+2016-11-16 12:16:25 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-11-16 12:27:12 - [ERROR] --> Nieudane logowanie użytkownika: [manager]
+2016-11-16 12:27:29 - [INFO] --> Logowanie użytkownika: [manager]
+2016-11-16 12:30:44 - [INFO] --> Logowanie użytkownika: [manager]
+2016-11-16 12:57:56 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-11-16 12:58:40 - [INFO] --> Logowanie użytkownika: [manager]

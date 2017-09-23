@@ -1,0 +1,5 @@
+2017-06-25 6:15:10 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1419/2017], ID dokumentu: [6137], Nazwa serisanta: [Marcin Staniszewski], ID serwisanta: [45], Nazwa urządzenia: [Zasilacz], ID urządzenia: [43], Ilość: [1]
+2017-06-25 6:15:15 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
+2017-06-25 6:15:52 - [INFO] --> Logowanie użytkownika: [serwisant_c]
+2017-06-25 6:16:26 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1420/2017], ID dokumentu: [6138], Nazwa serisanta: [Marcin Staniszewski], ID serwisanta: [45], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
+2017-06-25 6:17:40 - [INFO] --> Logowanie użytkownika: [tjasinski_s]

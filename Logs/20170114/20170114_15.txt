@@ -1,0 +1,6 @@
+2017-01-14 15:19:24 - [ERROR] --> Nieudane logowanie użytkownika: [pmikucki]
+2017-01-14 15:19:39 - [ERROR] --> Nieudane logowanie użytkownika: [pmikucki]
+2017-01-14 15:19:52 - [ERROR] --> Nieudane logowanie użytkownika: [pmikucki]
+2017-01-14 15:20:07 - [INFO] --> Logowanie użytkownika: [pmikucki]
+2017-01-14 15:20:39 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Paweł Mikucki], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [549]
+2017-01-14 15:20:39 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [16334], ID urządzenia: [130], Serwisant: [pmikucki]

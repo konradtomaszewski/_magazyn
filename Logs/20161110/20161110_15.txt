@@ -1,0 +1,3 @@
+2016-11-10 15:03:17 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-11-10 15:51:57 - [INFO] --> Logowanie użytkownika: [vector_test]
+2016-11-10 15:55:11 - [INFO] --> Logowanie użytkownika: [kjasinski]

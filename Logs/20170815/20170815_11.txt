@@ -1,0 +1,1 @@
+2017-08-15 11:12:06 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [124655], przez uzytkownika: [mprzybylski], Nr boczny pojazdu: [], Nr automatu: [533]

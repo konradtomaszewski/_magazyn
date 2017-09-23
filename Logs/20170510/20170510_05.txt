@@ -1,0 +1,2 @@
+2017-05-10 5:53:05 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-05-10 5:53:33 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1066/2017], ID dokumentu: [4775], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [4]

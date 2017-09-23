@@ -1,0 +1,2 @@
+2017-03-29 18:21:39 - [INFO] --> Logowanie użytkownika: [jczajka]
+2017-03-29 18:22:04 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/786/2017], ID dokumentu: [3720], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [PC], ID urządzenia: [30], Ilość: [1]

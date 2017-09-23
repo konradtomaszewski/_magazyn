@@ -1,0 +1,5 @@
+2016-11-22 10:18:00 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/200/2016], ID dokumentu: [364], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [PC], ID urządzenia: [30], Ilość: [1]
+2016-11-22 10:18:32 - [INFO] --> Logowanie użytkownika: [tkarabiniewicz]
+2016-11-22 10:28:45 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Karabiniewicz], Urządzenie: [PC], Id urządzenia: [30], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [578]
+2016-11-22 10:30:28 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-11-22 10:36:58 - [INFO] --> Logowanie użytkownika: [kwiaterski]

@@ -1,0 +1,7 @@
+2017-02-16 20:31:14 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-02-16 20:33:29 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [132]
+2017-02-16 20:33:30 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [31809], ID urządzenia: [128], Serwisant: [rtworkowski]
+2017-02-16 20:34:09 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [akceptor ( wlot )], Id urządzenia: [1], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [453]
+2017-02-16 20:34:09 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [31810], ID urządzenia: [1], Serwisant: [rtworkowski]
+2017-02-16 20:34:37 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [Drukarka Edmonson duża BTVM-1], Id urządzenia: [148], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [238]
+2017-02-16 20:34:37 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [31811], ID urządzenia: [148], Serwisant: [rtworkowski]

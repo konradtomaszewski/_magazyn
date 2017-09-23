@@ -1,0 +1,13 @@
+2017-08-23 10:01:21 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [127152], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [550]
+2017-08-23 10:27:11 - [INFO] --> Logowanie użytkownika: [krzysztof]
+2017-08-23 10:27:36 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-08-23 10:28:53 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [117243], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [622]
+2017-08-23 10:29:22 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [45], ID damaged_devices: [13207]
+2017-08-23 10:29:22 - [INFO] --> UPDATE damaged_devices SET arrival_id='7762', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='13207' AND product_id='45' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-23 10:35:08 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1745/2017], ID dokumentu: [7763], Nazwa serisanta: [Cezary Skwarzyński], ID serwisanta: [10], Nazwa urządzenia: [Antena dwupasmowa GSM/GPS], ID urządzenia: [59], Ilość: [1]
+2017-08-23 10:35:15 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-08-23 10:35:26 - [INFO] --> Logowanie użytkownika: [cskwarzynski]
+2017-08-23 10:36:17 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Cezary Skwarzyński], Urządzenie: [Antena dwupasmowa GSM/GPS], Id urządzenia: [59], Ilość: [-1], Nr boczny pojazdu: [5433], Nr automatu: [5561]
+2017-08-23 10:36:17 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [129375], ID urządzenia: [59], Serwisant: [cskwarzynski]
+2017-08-23 10:36:25 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-08-23 10:38:31 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [129375], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [5433], Nr automatu: [5561]

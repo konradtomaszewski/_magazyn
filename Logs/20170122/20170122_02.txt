@@ -1,0 +1,2 @@
+2017-01-22 2:59:30 - [INFO] --> Logowanie użytkownika: [tkarabiniewicz]
+2017-01-22 2:59:55 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Tomasz Karabiniewicz], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-8]

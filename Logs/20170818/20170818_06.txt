@@ -1,0 +1,7 @@
+2017-08-18 6:38:53 - [INFO] --> Logowanie użytkownika: [mstaniszewski]
+2017-08-18 6:48:47 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-08-18 6:50:05 - [INFO] --> Logowanie użytkownika: [serwisant_n]
+2017-08-18 6:52:08 - [INFO] --> Logowanie użytkownika: [rstawieraj]
+2017-08-18 6:55:02 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1821/2017], ID dokumentu: [7653], Nazwa serisanta: [Rafał Stawieraj], ID serwisanta: [33], Nazwa urządzenia: [Zasilacz], ID urządzenia: [43], Ilość: [1]
+2017-08-18 6:57:30 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-08-18 6:59:17 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1822/2017], ID dokumentu: [7654], Nazwa serisanta: [Rafał Stawieraj], ID serwisanta: [33], Nazwa urządzenia: [Bateria backup], ID urządzenia: [146], Ilość: [1]

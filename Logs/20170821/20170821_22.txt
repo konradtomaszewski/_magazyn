@@ -1,0 +1,2 @@
+2017-08-21 22:08:37 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
+2017-08-21 22:21:17 - [INFO] --> Logowanie użytkownika: [kjasinski]

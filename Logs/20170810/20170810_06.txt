@@ -1,0 +1,8 @@
+2017-08-10 6:23:55 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
+2017-08-10 6:24:05 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
+2017-08-10 6:40:29 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1773/2017], ID dokumentu: [7476], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
+2017-08-10 6:42:01 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
+2017-08-10 6:42:55 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1774/2017], ID dokumentu: [7477], Nazwa serisanta: [Marek Madej Sierski], ID serwisanta: [48], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [4]
+2017-08-10 6:42:55 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1774/2017], ID dokumentu: [7477], Nazwa serisanta: [Marek Madej Sierski], ID serwisanta: [48], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [2]
+2017-08-10 6:45:48 - [INFO] --> Logowanie użytkownika: [rstawieraj]
+2017-08-10 6:46:24 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1775/2017], ID dokumentu: [7478], Nazwa serisanta: [Rafał Stawieraj], ID serwisanta: [33], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [2]

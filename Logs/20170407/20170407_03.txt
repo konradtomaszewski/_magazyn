@@ -1,0 +1,6 @@
+2017-04-07 3:05:35 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mateusz Żerebecki], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [8046], Nr automatu: [5605]
+2017-04-07 3:05:35 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [56878], ID urządzenia: [129], Serwisant: [mzerebecki]
+2017-04-07 3:08:52 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mateusz Żerebecki], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [8075], Nr automatu: [5635]
+2017-04-07 3:08:52 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [56879], ID urządzenia: [129], Serwisant: [mzerebecki]
+2017-04-07 3:13:35 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mateusz Żerebecki], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [8312], Nr automatu: [5519]
+2017-04-07 3:13:35 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [56880], ID urządzenia: [129], Serwisant: [mzerebecki]

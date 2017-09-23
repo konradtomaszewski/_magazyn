@@ -1,0 +1,3 @@
+2016-12-22 15:01:31 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-12-22 15:02:17 - [INFO] --> Logowanie użytkownika: [abuller]
+2016-12-22 15:02:33 - [INFO] --> Logowanie użytkownika: [wperko]

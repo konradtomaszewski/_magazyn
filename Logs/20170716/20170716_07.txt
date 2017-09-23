@@ -1,0 +1,2 @@
+2017-07-16 7:14:43 - [INFO] --> Logowanie użytkownika: [abukalo]
+2017-07-16 7:21:09 - [INFO] --> Logowanie użytkownika: [dgasiewski]

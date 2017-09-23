@@ -1,0 +1,4 @@
+2017-08-08 16:03:30 - [INFO] --> Logowanie użytkownika: [mstaniszewski]
+2017-08-08 16:15:20 - [INFO] --> Logowanie użytkownika: [serwisant_c]
+2017-08-08 16:16:17 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
+2017-08-08 16:55:28 - [INFO] --> Logowanie użytkownika: [mprzybylski]

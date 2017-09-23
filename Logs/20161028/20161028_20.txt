@@ -1,0 +1,1 @@
+2016-10-28 20:15:47 - [INFO] --> Typ dokumentu: [Dostawa części (do zatwierdzenia)], Nazwa dokumentu:  [WAR/N/04/2016],  Nazwa urządzenia: [zasilacz], ID urządzenia: [43], Ilość: [1]

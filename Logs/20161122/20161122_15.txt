@@ -1,0 +1,5 @@
+2016-11-22 15:00:32 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-11-22 15:16:22 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-11-22 15:16:49 - [INFO] --> Logowanie użytkownika: [msieradzki]
+2016-11-22 15:25:05 - [INFO] --> Logowanie użytkownika: [mennica_test]
+2016-11-22 15:32:54 - [INFO] --> Logowanie użytkownika: [mennica_test]

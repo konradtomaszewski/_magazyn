@@ -1,0 +1,4 @@
+2017-07-28 10:02:42 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [114013], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [328]
+2017-07-28 10:04:22 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [114353], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [346]
+2017-07-28 10:04:50 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [113948], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [293]
+2017-07-28 10:15:00 - [INFO] --> Logowanie użytkownika: [kjasinski]

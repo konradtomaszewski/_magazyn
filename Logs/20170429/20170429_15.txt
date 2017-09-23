@@ -1,0 +1,3 @@
+2017-04-29 15:56:12 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-04-29 15:57:57 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-04-29 15:58:26 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/917/2017], ID dokumentu: [4525], Nazwa serisanta: [Mateusz Żerebecki], ID serwisanta: [44], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [6]

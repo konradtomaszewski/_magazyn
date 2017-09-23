@@ -1,0 +1,8 @@
+2017-01-01 17:05:39 - [ERROR] --> Nieudane logowanie użytkownika: [tnowinski]
+2017-01-01 17:06:38 - [ERROR] --> Nieudane logowanie użytkownika: [tnowinski]
+2017-01-01 17:29:14 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-01-01 17:30:27 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/02/2017], ID dokumentu: [942], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]
+2017-01-01 17:30:56 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/03/2017], ID dokumentu: [943], Nazwa serisanta: [Szymon Miernik], ID serwisanta: [7], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]
+2017-01-01 17:57:59 - [ERROR] --> Nieudane logowanie użytkownika: [znowak]
+2017-01-01 17:58:25 - [INFO] --> Logowanie użytkownika: [znowak]
+2017-01-01 17:58:25 - [INFO] --> Logowanie użytkownika: [znowak]

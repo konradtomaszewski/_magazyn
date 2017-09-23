@@ -1,0 +1,2 @@
+2017-03-15 19:17:16 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-03-15 19:21:15 - [INFO] --> Logowanie użytkownika: [rstawieraj]

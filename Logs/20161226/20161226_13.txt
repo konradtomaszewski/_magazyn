@@ -1,0 +1,8 @@
+2016-12-26 13:46:37 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-12-26 13:52:12 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-12-26 13:52:31 - [INFO] --> Logowanie użytkownika: [wperko]
+2016-12-26 13:52:51 - [INFO] --> Logowanie użytkownika: [msieradzki]
+2016-12-26 13:53:04 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-12-26 13:55:24 - [INFO] --> Logowanie użytkownika: [cskwarzynski]
+2016-12-26 13:55:43 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Cezary Skwarzyński], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-24]
+2016-12-26 13:55:57 - [INFO] --> Logowanie użytkownika: [kjasinski]

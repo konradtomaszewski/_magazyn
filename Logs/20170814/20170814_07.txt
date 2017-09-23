@@ -1,0 +1,3 @@
+2017-08-14 7:08:20 - [INFO] --> Logowanie użytkownika: [rstawieraj]
+2017-08-14 7:08:46 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1798/2017], ID dokumentu: [7573], Nazwa serisanta: [Rafał Stawieraj], ID serwisanta: [33], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [3]
+2017-08-14 7:46:44 - [INFO] --> Logowanie użytkownika: [rtworkowski]

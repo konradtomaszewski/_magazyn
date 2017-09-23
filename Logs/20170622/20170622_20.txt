@@ -1,0 +1,3 @@
+2017-06-22 20:57:31 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-06-22 20:57:58 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [298]
+2017-06-22 20:57:58 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [95467], ID urządzenia: [149], Serwisant: [rtworkowski]

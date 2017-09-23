@@ -1,0 +1,6 @@
+2017-03-26 14:12:12 - [INFO] --> Logowanie użytkownika: [jczajka]
+2017-03-26 14:12:26 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-03-26 14:34:01 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
+2017-03-26 14:40:36 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
+2017-03-26 14:41:22 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/754/2017], ID dokumentu: [3607], Nazwa serisanta: [Tomasz Jasiński serwisant], ID serwisanta: [39], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]
+2017-03-26 14:41:22 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/754/2017], ID dokumentu: [3607], Nazwa serisanta: [Tomasz Jasiński serwisant], ID serwisanta: [39], Nazwa urządzenia: [walidator (NRI)], ID urządzenia: [42], Ilość: [1]

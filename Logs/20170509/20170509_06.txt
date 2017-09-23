@@ -1,0 +1,4 @@
+2017-05-09 6:17:09 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-05-09 6:31:42 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-05-09 6:32:23 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1062/2017], ID dokumentu: [4747], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
+2017-05-09 6:51:26 - [INFO] --> Logowanie użytkownika: [mstaniszewski]

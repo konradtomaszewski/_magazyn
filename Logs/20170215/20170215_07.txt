@@ -1,0 +1,2 @@
+2017-02-15 7:24:43 - [INFO] --> Logowanie użytkownika: [jczajka]
+2017-02-15 7:29:38 - [INFO] --> Logowanie użytkownika: [kjasinski]

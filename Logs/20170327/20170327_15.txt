@@ -1,0 +1,7 @@
+2017-03-27 15:01:27 - [INFO] --> Logowanie użytkownika: [jczajka]
+2017-03-27 15:02:30 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-03-27 15:05:03 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/759/2017], ID dokumentu: [3641], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [9]
+2017-03-27 15:05:12 - [INFO] --> Logowanie użytkownika: [manager]
+2017-03-27 15:06:46 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/760/2017], ID dokumentu: [3642], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [2]
+2017-03-27 15:06:46 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/760/2017], ID dokumentu: [3642], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [Czytnik UX300], ID urządzenia: [161], Ilość: [1]
+2017-03-27 15:09:08 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/761/2017], ID dokumentu: [3643], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [Jarzeniówka oświetlenie zewnętrzne], ID urządzenia: [151], Ilość: [1]

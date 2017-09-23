@@ -1,0 +1,5 @@
+2017-06-14 10:28:39 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-06-14 10:39:46 - [INFO] --> Logowanie użytkownika: [jczajka]
+2017-06-14 10:40:08 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [90408], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2306], Nr automatu: [5171]
+2017-06-14 10:40:08 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [90375], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [5404], Nr automatu: [5734]
+2017-06-14 10:40:08 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [90385], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [8143], Nr automatu: [5701]

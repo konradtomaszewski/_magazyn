@@ -1,0 +1,4 @@
+2017-04-10 8:15:33 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-04-10 8:16:58 - [INFO] --> Logowanie użytkownika: [abuller]
+2017-04-10 8:55:14 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-04-10 8:56:14 - [INFO] --> Logowanie użytkownika: [znowak]

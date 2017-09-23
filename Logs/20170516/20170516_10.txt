@@ -1,0 +1,6 @@
+2017-05-16 10:05:35 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [74640], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [388]
+2017-05-16 10:06:38 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [74373], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [317]
+2017-05-16 10:07:31 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [73501], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [416]
+2017-05-16 10:07:44 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [74269], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [23]
+2017-05-16 10:21:51 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [74473], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [264]
+2017-05-16 10:43:56 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

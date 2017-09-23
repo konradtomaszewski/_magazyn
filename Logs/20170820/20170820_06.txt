@@ -1,0 +1,3 @@
+2017-08-20 6:17:34 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-08-20 6:33:14 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-08-20 6:37:38 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1843/2017], ID dokumentu: [7704], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]

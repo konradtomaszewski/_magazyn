@@ -1,0 +1,5 @@
+2017-03-05 9:15:55 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-03-05 9:18:36 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-03-05 9:32:22 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-03-05 9:39:37 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-03-05 9:52:17 - [INFO] --> Logowanie użytkownika: [mjanek]

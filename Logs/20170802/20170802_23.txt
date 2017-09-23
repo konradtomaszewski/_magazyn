@@ -1,0 +1,7 @@
+2017-08-02 23:29:07 - [INFO] --> Logowanie użytkownika: [pmikucki]
+2017-08-02 23:29:57 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1630/2017], ID dokumentu: [7277], Nazwa serisanta: [Paweł Mikucki], ID serwisanta: [42], Nazwa urządzenia: [płyta pod CM], ID urządzenia: [33], Ilość: [1]
+2017-08-02 23:29:57 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1630/2017], ID dokumentu: [7277], Nazwa serisanta: [Paweł Mikucki], ID serwisanta: [42], Nazwa urządzenia: [płyta za ACM], ID urządzenia: [34], Ilość: [1]
+2017-08-02 23:30:15 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Paweł Mikucki], Urządzenie: [płyta pod CM], Id urządzenia: [33], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [533]
+2017-08-02 23:30:15 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [119689], ID urządzenia: [33], Serwisant: [pmikucki]
+2017-08-02 23:30:27 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Paweł Mikucki], Urządzenie: [płyta za ACM], Id urządzenia: [34], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [533]
+2017-08-02 23:30:27 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [119690], ID urządzenia: [34], Serwisant: [pmikucki]

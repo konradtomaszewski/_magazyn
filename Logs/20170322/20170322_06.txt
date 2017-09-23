@@ -1,0 +1,8 @@
+2017-03-22 6:20:40 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-03-22 6:22:34 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/719/2017], ID dokumentu: [3488], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
+2017-03-22 6:22:34 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/719/2017], ID dokumentu: [3488], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [drukarka (Thino)], ID urządzenia: [17], Ilość: [1]
+2017-03-22 6:40:45 - [INFO] --> Logowanie użytkownika: [tkopyra]
+2017-03-22 6:43:19 - [INFO] --> Logowanie użytkownika: [tkopyra]
+2017-03-22 6:43:34 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/720/2017], ID dokumentu: [3489], Nazwa serisanta: [Tadeusz Kopyra], ID serwisanta: [32], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
+2017-03-22 6:43:48 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/721/2017], ID dokumentu: [3490], Nazwa serisanta: [Tadeusz Kopyra], ID serwisanta: [32], Nazwa urządzenia: [drukarka (Thino)], ID urządzenia: [17], Ilość: [1]
+2017-03-22 6:55:07 - [INFO] --> Logowanie użytkownika: [rstawieraj]

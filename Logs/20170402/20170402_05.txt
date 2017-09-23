@@ -1,0 +1,2 @@
+2017-04-02 5:03:19 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
+2017-04-02 5:15:47 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Paweł Mikucki], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-16]

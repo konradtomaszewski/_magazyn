@@ -1,0 +1,2 @@
+2017-05-05 11:00:42 - [ERROR] --> Nieudane logowanie użytkownika: [kkowalczyk]
+2017-05-05 11:00:54 - [INFO] --> Logowanie użytkownika: [kkowalczyk]

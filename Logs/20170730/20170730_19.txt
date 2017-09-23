@@ -1,0 +1,2 @@
+2017-07-30 19:45:49 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-07-30 19:48:20 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1607/2017], ID dokumentu: [7168], Nazwa serisanta: [Mateusz Żerebecki], ID serwisanta: [44], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]

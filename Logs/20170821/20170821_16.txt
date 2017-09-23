@@ -1,0 +1,5 @@
+2017-08-21 16:01:21 - [INFO] --> Logowanie użytkownika: [znowak]
+2017-08-21 16:04:17 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-08-21 16:04:40 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Nowiński], Urządzenie: [Drukarka Edmonson duża BTVM-1], Id urządzenia: [148], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [241]
+2017-08-21 16:04:40 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [128759], ID urządzenia: [148], Serwisant: [tnowinski]
+2017-08-21 16:09:56 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [128759], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [241]

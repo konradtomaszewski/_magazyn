@@ -1,0 +1,2 @@
+2016-12-10 19:57:33 - [INFO] --> Logowanie użytkownika: [lmazurowski]
+2016-12-10 19:57:51 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Łukasz Mazurowski], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-4]

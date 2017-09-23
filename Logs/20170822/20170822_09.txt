@@ -1,0 +1,15 @@
+2017-08-22 9:29:31 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [148], ID damaged_devices: [14588]
+2017-08-22 9:29:31 - [INFO] --> UPDATE damaged_devices SET arrival_id='7739', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14588' AND product_id='148' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-22 9:29:31 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [194], ID damaged_devices: [14583]
+2017-08-22 9:29:31 - [INFO] --> UPDATE damaged_devices SET arrival_id='7739', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='14583' AND product_id='194' AND damaged_devices_status_id='1' and id > '147' 
+2017-08-22 9:37:51 - [INFO] --> Logowanie użytkownika: [dostawy]
+2017-08-22 9:38:22 - [INFO] --> Typ dokumentu: [Dostawa części (do zatwierdzenia)], Nazwa dokumentu:  [WRO/N/51/2017],  Nazwa urządzenia: [Akumulator 12V 2,3 Ah], ID urządzenia: [58], Ilość: [72]
+2017-08-22 9:38:38 - [INFO] --> Logowanie użytkownika: [mprzybylski]
+2017-08-22 9:38:46 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WRO/N/51/2017],  Nazwa urządzenia: [Akumulator 12V 2,3 Ah], ID urządzenia: [58], Ilość: [72]
+2017-08-22 9:40:52 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-08-22 9:41:16 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [114]
+2017-08-22 9:41:16 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [128975], ID urządzenia: [149], Serwisant: [mjanek]
+2017-08-22 9:41:35 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [Starter do jarzeniówki oświetlenia zewnętrznego], Id urządzenia: [153], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [115]
+2017-08-22 9:41:35 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [128976], ID urządzenia: [153], Serwisant: [mjanek]
+2017-08-22 9:41:49 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [Jarzeniówka oświetlenie zewnętrzne], Id urządzenia: [151], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [115]
+2017-08-22 9:41:50 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [128977], ID urządzenia: [151], Serwisant: [mjanek]

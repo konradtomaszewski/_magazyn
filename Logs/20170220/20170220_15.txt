@@ -1,0 +1,4 @@
+2017-02-20 15:00:06 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WAR/N/36/2017],  Nazwa urządzenia: [CM 0,2 zł], ID urządzenia: [7], Ilość: [1]
+2017-02-20 15:00:06 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WAR/N/36/2017],  Nazwa urządzenia: [CM 0,2 zł], ID urządzenia: [9], Ilość: [1]
+2017-02-20 15:00:06 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WAR/N/36/2017],  Nazwa urządzenia: [CM 0,2 zł], ID urządzenia: [17], Ilość: [4]
+2017-02-20 15:00:06 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WAR/N/36/2017],  Nazwa urządzenia: [CM 0,2 zł], ID urządzenia: [148], Ilość: [3]

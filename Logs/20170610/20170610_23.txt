@@ -1,0 +1,2 @@
+2017-06-10 23:15:02 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-06-10 23:51:16 - [INFO] --> Logowanie użytkownika: [tjasinski_s]

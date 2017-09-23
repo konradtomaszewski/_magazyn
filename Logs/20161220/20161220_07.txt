@@ -1,0 +1,5 @@
+2016-12-20 7:37:34 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2016-12-20 7:39:44 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/424/2016], ID dokumentu: [754], Nazwa serisanta: [Filip Marzec], ID serwisanta: [20], Nazwa urządzenia: [BNA], ID urządzenia: [7], Ilość: [1]
+2016-12-20 7:40:00 - [INFO] --> Logowanie użytkownika: [fmarzec]
+2016-12-20 7:40:19 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Filip Marzec], Urządzenie: [BNA], Id urządzenia: [7], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [567]
+2016-12-20 7:40:19 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [9352], ID urządzenia: [7], Serwisant: [fmarzec]

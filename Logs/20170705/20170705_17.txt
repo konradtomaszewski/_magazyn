@@ -1,0 +1,2 @@
+2017-07-05 17:54:43 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-07-05 17:57:06 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1529/2017], ID dokumentu: [6491], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [walidator (NRI)], ID urządzenia: [42], Ilość: [2]

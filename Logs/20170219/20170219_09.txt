@@ -1,0 +1,3 @@
+2017-02-19 9:38:05 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-02-19 9:38:10 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-02-19 9:38:29 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/464/2017], ID dokumentu: [2520], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [drukarka (Thino)], ID urządzenia: [17], Ilość: [1]

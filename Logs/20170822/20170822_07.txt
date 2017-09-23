@@ -1,0 +1,3 @@
+2017-08-22 7:45:49 - [INFO] --> Logowanie użytkownika: [mjanek]
+2017-08-22 7:46:19 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1853/2017], ID dokumentu: [7738], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [Starter do jarzeniówki oświetlenia zewnętrznego], ID urządzenia: [153], Ilość: [1]
+2017-08-22 7:46:19 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1853/2017], ID dokumentu: [7738], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [Jarzeniówka oświetlenie zewnętrzne], ID urządzenia: [151], Ilość: [1]

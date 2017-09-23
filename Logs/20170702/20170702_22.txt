@@ -1,0 +1,3 @@
+2017-07-02 22:25:45 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-07-02 22:26:54 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [101135], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [136]
+2017-07-02 22:26:54 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [99769], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [451]

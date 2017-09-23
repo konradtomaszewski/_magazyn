@@ -1,0 +1,18 @@
+2017-01-27 11:02:01 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-01-27 11:02:37 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Nowiński], Urządzenie: [Drukarka Edmonson duża BTVM-1], Id urządzenia: [148], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [416]
+2017-01-27 11:02:37 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [21997], ID urządzenia: [148], Serwisant: [tnowinski]
+2017-01-27 11:02:53 - [INFO] --> Logowanie użytkownika: [tnowinski]
+2017-01-27 11:10:01 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-01-27 11:10:15 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [145], ID damaged_devices: [2465]
+2017-01-27 11:10:15 - [INFO] --> UPDATE damaged_devices SET arrival_id='1774', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2465' AND product_id='145' AND damaged_devices_status_id='1' and id > '147' 
+2017-01-27 11:10:15 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [145], ID damaged_devices: [2540]
+2017-01-27 11:10:15 - [INFO] --> UPDATE damaged_devices SET arrival_id='1774', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2540' AND product_id='145' AND damaged_devices_status_id='1' and id > '147' 
+2017-01-27 11:10:15 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [148], ID damaged_devices: [2550]
+2017-01-27 11:10:15 - [INFO] --> UPDATE damaged_devices SET arrival_id='1774', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2550' AND product_id='148' AND damaged_devices_status_id='1' and id > '147' 
+2017-01-27 11:10:15 - [INFO] --> Zmiana statusu urządzenia pobranego z automatu: [4], ID urządzenia: [148], ID damaged_devices: [2536]
+2017-01-27 11:10:15 - [INFO] --> UPDATE damaged_devices SET arrival_id='1774', damaged_devices_status_id='4', mennica_service_id='1', change_status_datetime=NOW() WHERE id='2536' AND product_id='148' AND damaged_devices_status_id='1' and id > '147' 
+2017-01-27 11:20:01 - [INFO] --> Logowanie użytkownika: [rstawieraj]
+2017-01-27 11:20:26 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Stawieraj], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [128]
+2017-01-27 11:20:26 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [21998], ID urządzenia: [128], Serwisant: [rstawieraj]
+2017-01-27 11:20:43 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Stawieraj], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [128]
+2017-01-27 11:20:43 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [21999], ID urządzenia: [149], Serwisant: [rstawieraj]

@@ -1,0 +1,4 @@
+2017-07-12 14:13:59 - [ERROR] --> Nieudane logowanie użytkownika: [mmadejsierski]
+2017-07-12 14:14:11 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
+2017-07-12 14:15:18 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1578/2017], ID dokumentu: [6682], Nazwa serisanta: [Marek Madej Sierski], ID serwisanta: [48], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]
+2017-07-12 14:15:18 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1578/2017], ID dokumentu: [6682], Nazwa serisanta: [Marek Madej Sierski], ID serwisanta: [48], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [2]

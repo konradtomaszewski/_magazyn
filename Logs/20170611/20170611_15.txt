@@ -1,0 +1,5 @@
+2017-06-11 15:00:30 - [INFO] --> Logowanie użytkownika: [abuller]
+2017-06-11 15:01:00 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Artur Buller], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [627]
+2017-06-11 15:01:00 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [89114], ID urządzenia: [130], Serwisant: [abuller]
+2017-06-11 15:01:22 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Artur Buller], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1]
+2017-06-11 15:01:22 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Artur Buller], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-2]

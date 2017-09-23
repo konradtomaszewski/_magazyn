@@ -1,0 +1,2 @@
+2017-08-05 20:46:12 - [INFO] --> Logowanie użytkownika: [mzerebecki]
+2017-08-05 20:59:08 - [INFO] --> Logowanie użytkownika: [rtworkowski]

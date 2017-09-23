@@ -1,0 +1,2 @@
+2016-11-27 21:43:02 - [INFO] --> Logowanie użytkownika: [msieradzki]
+2016-11-27 21:51:34 - [INFO] --> Logowanie użytkownika: [kjasinski]

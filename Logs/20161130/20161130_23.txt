@@ -1,0 +1,7 @@
+2016-11-30 23:50:20 - [INFO] --> Logowanie użytkownika: [abuller]
+2016-11-30 23:50:56 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Artur Buller], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [2242], Nr automatu: [5007]
+2016-11-30 23:50:57 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [5484], ID urządzenia: [129], Serwisant: [abuller]
+2016-11-30 23:51:43 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Artur Buller], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [2484], Nr automatu: [5035]
+2016-11-30 23:51:43 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [5485], ID urządzenia: [129], Serwisant: [abuller]
+2016-11-30 23:52:23 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Artur Buller], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [2536], Nr automatu: [5077]
+2016-11-30 23:52:23 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [5486], ID urządzenia: [129], Serwisant: [abuller]

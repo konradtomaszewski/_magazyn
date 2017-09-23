@@ -1,0 +1,8 @@
+2017-05-14 6:22:39 - [INFO] --> Logowanie użytkownika: [tkopyra]
+2017-05-14 6:25:44 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1094/2017], ID dokumentu: [4893], Nazwa serisanta: [Tadeusz Kopyra], ID serwisanta: [32], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [3]
+2017-05-14 6:26:42 - [INFO] --> Logowanie użytkownika: [mstaniszewski]
+2017-05-14 6:28:52 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1095/2017], ID dokumentu: [4894], Nazwa serisanta: [Marcin Staniszewski], ID serwisanta: [45], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]
+2017-05-14 6:55:45 - [INFO] --> Logowanie użytkownika: [cskwarzynski]
+2017-05-14 6:56:47 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1026/2017], ID dokumentu: [4895], Nazwa serisanta: [Cezary Skwarzyński], ID serwisanta: [10], Nazwa urządzenia: [ZCGVA], ID urządzenia: [44], Ilość: [1]
+2017-05-14 6:57:09 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Cezary Skwarzyński], Urządzenie: [ZCGVA], Id urządzenia: [44], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [606]
+2017-05-14 6:57:09 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [74004], ID urządzenia: [44], Serwisant: [cskwarzynski]

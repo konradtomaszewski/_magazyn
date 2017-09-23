@@ -1,0 +1,1 @@
+2017-09-05 12:13:45 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [136169], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [576]

@@ -1,0 +1,5 @@
+2016-12-28 20:32:56 - [INFO] --> Logowanie użytkownika: [abuller]
+2016-12-28 20:33:12 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Artur Buller], Urządzenie: [ZCGVA], Id urządzenia: [44], Ilość: [-1]
+2016-12-28 20:33:23 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Artur Buller], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1]
+2016-12-28 20:33:32 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Artur Buller], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-1]
+2016-12-28 20:33:43 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Artur Buller], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-2]

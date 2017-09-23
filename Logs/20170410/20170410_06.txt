@@ -1,0 +1,7 @@
+2017-04-10 6:12:52 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-04-10 6:14:50 - [INFO] --> Logowanie użytkownika: [rtworkowski]
+2017-04-10 6:24:20 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/870/2017], ID dokumentu: [4025], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [4]
+2017-04-10 6:37:23 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-04-10 6:56:30 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
+2017-04-10 6:57:24 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/871/2017], ID dokumentu: [4031], Nazwa serisanta: [Tomasz Jasiński serwisant], ID serwisanta: [39], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
+2017-04-10 6:57:57 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/872/2017], ID dokumentu: [4032], Nazwa serisanta: [Tomasz Jasiński serwisant], ID serwisanta: [39], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [2]

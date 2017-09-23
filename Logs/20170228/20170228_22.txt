@@ -1,0 +1,2 @@
+2017-02-28 22:14:30 - [INFO] --> Logowanie użytkownika: [rstawieraj]
+2017-02-28 22:39:18 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]

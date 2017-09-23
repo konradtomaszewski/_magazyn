@@ -1,0 +1,5 @@
+2017-01-01 13:01:42 - [INFO] --> Logowanie użytkownika: [gwiatrzyk]
+2017-01-01 13:35:34 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-01-01 13:36:41 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/01/2017], ID dokumentu: [937], Nazwa serisanta: [Wojciech Perko], ID serwisanta: [11], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
+2017-01-01 13:36:41 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/01/2017], ID dokumentu: [937], Nazwa serisanta: [Wojciech Perko], ID serwisanta: [11], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [3]
+2017-01-01 13:37:53 - [INFO] --> Logowanie użytkownika: [tkopyra]

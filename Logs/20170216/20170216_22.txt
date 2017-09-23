@@ -1,0 +1,5 @@
+2017-02-16 22:31:37 - [INFO] --> Logowanie użytkownika: [abuller]
+2017-02-16 22:38:12 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-02-16 22:39:34 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
+2017-02-16 22:39:53 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Tomasz Jasiński serwisant], Urządzenie: [sortownik], Id urządzenia: [39], Ilość: [-1]
+2017-02-16 22:40:32 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

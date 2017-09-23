@@ -1,0 +1,5 @@
+2017-02-15 20:35:25 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
+2017-02-15 20:36:19 - [INFO] --> Logowanie użytkownika: [vector_test]
+2017-02-15 20:56:33 - [INFO] --> Logowanie użytkownika: [dgasiewski]
+2017-02-15 20:57:38 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Daniel Gąsiewski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [105]
+2017-02-15 20:57:38 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [31247], ID urządzenia: [149], Serwisant: [dgasiewski]

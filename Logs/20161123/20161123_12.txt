@@ -1,0 +1,4 @@
+2016-11-23 12:22:11 - [INFO] --> Logowanie użytkownika: [mennica_test]
+2016-11-23 12:27:55 - [INFO] --> Logowanie użytkownika: [mennica_test]
+2016-11-23 12:29:47 - [INFO] --> Logowanie użytkownika: [manager]
+2016-11-23 12:32:59 - [INFO] --> Logowanie użytkownika: [vector_test]

@@ -1,0 +1,1 @@
+2017-04-27 8:12:23 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [65992], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [8116], Nr automatu: [5675]

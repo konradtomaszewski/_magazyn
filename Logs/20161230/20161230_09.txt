@@ -1,0 +1,2 @@
+2016-12-30 9:13:56 - [ERROR] --> Nieudane logowanie użytkownika: [lmazurowski]
+2016-12-30 9:14:10 - [INFO] --> Logowanie użytkownika: [lmazurowski]

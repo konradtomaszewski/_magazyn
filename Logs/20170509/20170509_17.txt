@@ -1,0 +1,3 @@
+2017-05-09 17:42:36 - [INFO] --> Logowanie użytkownika: [mprzybylski]
+2017-05-09 17:43:09 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/992/2017], ID dokumentu: [4768], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [płyta pod CM], ID urządzenia: [33], Ilość: [1]
+2017-05-09 17:43:09 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/992/2017], ID dokumentu: [4768], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [płyta za ACM], ID urządzenia: [34], Ilość: [1]

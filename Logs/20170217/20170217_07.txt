@@ -1,0 +1,3 @@
+2017-02-17 7:46:16 - [ERROR] --> Nieudane logowanie użytkownika: [tkopyra]
+2017-02-17 7:46:29 - [INFO] --> Logowanie użytkownika: [tkopyra]
+2017-02-17 7:46:47 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/451/2017], ID dokumentu: [2460], Nazwa serisanta: [Tadeusz Kopyra], ID serwisanta: [32], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]

@@ -1,0 +1,3 @@
+2017-06-24 11:53:11 - [INFO] --> Logowanie użytkownika: [kjasinski]
+2017-06-24 11:53:42 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1366/2017], ID dokumentu: [6110], Nazwa serisanta: [Krystian Rechul], ID serwisanta: [43], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
+2017-06-24 11:53:42 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1366/2017], ID dokumentu: [6110], Nazwa serisanta: [Krystian Rechul], ID serwisanta: [43], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [3]
