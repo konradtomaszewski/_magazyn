@@ -1,6 +1,0 @@
-2017-05-27 6:05:24 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
-2017-05-27 6:07:50 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1170/2017], ID dokumentu: [5243], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
-2017-05-27 6:09:18 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-05-27 6:13:32 - [INFO] --> Logowanie użytkownika: [tnowinski]
-2017-05-27 6:28:27 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1171/2017], ID dokumentu: [5244], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [walidator (NRI)], ID urządzenia: [42], Ilość: [1]
-2017-05-27 6:28:28 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1171/2017], ID dokumentu: [5244], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [7]

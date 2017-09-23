@@ -1,2 +1,0 @@
-2017-08-12 18:49:51 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-08-12 18:50:22 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1789/2017], ID dokumentu: [7548], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [EM płytka podświetlenia ekranu], ID urządzenia: [178], Ilość: [1]

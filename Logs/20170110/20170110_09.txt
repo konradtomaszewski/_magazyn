@@ -1,5 +1,0 @@
-2017-01-10 9:17:11 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-01-10 9:18:23 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [12836], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [541]
-2017-01-10 9:18:23 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [12837], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [541]
-2017-01-10 9:22:20 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-01-10 9:25:45 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/71/2017], ID dokumentu: [1195], Nazwa serisanta: [Tadeusz Kopyra], ID serwisanta: [32], Nazwa urządzenia: [Nagrzewnica], ID urządzenia: [28], Ilość: [2]

@@ -1,7 +1,0 @@
-2017-08-08 6:08:27 - [ERROR] --> Nieudane logowanie użytkownika: [dgasiewski]
-2017-08-08 6:08:41 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-08-08 6:11:00 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-08-08 6:16:58 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-08-08 6:21:37 - [INFO] --> Logowanie użytkownika: [rstawieraj]
-2017-08-08 6:22:08 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Rafał Stawieraj], Urządzenie: [BNA], Id urządzenia: [7], Ilość: [-1]
-2017-08-08 6:26:37 - [INFO] --> Logowanie użytkownika: [dgasiewski]

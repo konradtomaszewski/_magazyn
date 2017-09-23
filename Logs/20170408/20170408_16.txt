@@ -1,3 +1,0 @@
-2017-04-08 16:00:36 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-04-08 16:01:07 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Mirosław Janek], Urządzenie: [Drukarka Edmonson duża BTVM-1], Id urządzenia: [148], Ilość: [-1]
-2017-04-08 16:01:32 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/860/2017], ID dokumentu: [3998], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]

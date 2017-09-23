@@ -1,6 +1,0 @@
-2017-02-08 7:19:09 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-02-08 7:19:41 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/384/2017], ID dokumentu: [2171], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [3]
-2017-02-08 7:43:18 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-02-08 7:53:16 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [27537], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [8104], Nr automatu: [5663]
-2017-02-08 7:53:16 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [27538], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [8128], Nr automatu: [5686]
-2017-02-08 7:57:49 - [INFO] --> Logowanie użytkownika: [kjasinski]

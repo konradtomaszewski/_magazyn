@@ -1,4 +1,0 @@
-2017-03-31 7:28:32 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-03-31 7:29:28 - [INFO] --> Logowanie użytkownika: [rstawieraj]
-2017-03-31 7:30:14 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/797/2017], ID dokumentu: [3759], Nazwa serisanta: [Rafał Stawieraj], ID serwisanta: [33], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
-2017-03-31 7:59:21 - [INFO] --> Logowanie użytkownika: [tkopyra]

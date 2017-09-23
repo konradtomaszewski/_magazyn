@@ -1,8 +1,0 @@
-2017-06-26 11:01:33 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2017-06-26 11:23:41 - [INFO] --> Logowanie użytkownika: [rstawieraj]
-2017-06-26 11:24:06 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Stawieraj], Urządzenie: [PC], Id urządzenia: [30], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [468]
-2017-06-26 11:24:06 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [97568], ID urządzenia: [30], Serwisant: [rstawieraj]
-2017-06-26 11:24:24 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Stawieraj], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [468]
-2017-06-26 11:24:24 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [97569], ID urządzenia: [149], Serwisant: [rstawieraj]
-2017-06-26 11:52:10 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-06-26 11:57:50 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [95099], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [632]

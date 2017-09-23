@@ -1,2 +1,0 @@
-2017-03-23 8:35:03 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2017-03-23 8:41:55 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [48857], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [169]

@@ -1,8 +1,0 @@
-2016-12-14 13:29:13 - [INFO] --> Logowanie użytkownika: [fmarzec]
-2016-12-14 13:29:26 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-12-14 13:29:38 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/378/2016], ID dokumentu: [675], Nazwa serisanta: [Bartosz Larkowski], ID serwisanta: [5], Nazwa urządzenia: [BNA], ID urządzenia: [7], Ilość: [1]
-2016-12-14 13:51:27 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/379/2016], ID dokumentu: [676], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [Nagrzewnica], ID urządzenia: [28], Ilość: [1]
-2016-12-14 13:54:23 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [8055], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [5010], Nr automatu: [5706]
-2016-12-14 13:54:23 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [8001], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [576]
-2016-12-14 13:56:11 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-12-14 13:58:53 - [INFO] --> Logowanie użytkownika: [cskwarzynski]

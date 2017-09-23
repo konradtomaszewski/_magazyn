@@ -1,3 +1,0 @@
-2017-05-22 6:07:06 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-05-22 6:18:20 - [INFO] --> Logowanie użytkownika: [jczajka]
-2017-05-22 6:19:50 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1141/2017], ID dokumentu: [5093], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [6]

@@ -1,7 +1,0 @@
-2017-06-08 6:04:41 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-06-08 6:39:23 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-06-08 6:40:05 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1248/2017], ID dokumentu: [5587], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [Zasilacz], ID urządzenia: [43], Ilość: [1]
-2017-06-08 6:40:50 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-06-08 6:44:16 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-06-08 6:50:38 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1249/2017], ID dokumentu: [5588], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [4]
-2017-06-08 6:53:59 - [INFO] --> Logowanie użytkownika: [rtworkowski]

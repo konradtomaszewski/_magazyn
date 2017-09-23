@@ -1,2 +1,0 @@
-2017-07-16 11:36:57 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-07-16 11:37:28 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1601/2017], ID dokumentu: [6778], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [Czujnik temperatury], ID urządzenia: [191], Ilość: [1]

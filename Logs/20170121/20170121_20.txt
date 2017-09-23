@@ -1,6 +1,0 @@
-2017-01-21 20:32:57 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-01-21 20:33:39 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [Drukarka Edmonson duża BTVM-1], Id urządzenia: [148], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [392]
-2017-01-21 20:33:39 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [19149], ID urządzenia: [148], Serwisant: [rtworkowski]
-2017-01-21 20:57:31 - [INFO] --> Logowanie użytkownika: [msieradzki]
-2017-01-21 20:57:58 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Mariusz Sieradzki], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1]
-2017-01-21 20:57:58 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Mariusz Sieradzki], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-3]

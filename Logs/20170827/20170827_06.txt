@@ -1,3 +1,0 @@
-2017-08-27 6:04:06 - [INFO] --> Logowanie użytkownika: [serwisant_e]
-2017-08-27 6:06:26 - [INFO] --> Logowanie użytkownika: [tnowinski]
-2017-08-27 6:10:28 - [INFO] --> Logowanie użytkownika: [mjanek]

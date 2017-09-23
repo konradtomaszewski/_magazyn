@@ -1,2 +1,0 @@
-2017-06-22 5:53:02 - [INFO] --> Logowanie użytkownika: [tnowinski]
-2017-06-22 5:54:57 - [INFO] --> Logowanie użytkownika: [tnowinski]

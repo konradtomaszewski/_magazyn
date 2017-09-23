@@ -1,8 +1,0 @@
-2017-09-01 6:48:52 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-09-01 6:49:46 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [134068], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [527]
-2017-09-01 6:49:46 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [134069], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [596]
-2017-09-01 6:49:47 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [134066], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [572]
-2017-09-01 6:54:24 - [INFO] --> Logowanie użytkownika: [serwisant_n ]
-2017-09-01 6:54:46 - [ERROR] --> Nieudane logowanie użytkownika: [serwisant_e]
-2017-09-01 6:54:47 - [INFO] --> Logowanie użytkownika: [serwisant_n]
-2017-09-01 6:55:00 - [INFO] --> Logowanie użytkownika: [serwisant_e]

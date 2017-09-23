@@ -1,8 +1,0 @@
-2017-04-10 11:41:23 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-04-10 11:41:35 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [57448], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [7320], Nr automatu: [5426]
-2017-04-10 11:41:59 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [56352], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [4618], Nr automatu: [5499]
-2017-04-10 11:42:49 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/796/2017], ID dokumentu: [4037], Nazwa serisanta: [Szymon Miernik], ID serwisanta: [7], Nazwa urządzenia: [Akumulator 12V 2,3 Ah], ID urządzenia: [58], Ilość: [1]
-2017-04-10 11:43:00 - [INFO] --> Logowanie użytkownika: [smiernik]
-2017-04-10 11:43:22 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Szymon Miernik], Urządzenie: [Akumulator 12V 2,3 Ah], Id urządzenia: [58], Ilość: [-1], Nr boczny pojazdu: [8111], Nr automatu: [5670]
-2017-04-10 11:43:23 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [58237], ID urządzenia: [58], Serwisant: [smiernik]
-2017-04-10 11:43:45 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [58237], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [8111], Nr automatu: [5670]

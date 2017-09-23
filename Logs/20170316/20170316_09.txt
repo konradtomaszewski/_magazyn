@@ -1,8 +1,0 @@
-2017-03-16 9:45:28 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-03-16 9:45:54 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [126]
-2017-03-16 9:45:54 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [45486], ID urządzenia: [149], Serwisant: [rtworkowski]
-2017-03-16 9:46:34 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [406]
-2017-03-16 9:46:34 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [45487], ID urządzenia: [149], Serwisant: [rtworkowski]
-2017-03-16 9:46:56 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-2], Nr boczny pojazdu: [], Nr automatu: [122]
-2017-03-16 9:46:56 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [45488], ID urządzenia: [149], Serwisant: [rtworkowski]
-2017-03-16 9:46:56 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [45488], ID urządzenia: [149], Serwisant: [rtworkowski]

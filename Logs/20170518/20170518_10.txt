@@ -1,6 +1,0 @@
-2017-05-18 10:16:55 - [INFO] --> Logowanie użytkownika: [mzerebecki]
-2017-05-18 10:17:59 - [INFO] --> Logowanie użytkownika: [mprzybylski]
-2017-05-18 10:18:35 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1055/2017], ID dokumentu: [5003], Nazwa serisanta: [Mateusz Żerebecki], ID serwisanta: [44], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [1]
-2017-05-18 10:22:35 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mateusz Żerebecki], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [2804], Nr automatu: [5374]
-2017-05-18 10:22:35 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [76115], ID urządzenia: [129], Serwisant: [mzerebecki]
-2017-05-18 10:31:05 - [INFO] --> Logowanie użytkownika: [mprzybylski]

@@ -1,3 +1,0 @@
-2017-06-25 19:57:46 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-06-25 19:58:03 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1375/2017], ID dokumentu: [6155], Nazwa serisanta: [Artur Buller], ID serwisanta: [6], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]
-2017-06-25 19:59:00 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1376/2017], ID dokumentu: [6157], Nazwa serisanta: [Mateusz Żerebecki], ID serwisanta: [44], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]

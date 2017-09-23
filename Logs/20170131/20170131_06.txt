@@ -1,7 +1,0 @@
-2017-01-31 6:06:36 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
-2017-01-31 6:07:34 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/288/2017], ID dokumentu: [1889], Nazwa serisanta: [Tomasz Jasiński serwisant], ID serwisanta: [39], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
-2017-01-31 6:10:57 - [INFO] --> Logowanie użytkownika: [tnowinski]
-2017-01-31 6:44:08 - [INFO] --> Logowanie użytkownika: [rstawieraj]
-2017-01-31 6:45:01 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-01-31 6:45:42 - [INFO] --> Logowanie użytkownika: [tnowinski]
-2017-01-31 6:46:08 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/289/2017], ID dokumentu: [1890], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]

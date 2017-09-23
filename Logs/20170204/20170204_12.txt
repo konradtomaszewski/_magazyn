@@ -1,7 +1,0 @@
-2017-02-04 12:46:18 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-02-04 12:48:20 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-2], Nr boczny pojazdu: [], Nr automatu: [100]
-2017-02-04 12:48:20 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [25856], ID urządzenia: [149], Serwisant: [rtworkowski]
-2017-02-04 12:48:20 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [25856], ID urządzenia: [149], Serwisant: [rtworkowski]
-2017-02-04 12:59:09 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-02-04 12:59:35 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/254/2017], ID dokumentu: [2040], Nazwa serisanta: [Cezary Skwarzyński], ID serwisanta: [10], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
-2017-02-04 12:59:35 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/254/2017], ID dokumentu: [2040], Nazwa serisanta: [Cezary Skwarzyński], ID serwisanta: [10], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [3]

@@ -1,1 +1,0 @@
-2017-05-24 20:59:55 - [ERROR] --> Nieudane logowanie użytkownika: [znowak]

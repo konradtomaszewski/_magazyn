@@ -1,8 +1,0 @@
-2017-01-30 11:19:48 - [INFO] --> Logowanie użytkownika: [tnowinski]
-2017-01-30 11:20:20 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Nowiński], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [395]
-2017-01-30 11:20:20 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [23202], ID urządzenia: [149], Serwisant: [tnowinski]
-2017-01-30 11:34:52 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-01-30 11:35:13 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [22819], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [4410], Nr automatu: [5082]
-2017-01-30 11:35:13 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [23117], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [8128], Nr automatu: [5686]
-2017-01-30 11:35:13 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [22956], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [8143], Nr automatu: [5701]
-2017-01-30 11:55:21 - [INFO] --> Logowanie użytkownika: [kjasinski]

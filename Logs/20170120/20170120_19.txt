@@ -1,4 +1,0 @@
-2017-01-20 19:13:14 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-01-20 19:43:21 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2017-01-20 19:51:19 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2017-01-20 19:55:43 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

@@ -1,3 +1,0 @@
-2017-07-02 9:22:50 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
-2017-07-02 9:41:23 - [INFO] --> Logowanie użytkownika: [jczajka]
-2017-07-02 9:49:07 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]

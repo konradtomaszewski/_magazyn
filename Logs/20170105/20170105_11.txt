@@ -1,5 +1,0 @@
-2017-01-05 11:06:38 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2017-01-05 11:37:45 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-01-05 11:40:20 - [INFO] --> Logowanie użytkownika: [pkalinowski]
-2017-01-05 11:40:38 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Piotr Kalinowski], Urządzenie: [Zasilacz], Id urządzenia: [43], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [253]
-2017-01-05 11:40:38 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [12871], ID urządzenia: [43], Serwisant: [pkalinowski]

@@ -1,5 +1,0 @@
-2016-12-13 11:16:50 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-12-13 11:22:58 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/369/2016], ID dokumentu: [655], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [drukarka (Thino)], ID urządzenia: [17], Ilość: [1]
-2016-12-13 11:22:59 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/369/2016], ID dokumentu: [655], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [2]
-2016-12-13 11:22:59 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/369/2016], ID dokumentu: [655], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [Nagrzewnica], ID urządzenia: [28], Ilość: [1]
-2016-12-13 11:37:28 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/370/2016], ID dokumentu: [656], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [Nagrzewnica], ID urządzenia: [28], Ilość: [1]

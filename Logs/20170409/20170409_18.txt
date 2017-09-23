@@ -1,4 +1,0 @@
-2017-04-09 18:05:53 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-04-09 18:06:35 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-04-09 18:07:15 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/792/2017], ID dokumentu: [4018], Nazwa serisanta: [Szymon Miernik], ID serwisanta: [7], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]
-2017-04-09 18:07:29 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/793/2017], ID dokumentu: [4019], Nazwa serisanta: [Cezary Skwarzyński], ID serwisanta: [10], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]

@@ -1,8 +1,0 @@
-2017-01-08 13:37:53 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-01-08 13:39:47 - [INFO] --> Logowanie użytkownika: [pkalinowski]
-2017-01-08 13:40:33 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-01-08 13:57:07 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-01-08 13:57:35 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [BNA], Id urządzenia: [7], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [290]
-2017-01-08 13:57:35 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [13887], ID urządzenia: [7], Serwisant: [mjanek]
-2017-01-08 13:58:40 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [Papier Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [428]
-2017-01-08 13:58:40 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [13888], ID urządzenia: [149], Serwisant: [mjanek]

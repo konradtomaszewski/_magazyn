@@ -1,7 +1,0 @@
-2016-12-01 4:26:59 - [INFO] --> Logowanie użytkownika: [abuller]
-2016-12-01 4:56:22 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Artur Buller], Urządzenie: [akceptor ( wlot )], Id urządzenia: [1], Ilość: [-1]
-2016-12-01 4:56:35 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Artur Buller], Urządzenie: [CR manual mobilny], Id urządzenia: [61], Ilość: [-2]
-2016-12-01 4:57:09 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Artur Buller], Urządzenie: [kabel ZASILACZ - MAIN (4 żyły)], Id urządzenia: [64], Ilość: [-2]
-2016-12-01 4:57:21 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Artur Buller], Urządzenie: [Komputer PC 104 AMD GEODE 500 (EVOC:EC3-1641 CLDNA)], Id urządzenia: [65], Ilość: [-1]
-2016-12-01 4:57:45 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Artur Buller], Urządzenie: [MAIN (WRDE 0141)], Id urządzenia: [66], Ilość: [-2]
-2016-12-01 4:58:10 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Artur Buller], Urządzenie: [opóźniacz], Id urządzenia: [69], Ilość: [-3]

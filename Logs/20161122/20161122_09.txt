@@ -1,7 +1,0 @@
-2016-11-22 9:12:10 - [ERROR] --> Nieudane logowanie użytkownika: [mennica_papier]
-2016-11-22 9:12:16 - [ERROR] --> Nieudane logowanie użytkownika: [mennica_papier]
-2016-11-22 9:15:05 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-11-22 9:58:37 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/199/2016], ID dokumentu: [363], Nazwa serisanta: [Cezary Skwarzyński], ID serwisanta: [10], Nazwa urządzenia: [karta SAM mifare], ID urządzenia: [24], Ilość: [1]
-2016-11-22 9:58:54 - [INFO] --> Logowanie użytkownika: [cskwarzynski]
-2016-11-22 9:59:15 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Cezary Skwarzyński], Urządzenie: [karta SAM mifare], Id urządzenia: [24], Ilość: [-1], Nr boczny pojazdu: [5408], Nr automatu: [5722]
-2016-11-22 9:59:24 - [INFO] --> Logowanie użytkownika: [kjasinski]

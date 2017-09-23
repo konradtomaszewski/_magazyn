@@ -1,2 +1,0 @@
-2017-06-24 15:41:31 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-06-24 15:41:46 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1413/2017], ID dokumentu: [6125], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]

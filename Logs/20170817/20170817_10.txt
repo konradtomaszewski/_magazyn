@@ -1,2 +1,0 @@
-2017-08-17 10:21:06 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-08-17 10:22:04 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

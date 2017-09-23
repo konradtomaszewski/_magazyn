@@ -1,2 +1,0 @@
-2017-08-30 11:24:28 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2017-08-30 11:25:11 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [132931], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [248]

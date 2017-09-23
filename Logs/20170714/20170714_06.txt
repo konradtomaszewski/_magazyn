@@ -1,8 +1,0 @@
-2017-07-14 6:44:18 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-07-14 6:52:54 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-07-14 6:53:27 - [ERROR] --> Nieudane logowanie użytkownika: [serwis_n]
-2017-07-14 6:53:51 - [INFO] --> Logowanie użytkownika: [serwisant_n]
-2017-07-14 6:54:14 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-07-14 6:54:15 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-07-14 6:54:35 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-07-14 6:56:16 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1588/2017], ID dokumentu: [6725], Nazwa serisanta: [Tadeusz Kopyra], ID serwisanta: [32], Nazwa urządzenia: [Czytnik UX300], ID urządzenia: [161], Ilość: [1]

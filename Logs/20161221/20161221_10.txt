@@ -1,3 +1,0 @@
-2016-12-21 10:24:22 - [INFO] --> Logowanie użytkownika: [vector_test]
-2016-12-21 10:34:04 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-12-21 10:45:59 - [INFO] --> Logowanie użytkownika: [kjasinski]

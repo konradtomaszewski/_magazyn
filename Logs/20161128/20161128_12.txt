@@ -1,2 +1,0 @@
-2016-11-28 12:08:36 - [INFO] --> Logowanie użytkownika: [kwiaterski]
-2016-11-28 12:23:12 - [INFO] --> Logowanie użytkownika: [mennica_test]

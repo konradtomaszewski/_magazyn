@@ -1,8 +1,0 @@
-2016-11-07 11:06:12 - [INFO] --> Logowanie użytkownika: [lmazurowski]
-2016-11-07 11:11:25 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-11-07 11:18:03 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-11-07 11:44:51 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-11-07 11:46:02 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/137/2016], ID dokumentu: [244], Nazwa serisanta: [Wojciech Perko], ID serwisanta: [11], Nazwa urządzenia: [BNA], ID urządzenia: [7], Ilość: [1]
-2016-11-07 11:46:02 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/137/2016], ID dokumentu: [244], Nazwa serisanta: [Wojciech Perko], ID serwisanta: [11], Nazwa urządzenia: [CR (manualny)], ID urządzenia: [14], Ilość: [2]
-2016-11-07 11:46:16 - [INFO] --> Logowanie użytkownika: [wperko]
-2016-11-07 11:48:16 - [INFO] --> Logowanie użytkownika: [kjasinski]

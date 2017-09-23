@@ -1,2 +1,0 @@
-2017-06-18 9:37:30 - [INFO] --> Logowanie użytkownika: [mstaniszewski]
-2017-06-18 9:49:26 - [INFO] --> Logowanie użytkownika: [tkopyra]

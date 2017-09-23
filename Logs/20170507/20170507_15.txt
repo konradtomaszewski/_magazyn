@@ -1,3 +1,0 @@
-2017-05-07 15:03:30 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-05-07 15:05:38 - [INFO] --> Logowanie użytkownika: [tnowinski]
-2017-05-07 15:05:55 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1052/2017], ID dokumentu: [4709], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]

@@ -1,2 +1,0 @@
-2017-06-16 16:35:50 - [INFO] --> Logowanie użytkownika: [tnowinski]
-2017-06-16 16:36:29 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1319/2017], ID dokumentu: [5856], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [4]

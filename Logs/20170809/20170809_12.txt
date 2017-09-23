@@ -1,5 +1,0 @@
-2017-08-09 12:00:00 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [351]
-2017-08-09 12:00:00 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [123168], ID urządzenia: [149], Serwisant: [rtworkowski]
-2017-08-09 12:00:47 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [Drukarka Edmonson duża BTVM-1], Id urządzenia: [148], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [494]
-2017-08-09 12:00:47 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [123169], ID urządzenia: [148], Serwisant: [rtworkowski]
-2017-08-09 12:59:58 - [INFO] --> Logowanie użytkownika: [rstawieraj]

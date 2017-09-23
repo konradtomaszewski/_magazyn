@@ -1,4 +1,0 @@
-2017-05-05 6:06:33 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
-2017-05-05 6:10:23 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1033/2017], ID dokumentu: [4646], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]
-2017-05-05 6:17:29 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-05-05 6:18:39 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1034/2017], ID dokumentu: [4647], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [7]

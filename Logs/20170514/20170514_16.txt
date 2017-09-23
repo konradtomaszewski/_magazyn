@@ -1,3 +1,0 @@
-2017-05-14 16:02:35 - [INFO] --> Logowanie użytkownika: [mprzybylski]
-2017-05-14 16:03:35 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1028/2017], ID dokumentu: [4903], Nazwa serisanta: [Artur Buller], ID serwisanta: [6], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
-2017-05-14 16:03:35 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1028/2017], ID dokumentu: [4903], Nazwa serisanta: [Artur Buller], ID serwisanta: [6], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [3]

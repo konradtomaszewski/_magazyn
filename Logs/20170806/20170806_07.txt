@@ -1,2 +1,0 @@
-2017-08-06 7:11:31 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
-2017-08-06 7:19:39 - [INFO] --> Logowanie użytkownika: [serwisant_c]

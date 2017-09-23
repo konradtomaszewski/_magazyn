@@ -1,2 +1,0 @@
-2017-06-03 8:03:09 - [INFO] --> Logowanie użytkownika: [mprzybylski]
-2017-06-03 8:09:48 - [INFO] --> Logowanie użytkownika: [dgasiewski]

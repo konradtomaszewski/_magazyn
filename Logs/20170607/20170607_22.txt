@@ -1,5 +1,0 @@
-2017-06-07 22:08:52 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-06-07 22:19:30 - [INFO] --> Logowanie użytkownika: [michał]
-2017-06-07 22:20:30 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Michał Przybylski - Serwisant], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [2551], Nr automatu: [5090]
-2017-06-07 22:20:30 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [87165], ID urządzenia: [129], Serwisant: [michał]
-2017-06-07 22:38:44 - [INFO] --> Logowanie użytkownika: [michał]

@@ -1,2 +1,0 @@
-2016-11-02 21:44:02 - [ERROR] --> Nieudane logowanie użytkownika: [abuler]
-2016-11-02 21:44:27 - [INFO] --> Logowanie użytkownika: [abuller]

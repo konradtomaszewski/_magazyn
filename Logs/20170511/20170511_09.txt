@@ -1,2 +1,0 @@
-2017-05-11 9:44:54 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-05-11 9:48:42 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [71816], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [552]

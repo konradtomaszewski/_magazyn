@@ -1,2 +1,0 @@
-2016-12-29 6:08:07 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Bartosz Larkowski], Urządzenie: [zespół drukarki do BM101 (stelaż, mechanizm druk., sterownik)], Id urządzenia: [76], Ilość: [-1]
-2016-12-29 6:08:55 - [INFO] --> Logowanie użytkownika: [fmarzec]

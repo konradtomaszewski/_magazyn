@@ -1,3 +1,0 @@
-2017-06-04 8:48:23 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1226/2017], ID dokumentu: [5468], Nazwa serisanta: [Marcin Staniszewski], ID serwisanta: [45], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [6]
-2017-06-04 8:49:04 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Marcin Staniszewski], Urządzenie: [Drukarka Edmonson duża BTVM-1], Id urządzenia: [148], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [208]
-2017-06-04 8:49:04 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [85196], ID urządzenia: [148], Serwisant: [mstaniszewski]

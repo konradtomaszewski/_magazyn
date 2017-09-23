@@ -1,6 +1,0 @@
-2017-05-30 22:06:21 - [INFO] --> Logowanie użytkownika: [pmikucki]
-2017-05-30 22:31:58 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
-2017-05-30 22:32:31 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Marek Madej Sierski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [491]
-2017-05-30 22:32:31 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [82962], ID urządzenia: [149], Serwisant: [mmadejsierski]
-2017-05-30 22:34:04 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Marek Madej Sierski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [23]
-2017-05-30 22:34:04 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [82963], ID urządzenia: [149], Serwisant: [mmadejsierski]

@@ -1,3 +1,0 @@
-2017-08-31 5:25:29 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-08-31 5:56:57 - [ERROR] --> Nieudane logowanie użytkownika: [serwisant_S]
-2017-08-31 5:57:13 - [INFO] --> Logowanie użytkownika: [serwisant_s]

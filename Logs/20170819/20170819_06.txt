@@ -1,3 +1,0 @@
-2017-08-19 6:08:25 - [ERROR] --> Nieudane logowanie użytkownika: [znowak]
-2017-08-19 6:10:56 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-08-19 6:55:27 - [INFO] --> Logowanie użytkownika: [jczajka]

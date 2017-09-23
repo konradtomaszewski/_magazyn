@@ -1,6 +1,0 @@
-2017-07-01 12:23:51 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-07-01 12:24:12 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1413/2017], ID dokumentu: [6335], Nazwa serisanta: [Artur Buller], ID serwisanta: [6], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
-2017-07-01 12:24:13 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1413/2017], ID dokumentu: [6335], Nazwa serisanta: [Artur Buller], ID serwisanta: [6], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [3]
-2017-07-01 12:26:23 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1414/2017], ID dokumentu: [6336], Nazwa serisanta: [Mateusz Żerebecki], ID serwisanta: [44], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
-2017-07-01 12:26:23 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1414/2017], ID dokumentu: [6336], Nazwa serisanta: [Mateusz Żerebecki], ID serwisanta: [44], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [3]
-2017-07-01 12:26:38 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1415/2017], ID dokumentu: [6337], Nazwa serisanta: [Paweł Mikucki], ID serwisanta: [42], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]

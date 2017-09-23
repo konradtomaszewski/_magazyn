@@ -1,5 +1,0 @@
-2017-03-25 18:58:53 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-03-25 18:59:16 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [Bateria zamka], Id urządzenia: [145], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [116]
-2017-03-25 18:59:16 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [50356], ID urządzenia: [145], Serwisant: [mjanek]
-2017-03-25 18:59:31 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [116]
-2017-03-25 18:59:31 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [50357], ID urządzenia: [149], Serwisant: [mjanek]

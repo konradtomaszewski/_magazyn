@@ -1,3 +1,0 @@
-2017-04-09 20:14:35 - [INFO] --> Logowanie użytkownika: [abuller]
-2017-04-09 20:14:45 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Artur Buller], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1]
-2017-04-09 20:14:45 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Artur Buller], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-3]

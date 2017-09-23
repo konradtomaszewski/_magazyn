@@ -1,8 +1,0 @@
-2017-08-17 6:17:46 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Marcin Staniszewski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [252]
-2017-08-17 6:17:46 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [126767], ID urządzenia: [149], Serwisant: [mstaniszewski]
-2017-08-17 6:18:07 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Marcin Staniszewski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [448]
-2017-08-17 6:18:07 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [126768], ID urządzenia: [149], Serwisant: [mstaniszewski]
-2017-08-17 6:18:34 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Marcin Staniszewski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [83]
-2017-08-17 6:18:34 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [126769], ID urządzenia: [149], Serwisant: [mstaniszewski]
-2017-08-17 6:19:42 - [INFO] --> Logowanie użytkownika: [rstawieraj]
-2017-08-17 6:20:11 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1811/2017], ID dokumentu: [7631], Nazwa serisanta: [Rafał Stawieraj], ID serwisanta: [33], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [3]

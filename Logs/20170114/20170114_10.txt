@@ -1,4 +1,0 @@
-2017-01-14 10:31:00 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-01-14 10:34:02 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/131/2017], ID dokumentu: [1350], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
-2017-01-14 10:50:30 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-01-14 10:53:01 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/132/2017], ID dokumentu: [1351], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [drukarka (Thino)], ID urządzenia: [17], Ilość: [1]

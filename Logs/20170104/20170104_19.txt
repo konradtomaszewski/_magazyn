@@ -1,2 +1,0 @@
-2017-01-04 19:31:17 - [INFO] --> Logowanie użytkownika: [manager]
-2017-01-04 19:32:54 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

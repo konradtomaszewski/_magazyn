@@ -1,2 +1,0 @@
-2016-12-24 12:51:08 - [INFO] --> Logowanie użytkownika: [abuller]
-2016-12-24 12:51:20 - [INFO] --> Logowanie użytkownika: [kjasinski]

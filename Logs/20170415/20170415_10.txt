@@ -1,2 +1,0 @@
-2017-04-15 10:23:30 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
-2017-04-15 10:25:40 - [INFO] --> Logowanie użytkownika: [jczajka]

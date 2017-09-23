@@ -1,8 +1,0 @@
-2017-01-04 6:00:00 - [INFO] --> Logowanie użytkownika: [jczajka]
-2017-01-04 6:02:21 - [INFO] --> Logowanie użytkownika: [tnowinski]
-2017-01-04 6:05:57 - [ERROR] --> Nieudane logowanie użytkownika: [Rstawieraj]
-2017-01-04 6:06:18 - [ERROR] --> Nieudane logowanie użytkownika: [Rstawieraj]
-2017-01-04 6:07:02 - [INFO] --> Logowanie użytkownika: [rstawieraj]
-2017-01-04 6:27:12 - [INFO] --> Logowanie użytkownika: [pkalinowski]
-2017-01-04 6:35:56 - [INFO] --> Logowanie użytkownika: [jczajka]
-2017-01-04 6:42:51 - [INFO] --> Logowanie użytkownika: [pkalinowski]

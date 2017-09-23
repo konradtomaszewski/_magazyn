@@ -1,5 +1,0 @@
-2016-11-03 8:00:18 - [INFO] --> Logowanie użytkownika: [smiernik]
-2016-11-03 8:00:54 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-11-03 8:05:26 - [INFO] --> Logowanie użytkownika: [abuller]
-2016-11-03 8:05:37 - [INFO] --> Logowanie użytkownika: [smiernik]
-2016-11-03 8:09:05 - [INFO] --> Logowanie użytkownika: [kjasinski]

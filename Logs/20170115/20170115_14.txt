@@ -1,6 +1,0 @@
-2017-01-15 14:10:54 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
-2017-01-15 14:11:47 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Jasiński serwisant], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [123]
-2017-01-15 14:11:47 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [16565], ID urządzenia: [149], Serwisant: [tjasinski_s]
-2017-01-15 14:20:22 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-01-15 14:21:36 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Tomasz Jasiński serwisant], Urządzenie: [Pleksi kieszeni na bilet], Id urządzenia: [144], Ilość: [-1]
-2017-01-15 14:22:53 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]

@@ -1,3 +1,0 @@
-2017-03-18 15:27:29 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-03-18 15:28:01 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/625/2017], ID dokumentu: [3376], Nazwa serisanta: [Mariusz Sieradzki], ID serwisanta: [13], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
-2017-03-18 15:28:01 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/625/2017], ID dokumentu: [3376], Nazwa serisanta: [Mariusz Sieradzki], ID serwisanta: [13], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [3]

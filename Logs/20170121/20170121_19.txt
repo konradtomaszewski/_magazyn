@@ -1,2 +1,0 @@
-2017-01-21 19:15:00 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-01-21 19:19:01 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/135/2017], ID dokumentu: [1560], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]

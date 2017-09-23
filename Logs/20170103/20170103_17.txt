@@ -1,3 +1,0 @@
-2017-01-03 17:11:08 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-01-03 17:25:55 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-01-03 17:26:20 - [INFO] --> Logowanie użytkownika: [manager]

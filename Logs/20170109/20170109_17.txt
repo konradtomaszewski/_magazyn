@@ -1,3 +1,0 @@
-2017-01-09 17:24:23 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-01-09 17:45:50 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2017-01-09 17:59:02 - [INFO] --> Logowanie użytkownika: [znowak]

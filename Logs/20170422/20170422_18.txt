@@ -1,2 +1,0 @@
-2017-04-22 18:05:20 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-04-22 18:06:07 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/950/2017], ID dokumentu: [4353], Nazwa serisanta: [Tadeusz Kopyra], ID serwisanta: [32], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]

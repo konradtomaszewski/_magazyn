@@ -1,8 +1,0 @@
-2017-05-16 23:14:54 - [INFO] --> Logowanie użytkownika: [mprzybylski]
-2017-05-16 23:24:49 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-05-16 23:25:21 - [INFO] --> Logowanie użytkownika: [dostawy]
-2017-05-16 23:25:52 - [INFO] --> Logowanie użytkownika: [mennica_papier]
-2017-05-16 23:26:30 - [INFO] --> Typ dokumentu: [Dostawa części (do zatwierdzenia)], Nazwa dokumentu:  [WRO/N/29/2017],  Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [50]
-2017-05-16 23:26:46 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-05-16 23:27:02 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WRO/N/29/2017],  Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [50]
-2017-05-16 23:29:15 - [INFO] --> Logowanie użytkownika: [kjasinski]

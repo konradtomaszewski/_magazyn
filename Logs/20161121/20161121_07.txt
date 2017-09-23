@@ -1,6 +1,0 @@
-2016-11-21 7:20:03 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-11-21 7:34:05 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/190/2016], ID dokumentu: [349], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [BNA], ID urządzenia: [7], Ilość: [1]
-2016-11-21 7:39:13 - [INFO] --> Logowanie użytkownika: [tkarabiniewicz]
-2016-11-21 7:39:21 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Tomasz Karabiniewicz], Urządzenie: [BNA], Id urządzenia: [7], Ilość: [-1]
-2016-11-21 7:39:33 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-11-21 7:58:12 - [INFO] --> Logowanie użytkownika: [kwiaterski]

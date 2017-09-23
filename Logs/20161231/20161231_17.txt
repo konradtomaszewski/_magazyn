@@ -1,8 +1,0 @@
-2016-12-31 17:38:34 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2016-12-31 17:42:47 - [INFO] --> Logowanie użytkownika: [mennica_test]
-2016-12-31 17:43:21 - [ERROR] --> Nieudane logowanie użytkownika: [jczajka]
-2016-12-31 17:44:12 - [INFO] --> Logowanie użytkownika: [gwiatrzyk]
-2016-12-31 17:46:12 - [INFO] --> Logowanie użytkownika: [jczajka]
-2016-12-31 17:47:46 - [INFO] --> Logowanie użytkownika: [dostawy]
-2016-12-31 17:51:37 - [INFO] --> Logowanie użytkownika: [gwiatrzyk]
-2016-12-31 17:59:51 - [INFO] --> Logowanie użytkownika: [manager]

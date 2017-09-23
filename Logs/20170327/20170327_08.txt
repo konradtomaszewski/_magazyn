@@ -1,1 +1,0 @@
-2017-03-27 8:16:09 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [50086], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [7322], Nr automatu: [5428]

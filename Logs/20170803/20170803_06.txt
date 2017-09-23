@@ -1,5 +1,0 @@
-2017-08-03 6:32:44 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
-2017-08-03 6:33:26 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
-2017-08-03 6:35:41 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1733/2017], ID dokumentu: [7279], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
-2017-08-03 6:48:08 - [INFO] --> Logowanie użytkownika: [rstawieraj]
-2017-08-03 6:49:03 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1734/2017], ID dokumentu: [7280], Nazwa serisanta: [Rafał Stawieraj], ID serwisanta: [33], Nazwa urządzenia: [Bateria backup], ID urządzenia: [146], Ilość: [1]

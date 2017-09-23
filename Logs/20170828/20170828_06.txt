@@ -1,6 +1,0 @@
-2017-08-28 6:02:43 - [INFO] --> Logowanie użytkownika: [serwisant_n]
-2017-08-28 6:22:27 - [INFO] --> Logowanie użytkownika: [serwisant_s]
-2017-08-28 6:28:03 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-08-28 6:48:53 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
-2017-08-28 6:49:09 - [INFO] --> Logowanie użytkownika: [serwisant_n]
-2017-08-28 6:52:36 - [INFO] --> Logowanie użytkownika: [serwisant_c]

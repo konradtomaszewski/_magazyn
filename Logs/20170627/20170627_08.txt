@@ -1,6 +1,0 @@
-2017-06-27 8:30:02 - [INFO] --> Logowanie użytkownika: [rstawieraj]
-2017-06-27 8:31:15 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Stawieraj], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [474]
-2017-06-27 8:31:15 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [98053], ID urządzenia: [149], Serwisant: [rstawieraj]
-2017-06-27 8:52:35 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-06-27 8:52:57 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1433/2017], ID dokumentu: [6196], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [EM Drukarka Edmonson], ID urządzenia: [167], Ilość: [8]
-2017-06-27 8:53:12 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1434/2017], ID dokumentu: [6197], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [EM Drukarka Edmonson], ID urządzenia: [167], Ilość: [2]

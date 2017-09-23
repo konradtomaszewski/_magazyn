@@ -1,4 +1,0 @@
-2017-02-06 6:14:54 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-02-06 6:17:07 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/348/2017], ID dokumentu: [2078], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [3]
-2017-02-06 6:18:07 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/349/2017], ID dokumentu: [2079], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Elektromagnes zamka], ID urządzenia: [147], Ilość: [1]
-2017-02-06 6:28:21 - [INFO] --> Logowanie użytkownika: [dgasiewski]

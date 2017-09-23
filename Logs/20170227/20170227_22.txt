@@ -1,6 +1,0 @@
-2017-02-27 22:00:56 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Jasiński serwisant], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [320]
-2017-02-27 22:00:56 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [36702], ID urządzenia: [149], Serwisant: [tjasinski_s]
-2017-02-27 22:01:25 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Jasiński serwisant], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [321]
-2017-02-27 22:01:26 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [36703], ID urządzenia: [149], Serwisant: [tjasinski_s]
-2017-02-27 22:01:45 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Jasiński serwisant], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [212]
-2017-02-27 22:01:45 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [36704], ID urządzenia: [128], Serwisant: [tjasinski_s]

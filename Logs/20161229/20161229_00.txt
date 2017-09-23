@@ -1,2 +1,0 @@
-2016-12-29 0:12:25 - [INFO] --> Logowanie użytkownika: [abuller]
-2016-12-29 0:12:48 - [INFO] --> Logowanie użytkownika: [blarkowski]

@@ -1,8 +1,0 @@
-2017-06-06 11:14:38 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2017-06-06 11:15:12 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1222/2017], ID dokumentu: [5534], Nazwa serisanta: [Michał Przybylski - Serwisant], ID serwisanta: [23], Nazwa urządzenia: [Interfejs IF9000 RS232 do drukarek termicznych SEIKO], ID urządzenia: [63], Ilość: [1]
-2017-06-06 11:15:25 - [INFO] --> Logowanie użytkownika: [michał]
-2017-06-06 11:15:42 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Michał Przybylski - Serwisant], Urządzenie: [Interfejs IF9000 RS232 do drukarek termicznych SEIKO], Id urządzenia: [63], Ilość: [-1], Nr boczny pojazdu: [7324], Nr automatu: [5430]
-2017-06-06 11:15:42 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [86183], ID urządzenia: [63], Serwisant: [michał]
-2017-06-06 11:17:19 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [86183], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [7324], Nr automatu: [5430]
-2017-06-06 11:18:51 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [85196], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [208]
-2017-06-06 11:28:37 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [83904], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [218]

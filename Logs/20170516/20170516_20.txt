@@ -1,2 +1,0 @@
-2017-05-16 20:36:51 - [INFO] --> Logowanie użytkownika: [mprzybylski]
-2017-05-16 20:59:57 - [INFO] --> Logowanie użytkownika: [mprzybylski]

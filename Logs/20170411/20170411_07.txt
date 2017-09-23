@@ -1,3 +1,0 @@
-2017-04-11 7:22:01 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-04-11 7:22:52 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/880/2017], ID dokumentu: [4068], Nazwa serisanta: [Zygmunt Nowak], ID serwisanta: [30], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
-2017-04-11 7:55:42 - [INFO] --> Logowanie użytkownika: [kjasinski]

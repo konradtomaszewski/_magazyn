@@ -1,3 +1,0 @@
-2017-03-12 14:00:36 - [INFO] --> Logowanie użytkownika: [tnowinski]
-2017-03-12 14:04:18 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/636/2017], ID dokumentu: [3184], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]
-2017-03-12 14:04:19 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/636/2017], ID dokumentu: [3184], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]

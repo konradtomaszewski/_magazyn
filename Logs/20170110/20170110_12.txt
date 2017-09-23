@@ -1,4 +1,0 @@
-2017-01-10 12:35:13 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-01-10 12:51:50 - [INFO] --> Logowanie użytkownika: [dostawy]
-2017-01-10 12:57:00 - [ERROR] --> Nieudane logowanie użytkownika: [ktomaszewski]
-2017-01-10 12:57:24 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

@@ -1,2 +1,0 @@
-2017-03-11 18:50:16 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
-2017-03-11 18:50:44 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/631/2017], ID dokumentu: [3161], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]

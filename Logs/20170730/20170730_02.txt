@@ -1,4 +1,0 @@
-2017-07-30 2:01:59 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-07-30 2:02:16 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1603/2017], ID dokumentu: [7157], Nazwa serisanta: [Mateusz Żerebecki], ID serwisanta: [44], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]
-2017-07-30 2:19:15 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1604/2017], ID dokumentu: [7158], Nazwa serisanta: [Arkadiusz Bukało], ID serwisanta: [60], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
-2017-07-30 2:19:15 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1604/2017], ID dokumentu: [7158], Nazwa serisanta: [Arkadiusz Bukało], ID serwisanta: [60], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [3]

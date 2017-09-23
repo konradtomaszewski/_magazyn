@@ -1,3 +1,0 @@
-2017-02-24 16:20:11 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2017-02-24 16:27:40 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-02-24 16:28:19 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/506/2017], ID dokumentu: [2676], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Jarzeniówka oświetlenie zewnętrzne], ID urządzenia: [151], Ilość: [1]

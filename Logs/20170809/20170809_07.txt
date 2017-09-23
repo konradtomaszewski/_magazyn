@@ -1,2 +1,0 @@
-2017-08-09 7:12:01 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-08-09 7:14:04 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1768/2017], ID dokumentu: [7446], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [2]

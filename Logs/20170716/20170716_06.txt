@@ -1,5 +1,0 @@
-2017-07-16 6:15:25 - [ERROR] --> Nieudane logowanie użytkownika: [znowak]
-2017-07-16 6:15:34 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-07-16 6:16:12 - [INFO] --> Logowanie użytkownika: [mstaniszewski]
-2017-07-16 6:41:02 - [INFO] --> Logowanie użytkownika: [mstaniszewski]
-2017-07-16 6:41:22 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1600/2017], ID dokumentu: [6777], Nazwa serisanta: [Marcin Staniszewski], ID serwisanta: [45], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [6]

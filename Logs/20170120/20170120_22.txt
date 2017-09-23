@@ -1,2 +1,0 @@
-2017-01-20 22:29:45 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-01-20 22:40:47 - [INFO] --> Logowanie użytkownika: [rtworkowski]

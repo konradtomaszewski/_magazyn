@@ -1,1 +1,0 @@
-2017-04-17 16:16:01 - [ERROR] --> Nieudane logowanie użytkownika: [lmazurowski]

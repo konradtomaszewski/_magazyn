@@ -1,7 +1,0 @@
-2017-03-20 8:00:18 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47151], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [4612], Nr automatu: [5167]
-2017-03-20 8:00:18 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47152], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [7311], Nr automatu: [5417]
-2017-03-20 8:00:18 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47154], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [7329], Nr automatu: [5435]
-2017-03-20 8:00:18 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47155], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [7337], Nr automatu: [5443]
-2017-03-20 8:00:18 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47156], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [7343], Nr automatu: [5449]
-2017-03-20 8:00:18 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47157], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [7346], Nr automatu: [5452]
-2017-03-20 8:00:19 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47159], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [8308], Nr automatu: [5515]

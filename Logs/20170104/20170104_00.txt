@@ -1,8 +1,0 @@
-2017-01-04 0:05:15 - [ERROR] --> Nieudane logowanie użytkownika: [jczajka]
-2017-01-04 0:05:38 - [ERROR] --> Nieudane logowanie użytkownika: [jczajka]
-2017-01-04 0:06:20 - [ERROR] --> Nieudane logowanie użytkownika: [jczajka]
-2017-01-04 0:06:37 - [ERROR] --> Nieudane logowanie użytkownika: [jczajka]
-2017-01-04 0:09:06 - [ERROR] --> Nieudane logowanie użytkownika: [jczajka]
-2017-01-04 0:09:20 - [ERROR] --> Nieudane logowanie użytkownika: [jczajka]
-2017-01-04 0:09:34 - [INFO] --> Logowanie użytkownika: [jczajka]
-2017-01-04 0:32:22 - [INFO] --> Logowanie użytkownika: [znowak]

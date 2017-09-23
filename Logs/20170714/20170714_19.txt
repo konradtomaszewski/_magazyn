@@ -1,7 +1,0 @@
-2017-07-14 19:08:49 - [INFO] --> Logowanie użytkownika: [mstaniszewski]
-2017-07-14 19:09:19 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Marcin Staniszewski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [116]
-2017-07-14 19:09:19 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [109183], ID urządzenia: [149], Serwisant: [mstaniszewski]
-2017-07-14 19:09:44 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Marcin Staniszewski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [305]
-2017-07-14 19:09:44 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [109184], ID urządzenia: [149], Serwisant: [mstaniszewski]
-2017-07-14 19:10:10 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Marcin Staniszewski], Urządzenie: [Drukarka Edmonson duża BTVM-1], Id urządzenia: [148], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [116]
-2017-07-14 19:10:10 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [109185], ID urządzenia: [148], Serwisant: [mstaniszewski]

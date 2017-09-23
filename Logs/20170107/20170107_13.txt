@@ -1,4 +1,0 @@
-2017-01-07 13:48:42 - [ERROR] --> Nieudane logowanie użytkownika: [pkalinowski]
-2017-01-07 13:49:01 - [INFO] --> Logowanie użytkownika: [pkalinowski]
-2017-01-07 13:53:29 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-01-07 13:56:43 - [INFO] --> Logowanie użytkownika: [znowak]

@@ -1,6 +1,0 @@
-2017-07-29 6:06:46 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1696/2017], ID dokumentu: [7142], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [walidator (NRI)], ID urządzenia: [42], Ilość: [1]
-2017-07-29 6:14:34 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-07-29 6:27:06 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-07-29 6:38:02 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
-2017-07-29 6:41:44 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1697/2017], ID dokumentu: [7143], Nazwa serisanta: [Tomasz Jasiński serwisant], ID serwisanta: [39], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [20]
-2017-07-29 6:44:14 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

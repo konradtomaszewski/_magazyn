@@ -1,3 +1,0 @@
-2017-05-07 10:33:02 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-05-07 10:33:29 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/969/2017], ID dokumentu: [4697], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
-2017-05-07 10:33:30 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/969/2017], ID dokumentu: [4697], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [3]

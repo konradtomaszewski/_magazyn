@@ -1,3 +1,0 @@
-2017-07-11 7:57:24 - [INFO] --> Logowanie użytkownika: [rstawieraj]
-2017-07-11 7:57:44 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Stawieraj], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [248]
-2017-07-11 7:57:45 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [106962], ID urządzenia: [128], Serwisant: [rstawieraj]

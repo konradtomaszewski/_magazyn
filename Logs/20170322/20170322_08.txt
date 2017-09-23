@@ -1,2 +1,0 @@
-2017-03-22 8:10:58 - [INFO] --> Logowanie użytkownika: [vector_test]
-2017-03-22 8:55:29 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [48212], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [577]

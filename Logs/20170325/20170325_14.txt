@@ -1,2 +1,0 @@
-2017-03-25 14:14:48 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
-2017-03-25 14:22:29 - [INFO] --> Logowanie użytkownika: [tjasinski]

@@ -1,2 +1,0 @@
-2017-06-17 7:14:13 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1322/2017], ID dokumentu: [5862], Nazwa serisanta: [Tadeusz Kopyra], ID serwisanta: [32], Nazwa urządzenia: [EM papier paragonowy], ID urządzenia: [157], Ilość: [2]
-2017-06-17 7:58:26 - [INFO] --> Logowanie użytkownika: [mjanek]

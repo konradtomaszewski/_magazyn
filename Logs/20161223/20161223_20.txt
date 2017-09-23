@@ -1,4 +1,0 @@
-2016-12-23 20:16:34 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-12-23 20:17:28 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/460/2016], ID dokumentu: [824], Nazwa serisanta: [Filip Marzec], ID serwisanta: [20], Nazwa urządzenia: [BNA], ID urządzenia: [7], Ilość: [1]
-2016-12-23 20:17:51 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [10176], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [548]
-2016-12-23 20:17:51 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [10126], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [603]

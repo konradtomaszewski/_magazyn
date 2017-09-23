@@ -1,3 +1,0 @@
-2017-06-18 7:02:21 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-06-18 7:02:41 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1326/2017], ID dokumentu: [5879], Nazwa serisanta: [Tadeusz Kopyra], ID serwisanta: [32], Nazwa urządzenia: [EM papier paragonowy], ID urządzenia: [157], Ilość: [2]
-2017-06-18 7:38:38 - [INFO] --> Logowanie użytkownika: [znowak]

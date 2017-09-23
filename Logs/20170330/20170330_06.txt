@@ -1,7 +1,0 @@
-2017-03-30 6:13:47 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-03-30 6:18:58 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/787/2017], ID dokumentu: [3724], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [2]
-2017-03-30 6:18:58 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/787/2017], ID dokumentu: [3724], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [3]
-2017-03-30 6:32:38 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
-2017-03-30 6:44:06 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-03-30 6:50:34 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-03-30 6:51:13 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/788/2017], ID dokumentu: [3725], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [4]

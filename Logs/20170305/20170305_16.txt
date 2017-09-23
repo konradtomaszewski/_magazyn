@@ -1,4 +1,0 @@
-2017-03-05 16:26:32 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-03-05 16:28:07 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-03-05 16:29:20 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-03-05 16:30:09 - [INFO] --> Logowanie użytkownika: [mjanek]

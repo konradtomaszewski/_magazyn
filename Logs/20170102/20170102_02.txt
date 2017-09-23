@@ -1,2 +1,0 @@
-2017-01-02 2:56:16 - [INFO] --> Logowanie użytkownika: [smiernik]
-2017-01-02 2:56:27 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Szymon Miernik], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-24]

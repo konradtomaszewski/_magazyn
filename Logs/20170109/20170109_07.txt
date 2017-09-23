@@ -1,6 +1,0 @@
-2017-01-09 7:18:33 - [INFO] --> Logowanie użytkownika: [pkalinowski]
-2017-01-09 7:18:50 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Piotr Kalinowski], Urządzenie: [Nagrzewnica], Id urządzenia: [28], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [433]
-2017-01-09 7:18:50 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [14021], ID urządzenia: [28], Serwisant: [pkalinowski]
-2017-01-09 7:53:39 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-01-09 7:54:43 - [INFO] --> Logowanie użytkownika: [pmikucki]
-2017-01-09 7:55:43 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Paweł Mikucki], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-16]

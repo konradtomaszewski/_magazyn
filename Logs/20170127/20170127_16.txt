@@ -1,3 +1,0 @@
-2017-01-27 16:00:31 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-01-27 16:00:57 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Mirosław Janek], Urządzenie: [Elektromagnes zamka], Id urządzenia: [147], Ilość: [-2]
-2017-01-27 16:01:20 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

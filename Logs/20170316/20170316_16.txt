@@ -1,2 +1,0 @@
-2017-03-16 16:11:29 - [INFO] --> Logowanie użytkownika: [jczajka]
-2017-03-16 16:17:07 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/670/2017], ID dokumentu: [3323], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [Czujnik zmierzchowy], ID urządzenia: [16], Ilość: [1]

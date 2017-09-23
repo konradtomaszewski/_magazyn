@@ -1,3 +1,0 @@
-2017-03-05 19:50:47 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-03-05 19:52:44 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/495/2017], ID dokumentu: [2951], Nazwa serisanta: [Artur Buller], ID serwisanta: [6], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]
-2017-03-05 19:52:59 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/496/2017], ID dokumentu: [2952], Nazwa serisanta: [Mariusz Sieradzki], ID serwisanta: [13], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]

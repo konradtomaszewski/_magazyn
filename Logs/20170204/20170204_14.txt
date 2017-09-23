@@ -1,2 +1,0 @@
-2017-02-04 14:34:31 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-02-04 14:48:44 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]

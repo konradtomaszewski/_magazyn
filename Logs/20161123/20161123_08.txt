@@ -1,3 +1,0 @@
-2016-11-23 8:12:20 - [INFO] --> Logowanie użytkownika: [abuller]
-2016-11-23 8:18:55 - [INFO] --> Logowanie użytkownika: [tkarabiniewicz]
-2016-11-23 8:27:03 - [INFO] --> Logowanie użytkownika: [manager]

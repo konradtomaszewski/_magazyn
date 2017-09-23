@@ -1,2 +1,0 @@
-2017-02-27 20:28:27 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-02-27 20:57:44 - [INFO] --> Logowanie użytkownika: [smiernik]

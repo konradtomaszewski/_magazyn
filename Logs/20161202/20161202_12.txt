@@ -1,3 +1,0 @@
-2016-12-02 12:22:05 - [INFO] --> Logowanie użytkownika: [mprzybylski]
-2016-12-02 12:22:30 - [INFO] --> Logowanie użytkownika: [mprzybylski]
-2016-12-02 12:22:49 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/283/2016], ID dokumentu: [505], Nazwa serisanta: [Bartosz Larkowski], ID serwisanta: [5], Nazwa urządzenia: [BNA], ID urządzenia: [7], Ilość: [1]

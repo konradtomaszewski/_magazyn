@@ -1,3 +1,0 @@
-2017-01-10 8:18:23 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [14419], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [7029], Nr automatu: [5597]
-2017-01-10 8:19:39 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-01-10 8:26:29 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

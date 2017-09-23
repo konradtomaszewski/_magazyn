@@ -1,4 +1,0 @@
-2017-01-18 23:01:19 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Daniel Gąsiewski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [219]
-2017-01-18 23:01:19 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [17997], ID urządzenia: [149], Serwisant: [dgasiewski]
-2017-01-18 23:01:55 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Daniel Gąsiewski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [251]
-2017-01-18 23:01:55 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [17998], ID urządzenia: [149], Serwisant: [dgasiewski]

@@ -1,4 +1,0 @@
-2017-08-06 14:12:11 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
-2017-08-06 14:21:23 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
-2017-08-06 14:22:09 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1752/2017], ID dokumentu: [7365], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [2]
-2017-08-06 14:22:09 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1752/2017], ID dokumentu: [7365], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [1]

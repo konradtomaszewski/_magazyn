@@ -1,3 +1,0 @@
-2016-11-04 22:01:50 - [INFO] --> Logowanie użytkownika: [tkarabiniewicz]
-2016-11-04 22:02:23 - [INFO] --> Logowanie użytkownika: [msieradzki]
-2016-11-04 22:07:29 - [INFO] --> Logowanie użytkownika: [smiernik]

@@ -1,5 +1,0 @@
-2017-07-30 21:12:08 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-07-30 21:12:35 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1706/2017], ID dokumentu: [7170], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [EM papier paragonowy], ID urządzenia: [157], Ilość: [4]
-2017-07-30 21:17:31 - [INFO] --> Logowanie użytkownika: [serwisant_c]
-2017-07-30 21:18:15 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-07-30 21:59:42 - [INFO] --> Logowanie użytkownika: [dgasiewski]

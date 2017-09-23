@@ -1,3 +1,0 @@
-2017-03-15 18:43:24 - [INFO] --> Logowanie użytkownika: [krechul]
-2017-03-15 18:44:22 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Krystian Rechul], Urządzenie: [akceptor ( wlot )], Id urządzenia: [1], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [564]
-2017-03-15 18:44:22 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [45085], ID urządzenia: [1], Serwisant: [krechul]

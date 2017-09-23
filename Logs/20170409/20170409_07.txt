@@ -1,3 +1,0 @@
-2017-04-09 7:18:18 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-04-09 7:19:35 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/863/2017], ID dokumentu: [4008], Nazwa serisanta: [Zygmunt Nowak], ID serwisanta: [30], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [7]
-2017-04-09 7:32:33 - [INFO] --> Logowanie użytkownika: [jczajka]

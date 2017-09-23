@@ -1,5 +1,0 @@
-2016-11-10 14:14:39 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-11-10 14:23:38 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/158/2016], ID dokumentu: [281], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [Artema (stacjonarna)], ID urządzenia: [5], Ilość: [1]
-2016-11-10 14:25:36 - [INFO] --> Logowanie użytkownika: [tkarabiniewicz]
-2016-11-10 14:26:06 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Karabiniewicz], Urządzenie: [Artema (stacjonarna)], Id urządzenia: [5], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [539]
-2016-11-10 14:26:15 - [INFO] --> Logowanie użytkownika: [kjasinski]

@@ -1,3 +1,0 @@
-2017-04-21 6:21:13 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-04-21 6:35:43 - [INFO] --> Logowanie użytkownika: [jczajka]
-2017-04-21 6:37:38 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/942/2017], ID dokumentu: [4319], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]

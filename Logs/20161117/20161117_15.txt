@@ -1,7 +1,0 @@
-2016-11-17 15:17:53 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/186/2016], ID dokumentu: [341], Nazwa serisanta: [Cezary Skwarzyński], ID serwisanta: [10], Nazwa urządzenia: [BNA], ID urządzenia: [7], Ilość: [4]
-2016-11-17 15:18:11 - [INFO] --> Logowanie użytkownika: [cskwarzynski]
-2016-11-17 15:18:28 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Cezary Skwarzyński], Urządzenie: [BNA], Id urządzenia: [7], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [559]
-2016-11-17 15:18:40 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Cezary Skwarzyński], Urządzenie: [BNA], Id urządzenia: [7], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [507]
-2016-11-17 15:18:52 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Cezary Skwarzyński], Urządzenie: [BNA], Id urządzenia: [7], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [519]
-2016-11-17 15:19:03 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Cezary Skwarzyński], Urządzenie: [BNA], Id urządzenia: [7], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [502]
-2016-11-17 15:19:14 - [INFO] --> Logowanie użytkownika: [kjasinski]

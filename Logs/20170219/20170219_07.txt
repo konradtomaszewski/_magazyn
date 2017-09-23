@@ -1,3 +1,0 @@
-2017-02-19 7:16:55 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-02-19 7:22:59 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-02-19 7:26:22 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/463/2017], ID dokumentu: [2519], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [7]

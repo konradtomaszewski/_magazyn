@@ -1,2 +1,0 @@
-2017-01-22 22:19:27 - [INFO] --> Logowanie użytkownika: [jczajka]
-2017-01-22 22:31:16 - [INFO] --> Logowanie użytkownika: [abuller]

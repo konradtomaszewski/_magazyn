@@ -1,3 +1,0 @@
-2017-02-18 20:35:01 - [INFO] --> Logowanie użytkownika: [msieradzki]
-2017-02-18 20:35:17 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Mariusz Sieradzki], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1]
-2017-02-18 20:35:17 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Mariusz Sieradzki], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-3]

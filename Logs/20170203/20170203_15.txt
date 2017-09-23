@@ -1,4 +1,0 @@
-2017-02-03 15:23:32 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
-2017-02-03 15:36:52 - [INFO] --> Logowanie użytkownika: [abuller]
-2017-02-03 15:37:06 - [INFO] --> Logowanie użytkownika: [abuller]
-2017-02-03 15:44:22 - [INFO] --> Logowanie użytkownika: [abuller]

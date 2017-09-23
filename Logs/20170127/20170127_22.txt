@@ -1,6 +1,0 @@
-2017-01-27 22:05:42 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-01-27 22:06:22 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Zygmunt Nowak], Urządzenie: [walidator (NRI)], Id urządzenia: [42], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [290]
-2017-01-27 22:06:22 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [22384], ID urządzenia: [42], Serwisant: [znowak]
-2017-01-27 22:06:50 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Zygmunt Nowak], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [111]
-2017-01-27 22:06:50 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [22385], ID urządzenia: [149], Serwisant: [znowak]
-2017-01-27 22:10:26 - [INFO] --> Logowanie użytkownika: [blarkowski]

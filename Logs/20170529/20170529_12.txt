@@ -1,6 +1,0 @@
-2017-05-29 12:25:16 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-05-29 12:26:38 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [79652], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [597]
-2017-05-29 12:26:38 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [80761], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [502]
-2017-05-29 12:26:39 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [79653], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [597]
-2017-05-29 12:26:39 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [80759], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [502]
-2017-05-29 12:50:46 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

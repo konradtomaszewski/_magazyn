@@ -1,8 +1,0 @@
-2017-01-29 6:22:11 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
-2017-01-29 6:23:25 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/277/2017], ID dokumentu: [1823], Nazwa serisanta: [Tomasz Jasiński serwisant], ID serwisanta: [39], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [3]
-2017-01-29 6:24:31 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/278/2017], ID dokumentu: [1824], Nazwa serisanta: [Tomasz Jasiński serwisant], ID serwisanta: [39], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [2]
-2017-01-29 6:36:03 - [INFO] --> Logowanie użytkownika: [tnowinski]
-2017-01-29 6:55:23 - [INFO] --> Logowanie użytkownika: [jczajka]
-2017-01-29 6:55:37 - [INFO] --> Logowanie użytkownika: [jczajka]
-2017-01-29 6:57:25 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/279/2017], ID dokumentu: [1825], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [CM 5,0 zł], ID urządzenia: [13], Ilość: [1]
-2017-01-29 6:57:25 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/279/2017], ID dokumentu: [1825], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]

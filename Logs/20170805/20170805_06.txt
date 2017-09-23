@@ -1,2 +1,0 @@
-2017-08-05 6:42:20 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
-2017-08-05 6:43:08 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1745/2017], ID dokumentu: [7344], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]

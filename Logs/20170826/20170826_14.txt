@@ -1,6 +1,0 @@
-2017-08-26 14:14:14 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-08-26 14:26:10 - [INFO] --> Logowanie użytkownika: [serwisant_n]
-2017-08-26 14:34:42 - [INFO] --> Logowanie użytkownika: [mstaniszewski]
-2017-08-26 14:35:28 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1896/2017], ID dokumentu: [7864], Nazwa serisanta: [Marcin Staniszewski], ID serwisanta: [45], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
-2017-08-26 14:38:40 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-08-26 14:56:18 - [INFO] --> Logowanie użytkownika: [znowak]

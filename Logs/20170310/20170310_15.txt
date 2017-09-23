@@ -1,2 +1,0 @@
-2017-03-10 15:11:30 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-03-10 15:13:49 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/626/2017], ID dokumentu: [3140], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [Bateria zamka], ID urządzenia: [145], Ilość: [1]

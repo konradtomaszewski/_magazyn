@@ -1,3 +1,0 @@
-2017-04-05 9:01:02 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-04-05 9:09:07 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [55517], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [596]
-2017-04-05 9:09:45 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [55085], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [3123], Nr automatu: [5806]

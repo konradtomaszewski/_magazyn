@@ -1,4 +1,0 @@
-2016-12-03 18:23:20 - [INFO] --> Logowanie użytkownika: [wsliwa]
-2016-12-03 18:40:05 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-12-03 18:40:58 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/290/2016], ID dokumentu: [520], Nazwa serisanta: [Szymon Miernik], ID serwisanta: [7], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]
-2016-12-03 18:41:20 - [INFO] --> Logowanie użytkownika: [smiernik]

@@ -1,8 +1,0 @@
-2017-08-24 22:21:14 - [INFO] --> Logowanie użytkownika: [kjanowski]
-2017-08-24 22:34:29 - [INFO] --> Logowanie użytkownika: [pmikucki]
-2017-08-24 22:34:51 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1755/2017], ID dokumentu: [7817], Nazwa serisanta: [Paweł Mikucki], ID serwisanta: [42], Nazwa urządzenia: [CR (manualny)], ID urządzenia: [14], Ilość: [1]
-2017-08-24 22:34:51 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1755/2017], ID dokumentu: [7817], Nazwa serisanta: [Paweł Mikucki], ID serwisanta: [42], Nazwa urządzenia: [pinpad SB], ID urządzenia: [31], Ilość: [1]
-2017-08-24 22:35:00 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Paweł Mikucki], Urządzenie: [CR (manualny)], Id urządzenia: [14], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [504]
-2017-08-24 22:35:00 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [130438], ID urządzenia: [14], Serwisant: [pmikucki]
-2017-08-24 22:35:11 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Paweł Mikucki], Urządzenie: [pinpad SB], Id urządzenia: [31], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [504]
-2017-08-24 22:35:11 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [130439], ID urządzenia: [31], Serwisant: [pmikucki]

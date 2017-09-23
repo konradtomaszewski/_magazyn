@@ -1,3 +1,0 @@
-2017-07-01 6:29:36 - [ERROR] --> Nieudane logowanie użytkownika: [serwisant_E]
-2017-07-01 6:32:37 - [INFO] --> Logowanie użytkownika: [serwisant_e]
-2017-07-01 6:43:20 - [INFO] --> Logowanie użytkownika: [mmadejsierski]

@@ -1,2 +1,0 @@
-2016-11-30 16:44:59 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-11-30 16:54:05 - [INFO] --> Logowanie użytkownika: [mprzybylski]

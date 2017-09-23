@@ -1,7 +1,0 @@
-2017-02-18 9:33:33 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-02-18 9:33:56 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [Drukarka Edmonson duża BTVM-1], Id urządzenia: [148], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [473]
-2017-02-18 9:33:56 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [32469], ID urządzenia: [148], Serwisant: [mjanek]
-2017-02-18 9:34:13 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [299]
-2017-02-18 9:34:13 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [32470], ID urządzenia: [149], Serwisant: [mjanek]
-2017-02-18 9:34:45 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/460/2017], ID dokumentu: [2489], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
-2017-02-18 9:59:58 - [INFO] --> Logowanie użytkownika: [kjasinski]

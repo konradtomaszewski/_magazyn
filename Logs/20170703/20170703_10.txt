@@ -1,5 +1,0 @@
-2017-07-03 10:00:39 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1423/2017], ID dokumentu: [6393], Nazwa serisanta: [Mateusz Żerebecki], ID serwisanta: [44], Nazwa urządzenia: [PC], ID urządzenia: [30], Ilość: [1]
-2017-07-03 10:00:55 - [ERROR] --> Nieudane logowanie użytkownika: [mzerebecki]
-2017-07-03 10:01:03 - [INFO] --> Logowanie użytkownika: [mzerebecki]
-2017-07-03 10:01:14 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mateusz Żerebecki], Urządzenie: [PC], Id urządzenia: [30], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [560]
-2017-07-03 10:01:14 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [101748], ID urządzenia: [30], Serwisant: [mzerebecki]

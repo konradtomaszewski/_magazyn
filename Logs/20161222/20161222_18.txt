@@ -1,3 +1,0 @@
-2016-12-22 18:29:01 - [INFO] --> Logowanie użytkownika: [mprzybylski]
-2016-12-22 18:29:51 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/451/2016], ID dokumentu: [806], Nazwa serisanta: [Bartosz Larkowski], ID serwisanta: [5], Nazwa urządzenia: [CR manualny (do BS 201)], ID urządzenia: [93], Ilość: [1]
-2016-12-22 18:29:51 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/451/2016], ID dokumentu: [806], Nazwa serisanta: [Bartosz Larkowski], ID serwisanta: [5], Nazwa urządzenia: [PinPad], ID urządzenia: [46], Ilość: [1]

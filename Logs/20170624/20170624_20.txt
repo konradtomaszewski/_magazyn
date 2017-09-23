@@ -1,5 +1,0 @@
-2017-06-24 20:29:33 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-06-24 20:29:54 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Rafał Tworkowski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-2], Nr boczny pojazdu: [], Nr automatu: [346]
-2017-06-24 20:29:54 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [96754], ID urządzenia: [149], Serwisant: [rtworkowski]
-2017-06-24 20:29:54 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [96754], ID urządzenia: [149], Serwisant: [rtworkowski]
-2017-06-24 20:33:30 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1415/2017], ID dokumentu: [6127], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [1]

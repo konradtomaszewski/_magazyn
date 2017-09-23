@@ -1,2 +1,0 @@
-2016-11-11 20:49:10 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-11-11 20:53:28 - [INFO] --> Logowanie użytkownika: [kwiaterski]

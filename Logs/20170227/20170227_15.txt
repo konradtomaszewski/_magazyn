@@ -1,2 +1,0 @@
-2017-02-27 15:03:06 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-02-27 15:11:32 - [INFO] --> Logowanie użytkownika: [rtworkowski]

@@ -1,5 +1,0 @@
-2017-06-30 22:01:11 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2017-06-30 22:02:45 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
-2017-06-30 22:11:26 - [INFO] --> Logowanie użytkownika: [serwisant_e]
-2017-06-30 22:59:37 - [ERROR] --> Nieudane logowanie użytkownika: [kjanowski]
-2017-06-30 22:59:53 - [ERROR] --> Nieudane logowanie użytkownika: [kjanowski]

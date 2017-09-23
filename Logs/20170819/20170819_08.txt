@@ -1,4 +1,0 @@
-2017-08-19 8:17:34 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2017-08-19 8:23:48 - [INFO] --> Logowanie użytkownika: [manager]
-2017-08-19 8:25:23 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2017-08-19 8:33:05 - [INFO] --> Logowanie użytkownika: [dgasiewski]

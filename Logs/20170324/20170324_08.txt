@@ -1,3 +1,0 @@
-2017-03-24 8:03:15 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-03-24 8:39:51 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2017-03-24 8:40:17 - [INFO] --> Logowanie użytkownika: [dostawy]

@@ -1,8 +1,0 @@
-2017-08-29 10:04:37 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1790/2017], ID dokumentu: [7936], Nazwa serisanta: [Paweł Mikucki], ID serwisanta: [42], Nazwa urządzenia: [Wentylator 12 v 50x50], ID urządzenia: [73], Ilość: [1]
-2017-08-29 10:04:47 - [INFO] --> Logowanie użytkownika: [pmikucki]
-2017-08-29 10:05:00 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Paweł Mikucki], Urządzenie: [Wentylator 12 v 50x50], Id urządzenia: [73], Ilość: [-1], Nr boczny pojazdu: [5429], Nr automatu: [5712]
-2017-08-29 10:05:00 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [132564], ID urządzenia: [73], Serwisant: [pmikucki]
-2017-08-29 10:05:10 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-08-29 10:05:24 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [123447], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [5429], Nr automatu: [5712]
-2017-08-29 10:05:24 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [132564], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [5429], Nr automatu: [5712]
-2017-08-29 10:06:08 - [INFO] --> Logowanie użytkownika: [jczajka]

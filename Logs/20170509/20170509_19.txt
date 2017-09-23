@@ -1,2 +1,0 @@
-2017-05-09 19:21:46 - [INFO] --> Logowanie użytkownika: [manager]
-2017-05-09 19:24:16 - [INFO] --> Użytkownik: [manager] utworzył nowe konto użytkownika: [mmadejsierski]

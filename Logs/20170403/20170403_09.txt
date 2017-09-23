@@ -1,8 +1,0 @@
-2017-04-03 9:26:51 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-04-03 9:29:27 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [54610], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [7000], Nr automatu: [5568]
-2017-04-03 9:29:27 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [54611], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [8116], Nr automatu: [5675]
-2017-04-03 9:29:27 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [54612], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [5417], Nr automatu: [5405]
-2017-04-03 9:40:00 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [54605], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2504], Nr automatu: [5053]
-2017-04-03 9:41:26 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [54609], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [5412], Nr automatu: [5554]
-2017-04-03 9:43:46 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [54608], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [8129], Nr automatu: [5687]
-2017-04-03 9:45:38 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [54603], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [528]

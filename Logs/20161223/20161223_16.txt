@@ -1,2 +1,0 @@
-2016-12-23 16:37:28 - [ERROR] --> Nieudane logowanie użytkownika: [tkarabiniewicz]
-2016-12-23 16:37:43 - [INFO] --> Logowanie użytkownika: [tkarabiniewicz]

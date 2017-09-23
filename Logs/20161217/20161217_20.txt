@@ -1,5 +1,0 @@
-2016-12-17 20:53:07 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-12-17 20:55:42 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/408/2016], ID dokumentu: [729], Nazwa serisanta: [Artur Buller], ID serwisanta: [6], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]
-2016-12-17 20:56:11 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/409/2016], ID dokumentu: [730], Nazwa serisanta: [Łukasz Mazurowski], ID serwisanta: [9], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]
-2016-12-17 20:56:50 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/410/2016], ID dokumentu: [731], Nazwa serisanta: [Filip Marzec], ID serwisanta: [20], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [129], Ilość: [3]
-2016-12-17 20:56:50 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/410/2016], ID dokumentu: [731], Nazwa serisanta: [Filip Marzec], ID serwisanta: [20], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]

@@ -1,6 +1,0 @@
-2017-08-25 6:28:49 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-08-25 6:29:13 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1880/2017], ID dokumentu: [7820], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [Bateria backup], ID urządzenia: [146], Ilość: [1]
-2017-08-25 6:29:52 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
-2017-08-25 6:30:44 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1881/2017], ID dokumentu: [7821], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
-2017-08-25 6:41:55 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
-2017-08-25 6:42:54 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1882/2017], ID dokumentu: [7822], Nazwa serisanta: [Tomasz Jasiński serwisant], ID serwisanta: [39], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]

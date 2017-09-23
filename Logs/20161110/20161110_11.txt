@@ -1,6 +1,0 @@
-2016-11-10 11:40:56 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-11-10 11:43:40 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/156/2016], ID dokumentu: [279], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [BNA], ID urządzenia: [7], Ilość: [1]
-2016-11-10 11:43:58 - [INFO] --> Logowanie użytkownika: [tkarabiniewicz]
-2016-11-10 11:44:28 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Karabiniewicz], Urządzenie: [BNA], Id urządzenia: [7], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [586]
-2016-11-10 11:44:37 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-11-10 11:46:50 - [ERROR] --> Nieudane logowanie użytkownika: [fgtyu7hbj]

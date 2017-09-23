@@ -1,2 +1,0 @@
-2017-02-18 18:09:57 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-02-18 18:18:31 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [32615], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [630]

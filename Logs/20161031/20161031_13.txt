@@ -1,4 +1,0 @@
-2016-10-31 13:38:05 - [INFO] --> Logowanie użytkownika: [lmazurowski]
-2016-10-31 13:44:04 - [INFO] --> Logowanie użytkownika: [tkarabiniewicz]
-2016-10-31 13:58:26 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-10-31 13:59:55 - [INFO] --> Logowanie użytkownika: [lmazurowski]

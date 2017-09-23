@@ -1,6 +1,0 @@
-2016-11-01 19:15:40 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-11-01 19:26:10 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-11-01 19:48:37 - [ERROR] --> Nieudane logowanie użytkownika: [smiernik ]
-2016-11-01 19:48:50 - [INFO] --> Logowanie użytkownika: [smiernik]
-2016-11-01 19:49:35 - [INFO] --> Logowanie użytkownika: [blarkowski]
-2016-11-01 19:50:12 - [INFO] --> Logowanie użytkownika: [vector_test]

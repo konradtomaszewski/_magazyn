@@ -1,5 +1,0 @@
-2016-11-23 19:35:22 - [INFO] --> Logowanie użytkownika: [smiernik]
-2016-11-23 19:35:51 - [ERROR] --> Nieudane logowanie użytkownika: [mprybylski]
-2016-11-23 19:36:02 - [INFO] --> Logowanie użytkownika: [mprzybylski]
-2016-11-23 19:42:33 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-11-23 19:54:30 - [INFO] --> Logowanie użytkownika: [kjasinski]

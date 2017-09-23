@@ -1,8 +1,0 @@
-2016-12-20 1:58:37 - [INFO] --> Logowanie użytkownika: [lmazurowski]
-2016-12-20 1:59:08 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Łukasz Mazurowski], Urządzenie: [Akumulator 12V 2,3 Ah], Id urządzenia: [58], Ilość: [-1], Nr boczny pojazdu: [2255], Nr automatu: [5138]
-2016-12-20 1:59:08 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [9297], ID urządzenia: [58], Serwisant: [lmazurowski]
-2016-12-20 1:59:28 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Łukasz Mazurowski], Urządzenie: [Komputer PC 104 AMD GEODE 500 (EVOC:EC3-1641 CLDNA)], Id urządzenia: [65], Ilość: [-1], Nr boczny pojazdu: [4404], Nr automatu: [5243]
-2016-12-20 1:59:28 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [9298], ID urządzenia: [65], Serwisant: [lmazurowski]
-2016-12-20 1:59:36 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Łukasz Mazurowski], Urządzenie: [Akumulator 12V 2,3 Ah], Id urządzenia: [58], Ilość: [-1]
-2016-12-20 1:59:44 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Łukasz Mazurowski], Urządzenie: [kabel ZASILACZ - MAIN (4 żyły)], Id urządzenia: [64], Ilość: [-1]
-2016-12-20 1:59:53 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Łukasz Mazurowski], Urządzenie: [Zasilacz (WRKP0135)], Id urządzenia: [75], Ilość: [-2]

@@ -1,2 +1,0 @@
-2017-06-10 15:43:23 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-06-10 15:53:52 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/1263/2017], ID dokumentu: [5675], Nazwa serisanta: [Paweł Mikucki], ID serwisanta: [42], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]

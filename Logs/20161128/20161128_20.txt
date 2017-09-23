@@ -1,3 +1,0 @@
-2016-11-28 20:57:39 - [INFO] --> Logowanie użytkownika: [mprzybylski]
-2016-11-28 20:58:30 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/255/2016], ID dokumentu: [458], Nazwa serisanta: [Wojciech Perko], ID serwisanta: [11], Nazwa urządzenia: [drukarka (Thino)], ID urządzenia: [17], Ilość: [1]
-2016-11-28 20:58:30 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/255/2016], ID dokumentu: [458], Nazwa serisanta: [Wojciech Perko], ID serwisanta: [11], Nazwa urządzenia: [BNA], ID urządzenia: [7], Ilość: [1]

@@ -1,7 +1,0 @@
-2016-12-22 13:36:00 - [INFO] --> Logowanie użytkownika: [abuller]
-2016-12-22 13:36:17 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Artur Buller], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1]
-2016-12-22 13:36:38 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Artur Buller], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-3]
-2016-12-22 13:52:26 - [INFO] --> Logowanie użytkownika: [tkarabiniewicz]
-2016-12-22 13:52:36 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Tomasz Karabiniewicz], Urządzenie: [Nagrzewnica], Id urządzenia: [28], Ilość: [-3]
-2016-12-22 13:52:44 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Tomasz Karabiniewicz], Urządzenie: [Zasilacz], Id urządzenia: [43], Ilość: [-1]
-2016-12-22 13:52:53 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Tomasz Karabiniewicz], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-1]

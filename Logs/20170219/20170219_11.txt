@@ -1,2 +1,0 @@
-2017-02-19 11:36:14 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-02-19 11:36:50 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/465/2017], ID dokumentu: [2521], Nazwa serisanta: [Zygmunt Nowak], ID serwisanta: [30], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]

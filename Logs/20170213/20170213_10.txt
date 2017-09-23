@@ -1,4 +1,0 @@
-2017-02-13 10:23:02 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
-2017-02-13 10:42:23 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-02-13 10:42:54 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [29155], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [4505], Nr automatu: [5398]
-2017-02-13 10:44:27 - [INFO] --> Logowanie użytkownika: [abuller]

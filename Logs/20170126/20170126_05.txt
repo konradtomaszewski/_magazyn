@@ -1,3 +1,0 @@
-2017-01-26 5:49:33 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-01-26 5:52:21 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-01-26 5:59:30 - [INFO] --> Logowanie użytkownika: [rtworkowski]

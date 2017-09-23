@@ -1,2 +1,0 @@
-2017-07-28 18:16:56 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-07-28 18:17:51 - [INFO] --> Logowanie użytkownika: [serwisant_c]

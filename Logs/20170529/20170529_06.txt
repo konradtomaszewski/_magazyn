@@ -1,4 +1,0 @@
-2017-05-29 6:10:57 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
-2017-05-29 6:30:51 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1182/2017], ID dokumentu: [5284], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]
-2017-05-29 6:57:44 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-05-29 6:59:37 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [81748], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [521]

@@ -1,2 +1,0 @@
-2017-08-08 17:17:10 - [INFO] --> Logowanie użytkownika: [mprzybylski]
-2017-08-08 17:17:50 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [120789], przez uzytkownika: [mprzybylski], Nr boczny pojazdu: [], Nr automatu: [533]

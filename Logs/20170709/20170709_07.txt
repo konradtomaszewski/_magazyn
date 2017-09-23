@@ -1,4 +1,0 @@
-2017-07-09 7:00:03 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-07-09 7:01:02 - [ERROR] --> Nieudane logowanie użytkownika: [serwisant_s]
-2017-07-09 7:07:48 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-07-09 7:08:43 - [INFO] --> Logowanie użytkownika: [mstaniszewski]

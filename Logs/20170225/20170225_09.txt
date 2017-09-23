@@ -1,6 +1,0 @@
-2017-02-25 9:25:29 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-02-25 9:26:00 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/510/2017], ID dokumentu: [2694], Nazwa serisanta: [Zygmunt Nowak], ID serwisanta: [30], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
-2017-02-25 9:26:48 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Zygmunt Nowak], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [316]
-2017-02-25 9:26:48 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [35680], ID urządzenia: [149], Serwisant: [znowak]
-2017-02-25 9:27:14 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Zygmunt Nowak], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [486]
-2017-02-25 9:27:14 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [35681], ID urządzenia: [149], Serwisant: [znowak]

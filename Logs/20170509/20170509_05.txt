@@ -1,2 +1,0 @@
-2017-05-09 5:05:03 - [INFO] --> Logowanie użytkownika: [mzerebecki]
-2017-05-09 5:05:13 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Mateusz Żerebecki], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-23]

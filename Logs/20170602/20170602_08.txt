@@ -1,5 +1,0 @@
-2017-06-02 8:31:54 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2017-06-02 8:32:27 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [84086], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [450]
-2017-06-02 8:32:52 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1209/2017], ID dokumentu: [5416], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [CM 5,0 zł], ID urządzenia: [13], Ilość: [1]
-2017-06-02 8:49:58 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-06-02 8:50:58 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1210/2017], ID dokumentu: [5417], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [3]

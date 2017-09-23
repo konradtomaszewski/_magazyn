@@ -1,2 +1,0 @@
-2016-11-10 21:36:11 - [INFO] --> Logowanie użytkownika: [lmazurowski]
-2016-11-10 21:50:59 - [INFO] --> Logowanie użytkownika: [wperko]

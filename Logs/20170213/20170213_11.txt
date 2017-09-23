@@ -1,2 +1,0 @@
-2017-02-13 11:12:05 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [27161], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [589]
-2017-02-13 11:50:40 - [INFO] --> Logowanie użytkownika: [mprzybylski]

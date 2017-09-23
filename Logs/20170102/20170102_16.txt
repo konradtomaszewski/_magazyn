@@ -1,8 +1,0 @@
-2017-01-02 16:00:01 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [11620], przez uzytkownika: [echabinski], Nr boczny pojazdu: [], Nr automatu: [233]
-2017-01-02 16:00:01 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [11625], przez uzytkownika: [echabinski], Nr boczny pojazdu: [], Nr automatu: [215]
-2017-01-02 16:00:02 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [11788], przez uzytkownika: [echabinski], Nr boczny pojazdu: [], Nr automatu: [210]
-2017-01-02 16:00:02 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [11623], przez uzytkownika: [echabinski], Nr boczny pojazdu: [], Nr automatu: [495]
-2017-01-02 16:00:02 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [11874], przez uzytkownika: [echabinski], Nr boczny pojazdu: [], Nr automatu: [352]
-2017-01-02 16:00:02 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [11787], przez uzytkownika: [echabinski], Nr boczny pojazdu: [], Nr automatu: [138]
-2017-01-02 16:17:52 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-01-02 16:40:51 - [INFO] --> Logowanie użytkownika: [gwiatrzyk]

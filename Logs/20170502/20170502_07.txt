@@ -1,6 +1,0 @@
-2017-05-02 7:07:37 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Daniel Gąsiewski], Urządzenie: [Wyświetlacz LCD 15 cali], Id urządzenia: [25], Ilość: [-1]
-2017-05-02 7:07:52 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Daniel Gąsiewski], Urządzenie: [walidator (NRI)], Id urządzenia: [42], Ilość: [-1]
-2017-05-02 7:08:05 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Daniel Gąsiewski], Urządzenie: [Zasilacz], Id urządzenia: [43], Ilość: [-1]
-2017-05-02 7:08:21 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Daniel Gąsiewski], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-2]
-2017-05-02 7:08:37 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Daniel Gąsiewski], Urządzenie: [Bateria backup], Id urządzenia: [146], Ilość: [-1]
-2017-05-02 7:08:53 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Daniel Gąsiewski], Urządzenie: [Drukarka Edmonson duża BTVM-1], Id urządzenia: [148], Ilość: [-1]

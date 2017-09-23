@@ -1,5 +1,0 @@
-2017-02-17 9:08:34 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2017-02-17 9:49:30 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-02-17 9:49:54 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [BNA], Id urządzenia: [7], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [248]
-2017-02-17 9:49:54 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [31984], ID urządzenia: [7], Serwisant: [mjanek]
-2017-02-17 9:53:23 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

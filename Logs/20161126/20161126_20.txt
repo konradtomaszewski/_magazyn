@@ -1,3 +1,0 @@
-2016-11-26 20:15:29 - [INFO] --> Logowanie użytkownika: [lmazurowski]
-2016-11-26 20:15:41 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Łukasz Mazurowski], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1]
-2016-11-26 20:15:50 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Łukasz Mazurowski], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-3]

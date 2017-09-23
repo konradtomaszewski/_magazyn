@@ -1,8 +1,0 @@
-2017-07-19 6:05:29 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
-2017-07-19 6:17:11 - [INFO] --> Logowanie użytkownika: [mstaniszewski]
-2017-07-19 6:18:19 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1623/2017], ID dokumentu: [6865], Nazwa serisanta: [Marcin Staniszewski], ID serwisanta: [45], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
-2017-07-19 6:20:23 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
-2017-07-19 6:21:59 - [ERROR] --> Nieudane logowanie użytkownika: [sereisant_c]
-2017-07-19 6:22:32 - [INFO] --> Logowanie użytkownika: [serwisant_c]
-2017-07-19 6:23:49 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
-2017-07-19 6:24:11 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1624/2017], ID dokumentu: [6867], Nazwa serisanta: [Tomasz Jasiński serwisant], ID serwisanta: [39], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]

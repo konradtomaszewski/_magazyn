@@ -1,3 +1,0 @@
-2016-11-29 6:41:44 - [INFO] --> Logowanie użytkownika: [msieradzki]
-2016-11-29 6:44:19 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-11-29 6:54:36 - [INFO] --> Logowanie użytkownika: [kjasinski]

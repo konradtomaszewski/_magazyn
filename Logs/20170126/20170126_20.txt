@@ -1,3 +1,0 @@
-2017-01-26 20:01:01 - [INFO] --> Logowanie użytkownika: [pmikucki]
-2017-01-26 20:01:26 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Paweł Mikucki], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [546]
-2017-01-26 20:01:26 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [21639], ID urządzenia: [130], Serwisant: [pmikucki]

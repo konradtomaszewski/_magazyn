@@ -1,5 +1,0 @@
-2017-01-21 9:24:56 - [INFO] --> Logowanie użytkownika: [michał]
-2017-01-21 9:25:29 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Michał Przybylski - Serwisant], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [559]
-2017-01-21 9:25:29 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [18999], ID urządzenia: [130], Serwisant: [michał]
-2017-01-21 9:37:35 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-01-21 9:38:00 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/184/2017], ID dokumentu: [1546], Nazwa serisanta: [Tadeusz Kopyra], ID serwisanta: [32], Nazwa urządzenia: [drukarka (Thino)], ID urządzenia: [17], Ilość: [1]

@@ -1,5 +1,0 @@
-2017-03-04 10:10:40 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-03-04 10:11:12 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/485/2017], ID dokumentu: [2917], Nazwa serisanta: [Paweł Mikucki], ID serwisanta: [42], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
-2017-03-04 10:11:12 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/485/2017], ID dokumentu: [2917], Nazwa serisanta: [Paweł Mikucki], ID serwisanta: [42], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [3]
-2017-03-04 10:11:35 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/486/2017], ID dokumentu: [2918], Nazwa serisanta: [Cezary Skwarzyński], ID serwisanta: [10], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
-2017-03-04 10:11:35 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/486/2017], ID dokumentu: [2918], Nazwa serisanta: [Cezary Skwarzyński], ID serwisanta: [10], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [3]

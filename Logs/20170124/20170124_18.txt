@@ -1,4 +1,0 @@
-2017-01-24 18:10:55 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-01-24 18:55:02 - [INFO] --> Logowanie użytkownika: [pkalinowski]
-2017-01-24 18:55:20 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Piotr Kalinowski], Urządzenie: [Bateria zamka], Id urządzenia: [145], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [125]
-2017-01-24 18:55:20 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [20544], ID urządzenia: [145], Serwisant: [pkalinowski]

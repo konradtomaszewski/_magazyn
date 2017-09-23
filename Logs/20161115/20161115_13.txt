@@ -1,2 +1,0 @@
-2016-11-15 13:56:33 - [INFO] --> Logowanie użytkownika: [smiernik]
-2016-11-15 13:59:31 - [INFO] --> Logowanie użytkownika: [kjasinski]

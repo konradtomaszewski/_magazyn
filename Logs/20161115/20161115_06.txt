@@ -1,2 +1,0 @@
-2016-11-15 6:33:41 - [INFO] --> Logowanie użytkownika: [smiernik]
-2016-11-15 6:34:09 - [INFO] --> Logowanie użytkownika: [blarkowski]

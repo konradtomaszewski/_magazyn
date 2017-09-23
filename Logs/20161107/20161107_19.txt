@@ -1,3 +1,0 @@
-2016-11-07 19:09:22 - [ERROR] --> Nieudane logowanie użytkownika: [vetor_test]
-2016-11-07 19:09:22 - [ERROR] --> Nieudane logowanie użytkownika: [vetor_test]
-2016-11-07 19:09:34 - [INFO] --> Logowanie użytkownika: [vector_test]

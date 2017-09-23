@@ -1,3 +1,0 @@
-2017-05-20 11:18:38 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-05-20 11:23:37 - [INFO] --> Logowanie użytkownika: [jczajka]
-2017-05-20 11:25:14 - [INFO] --> Logowanie użytkownika: [tkopyra]

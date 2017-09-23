@@ -1,2 +1,0 @@
-2017-06-24 22:04:21 - [INFO] --> Logowanie użytkownika: [mzerebecki]
-2017-06-24 22:31:30 - [INFO] --> Logowanie użytkownika: [mstaniszewski]

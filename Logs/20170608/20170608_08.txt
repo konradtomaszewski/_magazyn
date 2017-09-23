@@ -1,2 +1,0 @@
-2017-06-08 8:03:47 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
-2017-06-08 8:05:16 - [INFO] --> Logowanie użytkownika: [tjasinski]

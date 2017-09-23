@@ -1,2 +1,0 @@
-2017-06-30 8:59:23 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [99304], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [7005], Nr automatu: [5573]
-2017-06-30 8:59:31 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [99273], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [2401], Nr automatu: [5357]

@@ -1,5 +1,0 @@
-2016-12-10 5:05:46 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Bartosz Larkowski], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [8330], Nr automatu: [5537]
-2016-12-10 5:05:46 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [7385], ID urządzenia: [129], Serwisant: [blarkowski]
-2016-12-10 5:06:24 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Bartosz Larkowski], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [8308], Nr automatu: [5515]
-2016-12-10 5:06:24 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [7386], ID urządzenia: [129], Serwisant: [blarkowski]
-2016-12-10 5:06:35 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Bartosz Larkowski], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-13]

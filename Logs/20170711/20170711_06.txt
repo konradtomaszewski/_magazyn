@@ -1,4 +1,0 @@
-2017-07-11 6:05:11 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-07-11 6:05:33 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-07-11 6:27:45 - [INFO] --> Logowanie użytkownika: [tnowinski]
-2017-07-11 6:28:19 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1565/2017], ID dokumentu: [6643], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]

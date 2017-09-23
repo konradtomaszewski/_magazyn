@@ -1,5 +1,0 @@
-2017-03-01 20:44:54 - [ERROR] --> Nieudane logowanie użytkownika: [tnowinski]
-2017-03-01 20:45:08 - [INFO] --> Logowanie użytkownika: [tnowinski]
-2017-03-01 20:45:35 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/547/2017], ID dokumentu: [2832], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [drukarka (Thino)], ID urządzenia: [17], Ilość: [1]
-2017-03-01 20:46:09 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Nowiński], Urządzenie: [drukarka (Thino)], Id urządzenia: [17], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [272]
-2017-03-01 20:46:09 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [37626], ID urządzenia: [17], Serwisant: [tnowinski]

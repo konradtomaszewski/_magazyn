@@ -1,2 +1,0 @@
-2017-05-16 8:28:55 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-05-16 8:28:58 - [INFO] --> Logowanie użytkownika: [rtworkowski]

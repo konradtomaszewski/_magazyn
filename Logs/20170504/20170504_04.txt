@@ -1,2 +1,0 @@
-2017-05-04 4:11:09 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Tomasz Karabiniewicz], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1]
-2017-05-04 4:11:56 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Tomasz Karabiniewicz], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-21]

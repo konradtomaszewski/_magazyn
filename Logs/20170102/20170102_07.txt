@@ -1,5 +1,0 @@
-2017-01-02 7:32:38 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-01-02 7:51:13 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-01-02 7:52:37 - [ERROR] --> Nieudane logowanie użytkownika: [ktomaszewski]
-2017-01-02 7:52:47 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2017-01-02 7:57:27 - [INFO] --> Logowanie użytkownika: [manager]

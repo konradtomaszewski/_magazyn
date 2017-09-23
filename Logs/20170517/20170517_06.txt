@@ -1,5 +1,0 @@
-2017-05-17 6:14:23 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
-2017-05-17 6:15:24 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-05-17 6:21:10 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1112/2017], ID dokumentu: [4965], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [EM papier paragonowy], ID urządzenia: [157], Ilość: [1]
-2017-05-17 6:25:35 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-05-17 6:29:22 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1113/2017], ID dokumentu: [4966], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]

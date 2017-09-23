@@ -1,5 +1,0 @@
-2017-04-04 15:05:00 - [ERROR] --> Nieudane logowanie użytkownika: [rtworkoywski]
-2017-04-04 15:05:14 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-04-04 15:05:49 - [INFO] --> Logowanie użytkownika: [jczajka]
-2017-04-04 15:06:00 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/834/2017], ID dokumentu: [3892], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [8]
-2017-04-04 15:06:05 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/834/2017], ID dokumentu: [3893], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]

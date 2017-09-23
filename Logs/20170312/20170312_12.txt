@@ -1,6 +1,0 @@
-2017-03-12 12:57:20 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-03-12 12:59:03 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [43414], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [3007], Nr automatu: [5288]
-2017-03-12 12:59:03 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [43415], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [3120], Nr automatu: [5799]
-2017-03-12 12:59:03 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [43416], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [3125], Nr automatu: [5810]
-2017-03-12 12:59:03 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [43417], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [4642], Nr automatu: [5759]
-2017-03-12 12:59:03 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [43418], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [8332], Nr automatu: [5539]

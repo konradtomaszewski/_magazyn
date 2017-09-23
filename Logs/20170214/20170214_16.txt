@@ -1,5 +1,0 @@
-2017-02-14 16:41:24 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
-2017-02-14 16:41:55 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Jasiński serwisant], Urządzenie: [Drukarka Edmonson duża BTVM-1], Id urządzenia: [148], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [344]
-2017-02-14 16:41:55 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [30678], ID urządzenia: [148], Serwisant: [tjasinski_s]
-2017-02-14 16:42:26 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Jasiński serwisant], Urządzenie: [akceptor ( wlot )], Id urządzenia: [1], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [247]
-2017-02-14 16:42:26 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [30679], ID urządzenia: [1], Serwisant: [tjasinski_s]

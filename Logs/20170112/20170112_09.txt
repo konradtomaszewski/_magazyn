@@ -1,3 +1,0 @@
-2017-01-12 9:09:03 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-01-12 9:12:18 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [14153], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [536]
-2017-01-12 9:31:32 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

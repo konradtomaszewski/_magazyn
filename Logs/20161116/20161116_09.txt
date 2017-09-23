@@ -1,5 +1,0 @@
-2016-11-16 9:22:28 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-11-16 9:23:03 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/176/2016], ID dokumentu: [320], Nazwa serisanta: [Szymon Miernik], ID serwisanta: [7], Nazwa urządzenia: [Karta pamięci CF 2GB], ID urządzenia: [92], Ilość: [1]
-2016-11-16 9:23:18 - [INFO] --> Logowanie użytkownika: [smiernik]
-2016-11-16 9:23:44 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Szymon Miernik], Urządzenie: [Karta pamięci CF 2GB], Id urządzenia: [92], Ilość: [-1], Nr boczny pojazdu: [5421], Nr automatu: [5367]
-2016-11-16 9:23:55 - [INFO] --> Logowanie użytkownika: [kjasinski]

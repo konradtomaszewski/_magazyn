@@ -1,8 +1,0 @@
-2017-01-13 20:02:47 - [INFO] --> Logowanie użytkownika: [pkalinowski]
-2017-01-13 20:03:15 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/122/2017], ID dokumentu: [1336], Nazwa serisanta: [Piotr Kalinowski], ID serwisanta: [29], Nazwa urządzenia: [walidator (NRI)], ID urządzenia: [42], Ilość: [1]
-2017-01-13 20:03:15 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/122/2017], ID dokumentu: [1336], Nazwa serisanta: [Piotr Kalinowski], ID serwisanta: [29], Nazwa urządzenia: [drukarka (Thino)], ID urządzenia: [17], Ilość: [1]
-2017-01-13 20:24:26 - [INFO] --> Logowanie użytkownika: [pkalinowski]
-2017-01-13 20:24:43 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Piotr Kalinowski], Urządzenie: [drukarka (Thino)], Id urządzenia: [17], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [334]
-2017-01-13 20:24:43 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [16082], ID urządzenia: [17], Serwisant: [pkalinowski]
-2017-01-13 20:59:02 - [INFO] --> Logowanie użytkownika: [pkalinowski]
-2017-01-13 20:59:16 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/123/2017], ID dokumentu: [1337], Nazwa serisanta: [Piotr Kalinowski], ID serwisanta: [29], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [8]

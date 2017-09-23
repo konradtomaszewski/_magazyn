@@ -1,8 +1,0 @@
-2017-06-22 6:03:58 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-06-22 6:09:14 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
-2017-06-22 6:16:58 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-06-22 6:29:46 - [INFO] --> Logowanie użytkownika: [mstaniszewski]
-2017-06-22 6:31:14 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1356/2017], ID dokumentu: [6004], Nazwa serisanta: [Marcin Staniszewski], ID serwisanta: [45], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
-2017-06-22 6:32:50 - [INFO] --> Logowanie użytkownika: [mmadejsierski]
-2017-06-22 6:33:30 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Marek Madej Sierski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [163]
-2017-06-22 6:33:30 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [94913], ID urządzenia: [149], Serwisant: [mmadejsierski]

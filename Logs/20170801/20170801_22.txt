@@ -1,4 +1,0 @@
-2017-08-01 22:03:44 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-08-01 22:16:28 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
-2017-08-01 22:23:45 - [INFO] --> Logowanie użytkownika: [smiernik]
-2017-08-01 22:44:04 - [INFO] --> Logowanie użytkownika: [mjanek]

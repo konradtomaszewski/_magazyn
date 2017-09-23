@@ -1,5 +1,0 @@
-2017-01-22 15:10:31 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-01-22 15:10:33 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-01-22 15:10:58 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/197/2017], ID dokumentu: [1576], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [Bateria zamka], ID urządzenia: [145], Ilość: [1]
-2017-01-22 15:23:55 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-01-22 15:24:33 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

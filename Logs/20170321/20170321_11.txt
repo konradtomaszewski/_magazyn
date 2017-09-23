@@ -1,7 +1,0 @@
-2017-03-21 11:00:55 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2017-03-21 11:24:49 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-03-21 11:26:18 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [47636], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [571]
-2017-03-21 11:29:40 - [INFO] --> Logowanie użytkownika: [mennica_papier]
-2017-03-21 11:30:24 - [INFO] --> Typ dokumentu: [Dostawa części (do zatwierdzenia)], Nazwa dokumentu:  [WRO/N/17/2017],  Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [20]
-2017-03-21 11:30:54 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-03-21 11:31:08 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WRO/N/17/2017],  Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [20]

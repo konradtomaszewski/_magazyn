@@ -1,6 +1,0 @@
-2017-01-02 8:19:27 - [ERROR] --> Nieudane logowanie użytkownika: [ktomaszewski]
-2017-01-02 8:19:34 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2017-01-02 8:38:02 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-01-02 8:42:29 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [11367], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [563]
-2017-01-02 8:43:07 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [11470], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [514]
-2017-01-02 8:43:28 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [11399], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [3207], Nr automatu: [5119]

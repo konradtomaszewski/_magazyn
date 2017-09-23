@@ -1,7 +1,0 @@
-2017-03-07 17:02:56 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-03-07 17:03:27 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/595/2017], ID dokumentu: [3017], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [akceptor ( wlot )], ID urządzenia: [1], Ilość: [1]
-2017-03-07 17:04:13 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/596/2017], ID dokumentu: [3018], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
-2017-03-07 17:04:40 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/597/2017], ID dokumentu: [3019], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [drukarka (Thino)], ID urządzenia: [17], Ilość: [1]
-2017-03-07 17:15:37 - [INFO] --> Logowanie użytkownika: [lmazurowski]
-2017-03-07 17:16:25 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Łukasz Mazurowski], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [501]
-2017-03-07 17:16:25 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [40769], ID urządzenia: [130], Serwisant: [lmazurowski]

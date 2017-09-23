@@ -1,7 +1,0 @@
-2017-04-26 6:09:42 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
-2017-04-26 6:10:57 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/976/2017], ID dokumentu: [4432], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [walidator (NRI)], ID urządzenia: [42], Ilość: [1]
-2017-04-26 6:22:35 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-04-26 6:26:26 - [INFO] --> Logowanie użytkownika: [mstaniszewski]
-2017-04-26 6:26:58 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/977/2017], ID dokumentu: [4433], Nazwa serisanta: [Tadeusz Kopyra], ID serwisanta: [32], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
-2017-04-26 6:27:10 - [INFO] --> Logowanie użytkownika: [mstaniszewski]
-2017-04-26 6:27:53 - [INFO] --> Logowanie użytkownika: [mstaniszewski]

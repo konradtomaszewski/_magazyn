@@ -1,8 +1,0 @@
-2017-04-28 6:12:43 - [INFO] --> Logowanie użytkownika: [tnowinski]
-2017-04-28 6:36:01 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-04-28 6:36:01 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-04-28 6:36:22 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/990/2017], ID dokumentu: [4483], Nazwa serisanta: [Tadeusz Kopyra], ID serwisanta: [32], Nazwa urządzenia: [Nagrzewnica], ID urządzenia: [28], Ilość: [1]
-2017-04-28 6:40:04 - [INFO] --> Logowanie użytkownika: [tnowinski]
-2017-04-28 6:40:49 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/991/2017], ID dokumentu: [4484], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [Nagrzewnica], ID urządzenia: [28], Ilość: [1]
-2017-04-28 6:42:22 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-04-28 6:43:16 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/992/2017], ID dokumentu: [4485], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [2]

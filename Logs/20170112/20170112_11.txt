@@ -1,5 +1,0 @@
-2017-01-12 11:21:07 - [INFO] --> Logowanie użytkownika: [tkarabiniewicz]
-2017-01-12 11:30:15 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-01-12 11:35:57 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2017-01-12 11:42:35 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-01-12 11:52:56 - [INFO] --> Logowanie użytkownika: [tkopyra]

@@ -1,6 +1,0 @@
-2016-12-18 12:29:18 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-12-18 12:30:51 - [ERROR] --> Nieudane logowanie użytkownika: [abuller]
-2016-12-18 12:31:03 - [INFO] --> Logowanie użytkownika: [abuller]
-2016-12-18 12:31:31 - [INFO] --> Logowanie użytkownika: [msieradzki]
-2016-12-18 12:33:54 - [INFO] --> Logowanie użytkownika: [fmarzec]
-2016-12-18 12:37:15 - [INFO] --> Logowanie użytkownika: [krzysztof]

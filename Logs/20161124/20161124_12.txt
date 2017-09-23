@@ -1,4 +1,0 @@
-2016-11-24 12:17:20 - [INFO] --> Logowanie użytkownika: [mprzybylski]
-2016-11-24 12:17:55 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/228/2016], ID dokumentu: [411], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [4]
-2016-11-24 12:30:12 - [INFO] --> Logowanie użytkownika: [manager]
-2016-11-24 12:31:15 - [INFO] --> Logowanie użytkownika: [vector_test]

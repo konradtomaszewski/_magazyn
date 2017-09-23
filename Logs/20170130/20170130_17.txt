@@ -1,8 +1,0 @@
-2017-01-30 17:31:34 - [INFO] --> Logowanie użytkownika: [lmazurowski]
-2017-01-30 17:31:59 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Łukasz Mazurowski], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [504]
-2017-01-30 17:31:59 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [23415], ID urządzenia: [128], Serwisant: [lmazurowski]
-2017-01-30 17:32:23 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Łukasz Mazurowski], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [502]
-2017-01-30 17:32:23 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [23416], ID urządzenia: [130], Serwisant: [lmazurowski]
-2017-01-30 17:46:38 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-01-30 17:47:05 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [23415], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [504]
-2017-01-30 17:58:30 - [INFO] --> Logowanie użytkownika: [mjanek]

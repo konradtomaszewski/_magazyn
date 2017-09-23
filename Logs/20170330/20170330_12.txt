@@ -1,2 +1,0 @@
-2017-03-30 12:01:46 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-03-30 12:44:31 - [INFO] --> Logowanie użytkownika: [mjanek]

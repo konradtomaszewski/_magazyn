@@ -1,7 +1,0 @@
-2017-01-29 14:22:28 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-01-29 14:33:16 - [INFO] --> Logowanie użytkownika: [wsliwa]
-2017-01-29 14:33:35 - [INFO] --> Logowanie użytkownika: [mprzybylski]
-2017-01-29 14:33:57 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/201/2017], ID dokumentu: [1837], Nazwa serisanta: [Wojciech Śliwa], ID serwisanta: [8], Nazwa urządzenia: [BNA], ID urządzenia: [7], Ilość: [1]
-2017-01-29 14:34:25 - [INFO] --> Logowanie użytkownika: [wsliwa]
-2017-01-29 14:35:06 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Wojciech Śliwa], Urządzenie: [BNA], Id urządzenia: [7], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [517]
-2017-01-29 14:35:06 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [22963], ID urządzenia: [7], Serwisant: [wsliwa]

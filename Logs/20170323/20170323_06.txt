@@ -1,5 +1,0 @@
-2017-03-23 6:24:32 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-03-23 6:36:51 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/727/2017], ID dokumentu: [3523], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [4]
-2017-03-23 6:46:01 - [INFO] --> Logowanie użytkownika: [jczajka]
-2017-03-23 6:47:07 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/728/2017], ID dokumentu: [3524], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
-2017-03-23 6:48:27 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/729/2017], ID dokumentu: [3525], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [PC], ID urządzenia: [30], Ilość: [1]

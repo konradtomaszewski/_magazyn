@@ -1,4 +1,0 @@
-2017-03-20 9:00:27 - [INFO] --> Logowanie użytkownika: [dostawy]
-2017-03-20 9:06:27 - [INFO] --> Typ dokumentu: [Dostawa części (do zatwierdzenia)], Nazwa dokumentu:  [WRO/N/15/2017],  Nazwa urządzenia: [Akumulator 12V 2,3 Ah], ID urządzenia: [58], Ilość: [72]
-2017-03-20 9:06:40 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-03-20 9:08:01 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WRO/N/15/2017],  Nazwa urządzenia: [Akumulator 12V 2,3 Ah], ID urządzenia: [58], Ilość: [72]

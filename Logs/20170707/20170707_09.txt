@@ -1,2 +1,0 @@
-2017-07-07 9:41:36 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-07-07 9:41:47 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [104479], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [555]

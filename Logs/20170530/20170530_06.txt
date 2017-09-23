@@ -1,6 +1,0 @@
-2017-05-30 6:05:28 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
-2017-05-30 6:18:03 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1188/2017], ID dokumentu: [5315], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
-2017-05-30 6:19:27 - [ERROR] --> Nieudane logowanie użytkownika: [tjasinki_s]
-2017-05-30 6:19:35 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
-2017-05-30 6:22:55 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-05-30 6:40:56 - [INFO] --> Logowanie użytkownika: [rstawieraj]

@@ -1,3 +1,0 @@
-2017-05-28 14:09:57 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-05-28 14:20:45 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-05-28 14:27:47 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1181/2017], ID dokumentu: [5279], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [8]

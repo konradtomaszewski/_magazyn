@@ -1,5 +1,0 @@
-2016-12-12 18:39:18 - [INFO] --> Logowanie użytkownika: [msieradzki]
-2016-12-12 18:39:43 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mariusz Sieradzki], Urządzenie: [CM 0,5 zł], Id urządzenia: [10], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [592]
-2016-12-12 18:39:43 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [7663], ID urządzenia: [10], Serwisant: [msieradzki]
-2016-12-12 18:40:07 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mariusz Sieradzki], Urządzenie: [drukarka (Thino)], Id urządzenia: [17], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [525]
-2016-12-12 18:40:07 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [7664], ID urządzenia: [17], Serwisant: [msieradzki]

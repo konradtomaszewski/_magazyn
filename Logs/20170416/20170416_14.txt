@@ -1,3 +1,0 @@
-2017-04-16 14:04:20 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
-2017-04-16 14:15:52 - [INFO] --> Logowanie użytkownika: [tnowinski]
-2017-04-16 14:59:50 - [INFO] --> Logowanie użytkownika: [tjasinski_s]

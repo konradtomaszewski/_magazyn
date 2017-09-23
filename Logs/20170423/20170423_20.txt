@@ -1,6 +1,0 @@
-2017-04-23 20:37:04 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-04-23 20:42:18 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Daniel Gąsiewski], Urządzenie: [CM 0,2 zł], Id urządzenia: [9], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [130]
-2017-04-23 20:42:18 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [64424], ID urządzenia: [9], Serwisant: [dgasiewski]
-2017-04-23 20:42:46 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Daniel Gąsiewski], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [245]
-2017-04-23 20:42:46 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [64425], ID urządzenia: [149], Serwisant: [dgasiewski]
-2017-04-23 20:43:29 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/958/2017], ID dokumentu: [4371], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [CM 0,2 zł], ID urządzenia: [9], Ilość: [1]

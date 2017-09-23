@@ -1,2 +1,0 @@
-2017-03-21 7:41:12 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-03-21 7:43:39 - [INFO] --> Logowanie użytkownika: [mjanek]

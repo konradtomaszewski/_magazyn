@@ -1,3 +1,0 @@
-2017-02-02 0:31:26 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-02-02 0:32:23 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Zygmunt Nowak], Urządzenie: [PAPIER Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [496]
-2017-02-02 0:32:23 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [24672], ID urządzenia: [149], Serwisant: [znowak]

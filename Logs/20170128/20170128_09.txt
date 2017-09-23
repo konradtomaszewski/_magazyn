@@ -1,2 +1,0 @@
-2017-01-28 9:37:00 - [INFO] --> Logowanie użytkownika: [tnowinski]
-2017-01-28 9:37:20 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/271/2017], ID dokumentu: [1801], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [drukarka (Thino)], ID urządzenia: [17], Ilość: [1]

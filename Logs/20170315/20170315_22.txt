@@ -1,4 +1,0 @@
-2017-03-15 22:13:13 - [INFO] --> Logowanie użytkownika: [pmikucki]
-2017-03-15 22:13:26 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Paweł Mikucki], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1]
-2017-03-15 22:13:26 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Paweł Mikucki], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-3]
-2017-03-15 22:28:54 - [INFO] --> Logowanie użytkownika: [mjanek]

@@ -1,3 +1,0 @@
-2017-04-19 8:02:01 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-04-19 8:47:28 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-04-19 8:48:23 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/932/2017], ID dokumentu: [4264], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]

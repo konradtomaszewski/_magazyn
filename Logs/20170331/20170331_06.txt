@@ -1,5 +1,0 @@
-2017-03-31 6:06:05 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-03-31 6:09:18 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-03-31 6:15:43 - [INFO] --> Logowanie użytkownika: [tkarabiniewicz]
-2017-03-31 6:43:41 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
-2017-03-31 6:48:15 - [INFO] --> Logowanie użytkownika: [mjanek]

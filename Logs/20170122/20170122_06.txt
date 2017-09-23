@@ -1,5 +1,0 @@
-2017-01-22 6:17:11 - [INFO] --> Logowanie użytkownika: [jczajka]
-2017-01-22 6:18:22 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/194/2017], ID dokumentu: [1566], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [6]
-2017-01-22 6:18:22 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-01-22 6:20:06 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/195/2017], ID dokumentu: [1567], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [drukarka (Thino)], ID urządzenia: [17], Ilość: [1]
-2017-01-22 6:55:57 - [INFO] --> Logowanie użytkownika: [tjasinski_s]

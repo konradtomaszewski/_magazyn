@@ -1,3 +1,0 @@
-2017-06-13 6:00:36 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1291/2017], ID dokumentu: [5738], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [EM Drukarka Edmonson], ID urządzenia: [167], Ilość: [14]
-2017-06-13 6:05:17 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-06-13 6:46:34 - [INFO] --> Logowanie użytkownika: [mstaniszewski]

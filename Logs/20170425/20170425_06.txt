@@ -1,4 +1,0 @@
-2017-04-25 6:01:46 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
-2017-04-25 6:03:08 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/971/2017], ID dokumentu: [4411], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
-2017-04-25 6:03:08 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/971/2017], ID dokumentu: [4411], Nazwa serisanta: [Dariusz Nowakowski- Serwisant], ID serwisanta: [40], Nazwa urządzenia: [CM 5,0 zł], ID urządzenia: [13], Ilość: [1]
-2017-04-25 6:58:27 - [INFO] --> Logowanie użytkownika: [kjasinski]

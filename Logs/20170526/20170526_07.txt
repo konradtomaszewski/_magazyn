@@ -1,3 +1,0 @@
-2017-05-26 7:03:04 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1164/2017], ID dokumentu: [5209], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]
-2017-05-26 7:03:05 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1164/2017], ID dokumentu: [5209], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [BNA], ID urządzenia: [7], Ilość: [1]
-2017-05-26 7:03:05 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1164/2017], ID dokumentu: [5209], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [drukarka (Thino)], ID urządzenia: [17], Ilość: [1]

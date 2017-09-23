@@ -1,6 +1,0 @@
-2017-03-13 6:02:00 - [INFO] --> Logowanie użytkownika: [rstawieraj]
-2017-03-13 6:05:25 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/640/2017], ID dokumentu: [3197], Nazwa serisanta: [Rafał Stawieraj], ID serwisanta: [33], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]
-2017-03-13 6:21:34 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-03-13 6:23:23 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/641/2017], ID dokumentu: [3198], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [5]
-2017-03-13 6:30:11 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-03-13 6:45:46 - [INFO] --> Logowanie użytkownika: [znowak]

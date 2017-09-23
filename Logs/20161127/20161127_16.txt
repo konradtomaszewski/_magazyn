@@ -1,2 +1,0 @@
-2016-11-27 16:03:29 - [INFO] --> Logowanie użytkownika: [lmazurowski]
-2016-11-27 16:11:40 - [INFO] --> Logowanie użytkownika: [kjasinski]

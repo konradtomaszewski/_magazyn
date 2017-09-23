@@ -1,3 +1,0 @@
-2017-01-23 4:59:16 - [INFO] --> Logowanie użytkownika: [abuller]
-2017-01-23 4:59:57 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Artur Buller], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-1], Nr boczny pojazdu: [4628], Nr automatu: [5747]
-2017-01-23 4:59:57 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [19667], ID urządzenia: [129], Serwisant: [abuller]

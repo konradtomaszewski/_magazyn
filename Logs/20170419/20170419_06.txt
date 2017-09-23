@@ -1,4 +1,0 @@
-2017-04-19 6:01:26 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-04-19 6:07:41 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-04-19 6:11:39 - [INFO] --> Logowanie użytkownika: [tjasinski_s]
-2017-04-19 6:12:51 - [INFO] --> Logowanie użytkownika: [mjanek]

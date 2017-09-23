@@ -1,3 +1,0 @@
-2017-05-28 15:14:28 - [INFO] --> Logowanie użytkownika: [smiernik]
-2017-05-28 15:14:38 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Szymon Miernik], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1]
-2017-05-28 15:14:38 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Szymon Miernik], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-3]

@@ -1,5 +1,0 @@
-2017-01-31 9:00:30 - [INFO] --> Logowanie użytkownika: [pmikucki]
-2017-01-31 9:00:44 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Paweł Mikucki], Urządzenie: [pinpad], Id urządzenia: [31], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [539]
-2017-01-31 9:00:44 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [23727], ID urządzenia: [31], Serwisant: [pmikucki]
-2017-01-31 9:01:51 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [23727], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [539]
-2017-01-31 9:07:38 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [21642], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [626]

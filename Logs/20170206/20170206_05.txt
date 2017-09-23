@@ -1,2 +1,0 @@
-2017-02-06 5:10:10 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Bartosz Larkowski], Urządzenie: [Papier mobilny], Id urządzenia: [129], Ilość: [-12]
-2017-02-06 5:55:11 - [INFO] --> Logowanie użytkownika: [lmazurowski]

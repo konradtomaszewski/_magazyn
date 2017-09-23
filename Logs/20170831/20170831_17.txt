@@ -1,2 +1,0 @@
-2017-08-31 17:07:12 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-08-31 17:07:52 - [INFO] --> Logowanie użytkownika: [serwisant_c]

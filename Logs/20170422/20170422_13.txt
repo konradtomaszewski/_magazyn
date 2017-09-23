@@ -1,3 +1,0 @@
-2017-04-22 13:17:53 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-04-22 13:18:52 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/947/2017], ID dokumentu: [4346], Nazwa serisanta: [Zygmunt Nowak], ID serwisanta: [30], Nazwa urządzenia: [sortownik], ID urządzenia: [39], Ilość: [1]
-2017-04-22 13:21:09 - [INFO] --> Logowanie użytkownika: [mjanek]

@@ -1,7 +1,0 @@
-2017-04-15 6:03:30 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-04-15 6:09:34 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-04-15 6:11:29 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/903/2017], ID dokumentu: [0], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [3]
-2017-04-15 6:11:40 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/904/2017], ID dokumentu: [0], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Panel serwisowy], ID urządzenia: [154], Ilość: [1]
-2017-04-15 6:29:22 - [INFO] --> Logowanie użytkownika: [dgasiewski]
-2017-04-15 6:29:55 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/905/2017], ID dokumentu: [0], Nazwa serisanta: [Daniel Gąsiewski], ID serwisanta: [25], Nazwa urządzenia: [Pleksi kieszeni na bilet], ID urządzenia: [144], Ilość: [1]
-2017-04-15 6:31:03 - [INFO] --> Logowanie użytkownika: [rtworkowski]

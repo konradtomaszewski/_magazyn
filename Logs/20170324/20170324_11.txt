@@ -1,2 +1,0 @@
-2017-03-24 11:01:12 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2017-03-24 11:47:27 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

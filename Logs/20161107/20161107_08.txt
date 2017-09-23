@@ -1,6 +1,0 @@
-2016-11-07 8:04:10 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/134/2016], ID dokumentu: [240], Nazwa serisanta: [Bartosz Larkowski], ID serwisanta: [5], Nazwa urządzenia: [Akumulator żelowy 12V 2,3 Ah], ID urządzenia: [58], Ilość: [4]
-2016-11-07 8:04:10 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/134/2016], ID dokumentu: [240], Nazwa serisanta: [Bartosz Larkowski], ID serwisanta: [5], Nazwa urządzenia: [MAIN (WRDE 0141)], ID urządzenia: [66], Ilość: [2]
-2016-11-07 8:05:09 - [INFO] --> Logowanie użytkownika: [blarkowski]
-2016-11-07 8:08:34 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-11-07 8:34:03 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/135/2016], ID dokumentu: [241], Nazwa serisanta: [Bartosz Larkowski], ID serwisanta: [5], Nazwa urządzenia: [Mechanizm drukujący SEIKO z obcinaczem], ID urządzenia: [67], Ilość: [2]
-2016-11-07 8:34:44 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/136/2016], ID dokumentu: [242], Nazwa serisanta: [Artur Buller], ID serwisanta: [6], Nazwa urządzenia: [Mechanizm drukujący SEIKO z obcinaczem], ID urządzenia: [67], Ilość: [1]

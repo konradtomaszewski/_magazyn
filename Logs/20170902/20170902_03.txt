@@ -1,2 +1,0 @@
-2017-09-02 3:33:08 - [ERROR] --> Nieudane logowanie użytkownika: [mmaliszewski]
-2017-09-02 3:46:08 - [ERROR] --> Nieudane logowanie użytkownika: [mmaliszewski]

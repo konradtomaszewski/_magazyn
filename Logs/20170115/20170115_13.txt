@@ -1,6 +1,0 @@
-2017-01-15 13:15:27 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-01-15 13:15:49 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/97/2017], ID dokumentu: [1370], Nazwa serisanta: [Szymon Miernik], ID serwisanta: [7], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]
-2017-01-15 13:15:49 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/97/2017], ID dokumentu: [1370], Nazwa serisanta: [Szymon Miernik], ID serwisanta: [7], Nazwa urządzenia: [Papier stacjonarny], ID urządzenia: [130], Ilość: [3]
-2017-01-15 13:29:32 - [INFO] --> Logowanie użytkownika: [tnowinski]
-2017-01-15 13:35:14 - [INFO] --> Logowanie użytkownika: [pkalinowski]
-2017-01-15 13:45:58 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]

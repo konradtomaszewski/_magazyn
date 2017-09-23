@@ -1,3 +1,0 @@
-2017-01-08 10:27:18 - [INFO] --> Logowanie użytkownika: [pkalinowski]
-2017-01-08 10:27:37 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Piotr Kalinowski], Urządzenie: [Papier Edmonson stacjonarne], Id urządzenia: [149], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [392]
-2017-01-08 10:27:37 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [13847], ID urządzenia: [149], Serwisant: [pkalinowski]

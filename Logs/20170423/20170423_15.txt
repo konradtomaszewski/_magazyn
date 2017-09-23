@@ -1,2 +1,0 @@
-2017-04-23 15:16:54 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-04-23 15:17:35 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/956/2017], ID dokumentu: [4369], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [Czytnik UX300], ID urządzenia: [161], Ilość: [1]

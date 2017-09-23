@@ -1,6 +1,0 @@
-2017-06-17 14:14:21 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-06-17 14:18:31 - [ERROR] --> Nieudane logowanie użytkownika: [znowak]
-2017-06-17 14:18:39 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-06-17 14:20:46 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Zygmunt Nowak], Urządzenie: [EM papier paragonowy], Id urządzenia: [157], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [267]
-2017-06-17 14:20:46 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [92278], ID urządzenia: [157], Serwisant: [znowak]
-2017-06-17 14:32:51 - [INFO] --> Logowanie użytkownika: [mjanek]

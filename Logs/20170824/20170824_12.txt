@@ -1,4 +1,0 @@
-2017-08-24 12:10:33 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [127029], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [583]
-2017-08-24 12:21:21 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [128934], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [7346], Nr automatu: [5452]
-2017-08-24 12:32:50 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [129820], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [7357], Nr automatu: [5453]
-2017-08-24 12:52:50 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [129345], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [5415], Nr automatu: [5318]

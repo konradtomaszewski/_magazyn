@@ -1,3 +1,0 @@
-2017-08-08 7:57:39 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
-2017-08-08 7:57:52 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [122221], przez uzytkownika: [ktomaszewski], Nr boczny pojazdu: [], Nr automatu: [473]
-2017-08-08 7:58:06 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1763/2017], ID dokumentu: [7412], Nazwa serisanta: [Mirosław Janek], ID serwisanta: [31], Nazwa urządzenia: [EM papier paragonowy], ID urządzenia: [157], Ilość: [1]

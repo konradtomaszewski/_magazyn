@@ -1,5 +1,0 @@
-2017-02-10 6:11:15 - [ERROR] --> Nieudane logowanie użytkownika: [tjasinski]
-2017-02-10 6:12:45 - [INFO] --> Logowanie użytkownika: [jczajka]
-2017-02-10 6:52:49 - [INFO] --> Logowanie użytkownika: [jczajka]
-2017-02-10 6:55:58 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/397/2017], ID dokumentu: [2245], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [walidator (NRI)], ID urządzenia: [42], Ilość: [1]
-2017-02-10 6:55:58 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/397/2017], ID dokumentu: [2245], Nazwa serisanta: [Jacek Czajka], ID serwisanta: [28], Nazwa urządzenia: [PAPIER Edmonson stacjonarne], ID urządzenia: [149], Ilość: [10]

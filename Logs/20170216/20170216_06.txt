@@ -1,4 +1,0 @@
-2017-02-16 6:05:39 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-02-16 6:29:46 - [INFO] --> Logowanie użytkownika: [jczajka]
-2017-02-16 6:53:27 - [INFO] --> Logowanie użytkownika: [tkopyra]
-2017-02-16 6:59:13 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/440/2017], ID dokumentu: [2422], Nazwa serisanta: [Tadeusz Kopyra], ID serwisanta: [32], Nazwa urządzenia: [Papier paragonowy], ID urządzenia: [128], Ilość: [1]

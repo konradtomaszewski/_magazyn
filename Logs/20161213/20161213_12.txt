@@ -1,3 +1,0 @@
-2016-12-13 12:11:43 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-12-13 12:15:53 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-12-13 12:22:34 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/371/2016], ID dokumentu: [657], Nazwa serisanta: [Cezary Skwarzyński], ID serwisanta: [10], Nazwa urządzenia: [drukarka (Thino)], ID urządzenia: [17], Ilość: [1]

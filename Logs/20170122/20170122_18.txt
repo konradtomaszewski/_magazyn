@@ -1,2 +1,0 @@
-2017-01-22 18:51:10 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-01-22 18:52:19 - [INFO] --> Logowanie użytkownika: [blarkowski]

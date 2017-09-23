@@ -1,6 +1,0 @@
-2016-12-06 10:22:55 - [INFO] --> Logowanie użytkownika: [kwiaterski]
-2016-12-06 10:22:59 - [INFO] --> Logowanie użytkownika: [vector_test]
-2016-12-06 10:27:55 - [INFO] --> Typ dokumentu: [Dostawa części (do zatwierdzenia)], Nazwa dokumentu:  [WRO/N/18/2016],  Nazwa urządzenia: [Akumulator 12V 2,3 Ah], ID urządzenia: [58], Ilość: [36]
-2016-12-06 10:27:56 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-12-06 10:28:20 - [INFO] --> Typ dokumentu: [Dostawa części (zatwierdzona)], Nazwa dokumentu:  [WRO/N/18/2016],  Nazwa urządzenia: [Akumulator 12V 2,3 Ah], ID urządzenia: [58], Ilość: [36]
-2016-12-06 10:34:57 - [INFO] --> Logowanie użytkownika: [kjasinski]

@@ -1,3 +1,0 @@
-2017-02-12 15:46:49 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-02-12 15:47:15 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/323/2017], ID dokumentu: [2305], Nazwa serisanta: [Wojciech Perko], ID serwisanta: [11], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]
-2017-02-12 15:47:27 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/324/2017], ID dokumentu: [2306], Nazwa serisanta: [Cezary Skwarzyński], ID serwisanta: [10], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]

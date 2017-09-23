@@ -1,2 +1,0 @@
-2017-06-19 6:36:09 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1333/2017], ID dokumentu: [5898], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
-2017-06-19 6:46:26 - [INFO] --> Logowanie użytkownika: [rstawieraj]

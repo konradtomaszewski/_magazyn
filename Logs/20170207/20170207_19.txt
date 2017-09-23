@@ -1,5 +1,0 @@
-2017-02-07 19:22:58 - [INFO] --> Logowanie użytkownika: [znowak]
-2017-02-07 19:23:46 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/380/2017], ID dokumentu: [2164], Nazwa serisanta: [Zygmunt Nowak], ID serwisanta: [30], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
-2017-02-07 19:43:21 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-02-07 19:43:52 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Mirosław Janek], Urządzenie: [Drukarka Edmonson duża BTVM-1], Id urządzenia: [148], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [483]
-2017-02-07 19:43:52 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [27362], ID urządzenia: [148], Serwisant: [mjanek]

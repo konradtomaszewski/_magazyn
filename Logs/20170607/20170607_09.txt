@@ -1,3 +1,0 @@
-2017-06-07 9:32:58 - [INFO] --> Logowanie użytkownika: [rtworkowski]
-2017-06-07 9:37:42 - [INFO] --> Logowanie użytkownika: [mzerebecki]
-2017-06-07 9:43:07 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1246/2017], ID dokumentu: [5567], Nazwa serisanta: [Rafał Tworkowski], ID serwisanta: [26], Nazwa urządzenia: [EM wlot monet ES003A], ID urządzenia: [171], Ilość: [2]

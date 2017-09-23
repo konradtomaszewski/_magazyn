@@ -1,4 +1,0 @@
-2016-11-26 12:46:07 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-2]
-2016-11-26 12:48:31 - [INFO] --> Logowanie użytkownika: [michał]
-2016-11-26 12:49:56 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Michał Przybylski - Serwisant], Urządzenie: [Papier stacjonarny], Id urządzenia: [130], Ilość: [-2]
-2016-11-26 12:50:14 - [INFO] --> Podjęte działanie serwisowe: [Zwrot do magazynu], Serwisant: [Michał Przybylski - Serwisant], Urządzenie: [Papier paragonowy], Id urządzenia: [128], Ilość: [-1]

@@ -1,6 +1,0 @@
-2016-11-12 22:13:55 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-11-12 22:18:08 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/164/2016], ID dokumentu: [296], Nazwa serisanta: [Artur Buller], ID serwisanta: [6], Nazwa urządzenia: [BNA], ID urządzenia: [7], Ilość: [1]
-2016-11-12 22:18:23 - [INFO] --> Logowanie użytkownika: [abuller]
-2016-11-12 22:18:34 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Artur Buller], Urządzenie: [BNA], Id urządzenia: [7], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [559]
-2016-11-12 22:18:45 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-11-12 22:19:16 - [ERROR] --> Nieudane logowanie użytkownika: [abuller]

@@ -1,5 +1,0 @@
-2017-04-07 22:07:24 - [INFO] --> Logowanie użytkownika: [rstawieraj]
-2017-04-07 22:19:59 - [INFO] --> Logowanie użytkownika: [mjanek]
-2017-04-07 22:29:40 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2017-04-07 22:29:59 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/780/2017], ID dokumentu: [3985], Nazwa serisanta: [Cezary Skwarzyński], ID serwisanta: [10], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]
-2017-04-07 22:30:22 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/781/2017], ID dokumentu: [3986], Nazwa serisanta: [Mateusz Żerebecki], ID serwisanta: [44], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [24]

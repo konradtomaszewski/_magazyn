@@ -1,3 +1,0 @@
-2017-04-04 9:30:36 - [INFO] --> Logowanie użytkownika: [rstawieraj]
-2017-04-04 9:57:46 - [ERROR] --> Nieudane logowanie użytkownika: [tkarabiniewicz_s]
-2017-04-04 9:59:02 - [INFO] --> Logowanie użytkownika: [tkarabiniewicz]

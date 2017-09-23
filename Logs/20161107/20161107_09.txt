@@ -1,4 +1,0 @@
-2016-11-07 9:13:16 - [INFO] --> Logowanie użytkownika: [kjasinski]
-2016-11-07 9:13:54 - [INFO] --> Logowanie użytkownika: [blarkowski]
-2016-11-07 9:23:23 - [ERROR] --> Nieudane logowanie użytkownika: [klasinski]
-2016-11-07 9:23:30 - [INFO] --> Logowanie użytkownika: [kjasinski]

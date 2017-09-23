@@ -1,5 +1,0 @@
-2016-12-16 12:09:09 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/397/2016], ID dokumentu: [710], Nazwa serisanta: [Tomasz Karabiniewicz], ID serwisanta: [14], Nazwa urządzenia: [Nagrzewnica], ID urządzenia: [28], Ilość: [1]
-2016-12-16 12:11:01 - [INFO] --> Logowanie użytkownika: [tkarabiniewicz]
-2016-12-16 12:11:23 - [INFO] --> Podjęte działanie serwisowe: [Montaż w automacie], Serwisant: [Tomasz Karabiniewicz], Urządzenie: [Nagrzewnica], Id urządzenia: [28], Ilość: [-1], Nr boczny pojazdu: [], Nr automatu: [565]
-2016-12-16 12:11:23 - [INFO] --> Pobrano nowe urządzenie z automatu, ID service_request: [8824], ID urządzenia: [28], Serwisant: [tkarabiniewicz]
-2016-12-16 12:19:07 - [INFO] --> Zmiana danych pojazdu w zgłoszeniu serwisowym nr: [8824], przez uzytkownika: [kjasinski], Nr boczny pojazdu: [], Nr automatu: [565]

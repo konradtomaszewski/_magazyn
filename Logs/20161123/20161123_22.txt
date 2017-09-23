@@ -1,3 +1,0 @@
-2016-11-23 22:13:05 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/220/2016], ID dokumentu: [399], Nazwa serisanta: [Filip Marzec], ID serwisanta: [20], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [8]
-2016-11-23 22:15:15 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/221/2016], ID dokumentu: [400], Nazwa serisanta: [Bartosz Larkowski], ID serwisanta: [5], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [10]
-2016-11-23 22:15:47 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WRO/WYD/222/2016], ID dokumentu: [401], Nazwa serisanta: [Krzysztof Jasiński - Serwisant], ID serwisanta: [22], Nazwa urządzenia: [Papier mobilny], ID urządzenia: [129], Ilość: [10]

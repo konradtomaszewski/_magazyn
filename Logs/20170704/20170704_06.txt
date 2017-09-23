@@ -1,6 +1,0 @@
-2017-07-04 6:05:40 - [INFO] --> Logowanie użytkownika: [serwisant_c]
-2017-07-04 6:07:11 - [INFO] --> Logowanie użytkownika: [dnowakowski_s]
-2017-07-04 6:16:52 - [INFO] --> Logowanie użytkownika: [wdzienis]
-2017-07-04 6:46:55 - [INFO] --> Logowanie użytkownika: [tnowinski]
-2017-07-04 6:47:33 - [INFO] --> Typ dokumentu: [transfer wydany], Nazwa dokumentu: [WAR/WYD/1503/2017], ID dokumentu: [6418], Nazwa serisanta: [Tomasz Nowiński], ID serwisanta: [27], Nazwa urządzenia: [Drukarka Edmonson duża BTVM-1], ID urządzenia: [148], Ilość: [1]
-2017-07-04 6:57:25 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

@@ -1,1 +1,0 @@
-2017-01-03 19:21:20 - [ERROR] --> Nieudane logowanie użytkownika: [jczajka]
