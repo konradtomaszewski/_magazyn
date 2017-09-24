@@ -2073,6 +2073,29 @@ class forward_devices extends db_conf
 				throw new Exception($e->getMessage());
 			}
 		}
+	
+	public function forward_devices_TRANSACTION($arrival_id, $arrival_type_id, $product_id, $quantity, $quantity2, $sn, $service_status, $bus_number, $automat_number, $storage_id, $product_name, $service_user_name, $release_user_name, $release_user_id, $document_name)
+		{
+			try
+			{
+				$this->datab->beginTransaction();
+				
+				//czyszczenie stocka serwisanta od którego przekazywane są urządzenia
+				forward_devices::devices_out_serviceman($arrival_id, $product_id, $quantity, $sn, $service_status, $bus_number, $automat_number, $storage_id,$product_name, $service_user_name);
+				
+				//dodanie rekordów do wygenerowania raportu (nie wchodzi w stan)
+				forward_devices::release_delivery($arrival_type_id, $product_name, $sn, $quantity2, $product_id, $document_name, $storage_id, $arrival_id);
+	
+				//dodanie stocka do przypisanego serwisanta
+				forward_devices::devices_fwd_on_serviceman($arrival_id, $product_id, $sn, $quantity2, $storage_id, $release_user_id, $document_name, $product_name, $release_user_name);
+								
+				$this->datab->commit();
+			}
+			catch(PDOException $e){
+				throw new Exception($e->getMessage());
+				$this->datab->rollBack();
+			}
+		}
 }
 class user extends db_conf
 {

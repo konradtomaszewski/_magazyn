@@ -25,15 +25,19 @@ for($i=0; $i!=count($_POST['product_name']); $i++)
 	$quantity = 0-$_POST['quantity'][$i]; //wartoœæ ujemna do wyzerowania stanu
 	$quantity2 = $_POST['quantity'][$i]; //wartoœæ dodania do przekazania stocku
 	
+	/*
 	//czyszczenie stocka serwisanta od którego przekazywane s¹ urz¹dzenia
 	$forward_devices->devices_out_serviceman($arrival_id, $product_id, $quantity, $sn, $service_status, $bus_number, $automat_number, $storage_id, $product_name, $service_user_name);
 	
 	//dodanie rekordów do wygenerowania raportu (nie wchodzi w stan)
 	$forward_devices->release_delivery($arrival_type_id, $product_name, $sn, $quantity2, $product_id, $document_name, $storage_id, $arrival_id);
 	
-	
 	//dodanie stocka do przypisanego serwisanta
 	$forward_devices->devices_fwd_on_serviceman($arrival_id, $product_id, $sn, $quantity2, $storage_id, $release_user_id, $document_name, $product_name, $release_user_name);
+	*/
+	
+	/**TRANSACTION**/
+	$forward_devices->forward_devices_TRANSACTION($arrival_id, $arrival_type_id, $product_id, $quantity, $quantity2, $sn, $service_status, $bus_number, $automat_number, $storage_id, $product_name, $service_user_name, $release_user_name, $release_user_id, $document_name);
 }	
 $forward_devices->update_arrival_forward_serviceman($arrival_id, $release_user_id);
 
