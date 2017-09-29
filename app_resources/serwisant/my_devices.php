@@ -115,8 +115,9 @@ require('config/db.class.php');
 			?>
 		<span>
 			<input type="button" id="btn_return_service" value="Przekaż urządzenia do zwrotu" style="margin-bottom:30px">
+			<input type="button" id="btn_fwd_serviceman" value="Przekaż urządzenia serwisantowi" style="margin-bottom:30px">
 			<?php
-			if($_SESSION['mennica_magazyn_storage_id'] == '1') echo	'<input type="button" id="btn_fwd_serviceman" value="Przekaż urządzenia serwisantowi" style="margin-bottom:30px">';
+			//if($_SESSION['mennica_magazyn_storage_id'] == '1') echo	'<input type="button" id="btn_fwd_serviceman" value="Przekaż urządzenia serwisantowi" style="margin-bottom:30px">';
 			?>
 
 		</span>
