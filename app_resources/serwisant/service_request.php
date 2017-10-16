@@ -1,5 +1,19 @@
 <script>
 $(document).ready(function(){
+	function isInArray(value, array) {
+	  return array.indexOf(value) > -1;
+	}
+	
+	var deny_user_id = [55,56,57,58,59];
+	var user_id = <?php echo $_SESSION['mennica_magazyn_user_id'];?>;
+
+	if(!isInArray(user_id, deny_user_id))
+	{
+		$('#allow').css("display", "block");	
+	}
+	else $('#deny').css("display", "block");
+	
+	
 	$('#productSelect_form').load("app_resources/"+$.cookie('module')+"/lib/productSelect_form.php",function(){
 		$('#productSelect').change(function(){
 			var service_request = $( this ).val();
@@ -23,11 +37,7 @@ $(document).ready(function(){
 						$.notify('Błąd', 'error');
 					}
 			});
-			
-			
 		});
-		
-		
 	});
 });
 </script>
@@ -41,19 +51,36 @@ input, select{
 h4{
 	text-align:left !important;
 }
+#deny, #allow{
+	display:none;
+}
 </style>
 <div id="main">
-		<article class="post">
-			<header>
-				<div class="title"><h3>LIsta pobranych urządzeń</h3></div>
-				
-			</header>
-			<section>
+		<div id="deny">
+			<article class="post">
+				<header>
+					<div class="title"><h3>Brak uprawnień</h3></div>
+				</header>
+				<section>
+					Brak uprawnień do wykonania działań.
+					<span></span>
+				</section>
+			</article>	
+		</div>
+		<div id="allow">
+			<article class="post">
+				<header>
+					<div class="title"><h3>LIsta pobranych urządzeń</h3></div>
+					
+				</header>
+				<section>
+			
+				<div id="productSelect_form"></div>
+				<div id="productDetail_form"></div>
+									
+				<span></span>
+				</section>
+			</article>
+		</div>	
 		
-			<div id="productSelect_form"></div>
-			<div id="productDetail_form"></div>
-								
-			<span></span>
-		</section>
-		</article>
 </div>
