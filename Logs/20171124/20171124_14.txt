@@ -1,0 +1,1 @@
+2017-11-24 14:34:38 - [INFO] --> Logowanie użytkownika: [serwisant1]
