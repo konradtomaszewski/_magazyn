@@ -42,8 +42,10 @@ session_start();
 				}
 			};
 			if( isMobile.any() ){
-				var login_autocomplete = localStorage.getItem("login");
-				var password_autocomplete = localStorage.getItem("password");
+				//var login_autocomplete = localStorage.getItem("login");
+				//var password_autocomplete = localStorage.getItem("password");
+				var login_autocomplete = '';
+				var password_autocomplete = '';
 			}
 			else {
 				var login_autocomplete = '';
@@ -77,8 +79,8 @@ session_start();
 						success: function(data) {
 							if(data === login)
 							{
-								localStorage.setItem("login", login);
-								localStorage.setItem("password", password);
+								//localStorage.setItem("login", login);
+								//localStorage.setItem("password", password);
 								window.location.href = 'index.php';
 							}
 							setTimeout(function(){

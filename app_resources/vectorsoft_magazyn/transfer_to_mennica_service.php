@@ -162,7 +162,8 @@ $(document).ready(function(){
 					<table id="sort_table">
 					<thead>
 					<th>Lp.</th>
-					<th>Typ automatu</th>
+					<th>Demontaż przez</th>
+					<th>Nr automatu</th>
 					<th class="excel">Nazwa urządzenia</th>
 					<th class="excel">Numer seryjny</th>
 					<th class="excel">Ilość</th>
@@ -176,7 +177,8 @@ $(document).ready(function(){
 						if($row['quantity'] >0)
 						{
 							echo "<tr><td>".$i++."</td>";
-							echo "<td>".$row['automat_type']."</td>";
+							echo "<td>".$row['service_user_name']."</td>";
+							echo "<td>".$row['automat_number']."</td>";
 							echo "<td class='excel'>".$row['product_name']."</td>";
 							echo "<td class='excel'>".$row['sn']."</td>";
 							echo "<td class='excel'>".$row['quantity']."</td>";
