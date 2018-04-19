@@ -1,7 +1,7 @@
 <script>
 function repair_damaged_devices(damaged_devices_id, service_request_id){
 	var r = confirm("Potwierdź podjęcie naprawy");
-	var txt;
+
 	if (r == true) {
 		var http = new XMLHttpRequest();
 		var url = "app_resources/serwisant/get_repair.php";
@@ -30,8 +30,8 @@ input,select{
 	width:60px !important
 }
 #repair{
-	height:50px;
-
+	height:45px;
+	border:1px solid #ccc;
 }
 </style>
 <?php
@@ -60,20 +60,17 @@ if($serviceman->devices_for_repair($_SESSION['mennica_magazyn_storage_id']))
 		$x++;
 		echo "<input type='hidden' name='damaged_devices_id_".$x."' value='".$row['damaged_devices_id']."'/>";
 		echo "<input type='hidden' name='service_request_id_".$x."' value='".$row['service_request_id']."'/>";
-		echo "<input type='hidden' name='product_id[]' value='".$row['product_id']."'/>";
-		echo "<input type='hidden' name='storage_id' value='".$row['storage_id']."'/>";
-		echo "<input type='hidden' name='service_user_id[]' value='".$row['service_user_id']."'/>";
 
 		echo "<tr>";
 		echo "<td>".$x."</td>";
 		echo "<td>".$row['service_user_name']."</td>";
 		echo "<td>".$row['product_name']."</td>";
-		echo "<td><input type='text' name='sn[]' value='".$row['sn']."' placeholder='Jeżeli wymagany'/></td>";
+		echo "<td>".$row['sn']."</td>";
 		echo "<td>".$row['quantity']."</td>";
-		echo "<td><input type='text' name='bus_number[]' class='side_bus_number' value='".$row['bus_number']."' /></td>";
-		echo "<td><input type='text' name='automat_number[]' class='side_bus_number' value='".$row['automat_number']."' /></td>";
-		echo "<td><input type='text' name='datetime[]' id='datetime' value='".$row['datetime']."'></td>";
-		echo " <td><input type='button' value='Pobierz' onclick=\"repair_damaged_devices( $('input[name=damaged_devices_id_".$x."]').val(),$('input[name=service_request_id_".$x."]').val() )\" /></td>";
+		echo "<td>".$row['bus_number']."</td>";
+		echo "<td>".$row['automat_number']."</td>";
+		echo "<td>".$row['datetime']."</td>";
+		echo "<td><input type='button' value='Napraw' id='repair' onclick=\"repair_damaged_devices( $('input[name=damaged_devices_id_".$x."]').val(),$('input[name=service_request_id_".$x."]').val() )\" /></td>";
 		echo "</tr>";
 	}
 	echo "</tbody>";
