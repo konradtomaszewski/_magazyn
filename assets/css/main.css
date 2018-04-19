@@ -4,13 +4,13 @@
 
 
 /* disable selection mouse*/
-body
+/*body
 {
   -moz-user-select: none;
   -khtml-user-select: none;
   -webkit-user-select: none;
   user-select: none;
-}
+}*/
 
 input[type="button"]{
 	background:#fff;

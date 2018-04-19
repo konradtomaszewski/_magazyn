@@ -1,0 +1,1 @@
+2018-04-18 14:30:02 - [INFO] --> Logowanie użytkownika: [serwisant1]

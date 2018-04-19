@@ -530,6 +530,7 @@ class mennica_magazyn extends db_conf
 			}
 		}
 		
+		
 		public function waiting_for_accept_devices_service($storage_id)
 		{
 			try
@@ -874,7 +875,15 @@ class vectorsoft_magazyn extends db_conf
 		{
 			try
 			{
-				$query = "UPDATE damaged_devices SET damaged_devices_status_id='5' WHERE product_id='149' OR product_id='128' OR product_id='157' and storage_id='$storage_id'";
+				$query = "UPDATE damaged_devices SET damaged_devices_status_id='5' 
+						WHERE 
+						product_id='149' OR 
+						product_id='128' OR 
+						product_id='157' OR
+						product_id='235' OR
+						product_id='240' OR
+						product_id='241' AND 
+						storage_id='$storage_id'";
 				$stmt = $this->datab->prepare($query); 
 				$stmt->execute();
 			}
@@ -1534,6 +1543,39 @@ class vectorsoft_magazyn extends db_conf
 			}
 		}
 		
+		public function getRepairDevices($storage_id)
+		{
+			try
+			{
+				$query = "SELECT 
+						damaged_devices.id as 'damaged_devices_id',
+						damaged_devices.service_request_id as 'service_request_id',
+						products.name as 'product_name',
+						damaged_devices.quantity as 'quantity',
+						damaged_devices.change_status_datetime as 'datetime',
+						damaged_devices.product_id as 'product_id',
+						damaged_devices.sn as 'sn',
+						damaged_devices.storage_id as 'storage_id',
+						damaged_devices.service_user_id as 'service_user_id',
+						users.user_name as 'service_user_name',
+						service_request.bus_number as 'bus_number',
+						service_request.automat_number as 'automat_number'
+						FROM damaged_devices
+						LEFT JOIN products ON products.id=damaged_devices.product_id
+						left JOIN service_request ON service_request.id=damaged_devices.service_request_id
+						LEFT JOIN users ON users.id=damaged_devices.service_user_id
+						WHERE damaged_devices.storage_id='$storage_id' AND damaged_devices.damaged_devices_status_id='6'
+						ORDER BY users.user_name,products.name,damaged_devices.change_status_datetime ASC";
+				$stmt = $this->datab->prepare($query); 
+				$stmt->execute();
+				$damagedDevices =$stmt->fetchAll(PDO::FETCH_ASSOC);
+				return $damagedDevices;
+			}
+			catch(PDOException $e){
+				throw new Exception($e->getMessage());
+			}
+		}
+		
 		public function getDamagedDevicesWorks($storage_id)
 		{
 			try
@@ -1996,6 +2038,66 @@ class serviceman extends db_conf
 				$stmt->execute();
 				$hist =$stmt->fetchAll(PDO::FETCH_ASSOC);
 				return $hist;
+			}
+			catch(PDOException $e){
+				throw new Exception($e->getMessage());
+			}
+		}
+		
+		public function devices_for_repair($storage_id)
+		{
+			try
+			{
+				$query = "SELECT 
+						damaged_devices.id as 'damaged_devices_id',
+						damaged_devices.service_request_id as 'service_request_id',
+						products.name as 'product_name',
+						damaged_devices.quantity as 'quantity',
+						damaged_devices.change_status_datetime as 'datetime',
+						damaged_devices.product_id as 'product_id',
+						damaged_devices.sn as 'sn',
+						damaged_devices.storage_id as 'storage_id',
+						damaged_devices.service_user_id as 'service_user_id',
+						users.user_name as 'service_user_name',
+						service_request.bus_number as 'bus_number',
+						service_request.automat_number as 'automat_number'
+						FROM damaged_devices
+						LEFT JOIN products ON products.id=damaged_devices.product_id
+						left JOIN service_request ON service_request.id=damaged_devices.service_request_id
+						LEFT JOIN users ON users.id=damaged_devices.service_user_id
+						WHERE damaged_devices.storage_id='$storage_id' AND damaged_devices.damaged_devices_status_id='0'
+						AND damaged_devices.product_id IN (SELECT product_id FROM repair_devices_id)
+						ORDER BY users.user_name,products.name,damaged_devices.change_status_datetime ASC";
+				$stmt = $this->datab->prepare($query); 
+				$stmt->execute();
+				$damagedDevices =$stmt->fetchAll(PDO::FETCH_ASSOC);
+				return $damagedDevices;
+			}
+			catch(PDOException $e){
+				throw new Exception($e->getMessage());
+			}
+		}
+		
+		public function set_damaged_devices_for_repair($damaged_devices_id)
+		{
+			try
+			{
+				$query = "UPDATE damaged_devices SET damaged_devices_status_id='6' WHERE id='$damaged_devices_id'";
+				$stmt = $this->datab->prepare($query); 
+				$stmt->execute();
+			}
+			catch(PDOException $e){
+				throw new Exception($e->getMessage());
+			}
+		}
+		
+		public function set_repair_devices($damaged_devices_id, $service_request_id)
+		{
+			try
+			{
+				$query = "INSERT INTO repair_devices SET start_repair_datetime=NOW(), damaged_devices_id='$damaged_devices_id', service_request_id='$service_request_id', repair_user_id='$this->user_id'";
+				$stmt = $this->datab->prepare($query); 
+				$stmt->execute();
 			}
 			catch(PDOException $e){
 				throw new Exception($e->getMessage());

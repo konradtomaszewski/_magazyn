@@ -1,0 +1,3 @@
+2018-04-18 13:05:17 - [ERROR] --> Nieudane logowanie użytkownika: [dostawy]
+2018-04-18 13:05:22 - [INFO] --> Logowanie użytkownika: [dostawy]
+2018-04-18 13:19:27 - [INFO] --> Logowanie użytkownika: [serwisant1]
