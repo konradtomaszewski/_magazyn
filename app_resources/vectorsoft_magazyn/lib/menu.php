@@ -60,6 +60,7 @@ li{
 			<h3><span><a href="#">Pobrane urządzenia z automatów</a></span></h3>
 			<ul class="submenu">
 				<li><a onClick="window.location='index.php?action=damaged_devices'">Urządzenia pobrane z automatów</a></li>
+				<li><a onClick="window.location='index.php?action=repair_devices'">Urządzenia w naprawie</a></li>
 				<li><a onClick="window.location='index.php?action=transfer_to_storage'">Przekaż na magazyn</a></li>
 				<li><a onClick="window.location='index.php?action=transfer_to_mennica_service'">Przekaż do serwisu</a></li>
 				<li><a onClick="window.location='index.php?action=transfer_to_reprocessing'">Przekaż do utylizacji</a></li>

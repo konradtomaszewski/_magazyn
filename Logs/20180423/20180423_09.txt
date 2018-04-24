@@ -1,0 +1,1 @@
+2018-04-23 9:03:00 - [INFO] --> Logowanie użytkownika: [ktomaszewski]

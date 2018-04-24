@@ -50,6 +50,13 @@ li{
 				<li><a onClick="window.location='index.php?action=history'">Historia działań</a></li>
 			</ul>
 		</li>	
+		<li class="menu">
+			<h3><span><a href="#">Naprawy</a></span></h3>
+			<ul class="submenu">
+				<li><a onClick="window.location='index.php?action=devices_for_repair'">Urządzenia do naprawy</a></li>
+				<li><a onClick="window.location='index.php?action=my_devices_for_repair'">Moje naprawy</a></li>
+			</ul>
+		</li>	
 	</ul>
 
 	<section style="background-color:#f4f4f4;">
