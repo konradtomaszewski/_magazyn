@@ -18,10 +18,6 @@ if($vectorsoft_magazyn->getRepairDevices($_SESSION['mennica_magazyn_storage_id']
 	echo "<h3>Lista urządzeń w naprawie</h3><br />";
 	echo "<table id='sortTable'>";
 	echo "<thead>";
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> bf9c0e0189cbbdee2417265335045476aa718839
 	echo "<th>Interwencja</th>";
 	echo "<th>Nazwa urządzenia</th>";
 	echo "<th>Numer seryjny</th>";
@@ -32,20 +28,6 @@ if($vectorsoft_magazyn->getRepairDevices($_SESSION['mennica_magazyn_storage_id']
 	echo "<th>Data zakończenia naprawy</th>";
 	echo "<th>Realny czas naprawy</th>";
 	echo "<th>Status</th>";
-<<<<<<< HEAD
-=======
-=======
-	echo "<th>Serwisant interweniujący</th>";
-	echo "<th>Nazwa urządzenia</th>";
-	echo "<th>Numer seryjny</th>";
-	echo "<th>Nr automatu</th>";
-	echo "<th>Data interwencji</th>";
-	echo "<th>Serwisant naprawiający</th>";
-	echo "<th>Data rozpoczęcia naprawy</th>";
-	echo "<th>Data zakończenia naprawy</th>";
-	echo "<th>Czas naprawy</th>";
->>>>>>> 10c036a2f1e1ba932a4961786d6382491b52d5f7
->>>>>>> bf9c0e0189cbbdee2417265335045476aa718839
 	echo "</thead>";
 	echo "<tbody>";
 
@@ -58,24 +40,11 @@ if($vectorsoft_magazyn->getRepairDevices($_SESSION['mennica_magazyn_storage_id']
 		echo "<td>".$row['sn']."</td>";
 		echo "<td>".$row['automat_number']."</td>";
 		echo "<td>".$row['datetime']."</td>";
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> bf9c0e0189cbbdee2417265335045476aa718839
 		echo "<td>".$row['repair_user_name']."</td>";
 		echo "<td>".$row['start_repair_datetime']."</td>";
 		echo "<td>".$row['end_repair_datetime']."</td>";
 		echo "<td>".$row['real_time_repair']."</td>";
 		echo "<td>".$row['repair_status_description']."</td>";
-<<<<<<< HEAD
-=======
-=======
-		echo "<td>x</td>";
-		echo "<td>x</td>";
-		echo "<td>x</td>";
-		echo "<td>x</td>";
->>>>>>> 10c036a2f1e1ba932a4961786d6382491b52d5f7
->>>>>>> bf9c0e0189cbbdee2417265335045476aa718839
 		echo "</tr>";
 	}
 	echo "</tbody>";

@@ -1,1 +1,2 @@
 2018-04-24 16:43:16 - [INFO] --> Logowanie użytkownika: [serwisant1]
+2018-04-24 16:54:57 - [INFO] --> Logowanie użytkownika: [ktomaszewski]
