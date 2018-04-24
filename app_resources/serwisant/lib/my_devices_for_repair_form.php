@@ -42,8 +42,17 @@ if($serviceman->my_devices_for_repair($_SESSION['mennica_magazyn_storage_id']))
 		echo "<td>".$row['bus_number']."</td>";
 		echo "<td>".$row['automat_number']."</td>";
 		echo "<td>".$row['datetime']."</td>";
+<<<<<<< HEAD
 		echo "<td><form action='index.php?action=open_repair' method='POST'><input type='hidden' name='repair_id' value='".$row['id']."'/><input type='submit' value='Otwórz' />
 				</form></td>";
+=======
+		echo "<td><form action='index.php?action=open_repair' method='POST'>
+					<input type='hidden' name='repair_id' value='".$row['id']."' />
+					<input type='hidden' name='damaged_devices_id' value='".$row['damaged_devices_id']."' />
+					<input type='hidden' name='service_request_id' value='".$row['service_request_id']."' />
+					<input type='submit' value='Otwórz' />
+			</form></td>";
+>>>>>>> bf9c0e0189cbbdee2417265335045476aa718839
 		echo "</tr>";
 	}
 	echo "</tbody>";

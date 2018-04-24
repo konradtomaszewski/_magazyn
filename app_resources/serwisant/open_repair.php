@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <script>
 $(document).ready(function(){
 	$('#custom_repair_devices').load("app_resources/"+$.cookie('module')+"/lib/custom_repair_devices_form.php?repair_id=<?php echo $_POST['repair_id'];?>");
@@ -14,3 +15,8 @@ $(document).ready(function(){
 	</article>
 
 </div>
+=======
+<?php
+	print_r($_POST);
+?>
+>>>>>>> bf9c0e0189cbbdee2417265335045476aa718839

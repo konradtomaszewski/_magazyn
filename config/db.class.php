@@ -1557,6 +1557,10 @@ class vectorsoft_magazyn extends db_conf
 						damaged_devices.sn as 'sn',
 						damaged_devices.storage_id as 'storage_id',
 						damaged_devices.service_user_id as 'service_user_id',
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> bf9c0e0189cbbdee2417265335045476aa718839
 						u1.user_name as 'service_user_name',
 						u2.user_name as 'repair_user_name',
 						service_request.bus_number as 'bus_number',
@@ -1575,6 +1579,20 @@ class vectorsoft_magazyn extends db_conf
 						LEFT JOIN repair_status ON repair_status.id=repair_devices.repair_status_id
 						WHERE damaged_devices.storage_id='$storage_id' AND damaged_devices.damaged_devices_status_id='6'
 						ORDER BY u1.user_name,products.name,damaged_devices.change_status_datetime ASC";
+<<<<<<< HEAD
+=======
+=======
+						users.user_name as 'service_user_name',
+						service_request.bus_number as 'bus_number',
+						service_request.automat_number as 'automat_number'
+						FROM damaged_devices
+						LEFT JOIN products ON products.id=damaged_devices.product_id
+						left JOIN service_request ON service_request.id=damaged_devices.service_request_id
+						LEFT JOIN users ON users.id=damaged_devices.service_user_id
+						WHERE damaged_devices.storage_id='$storage_id' AND damaged_devices.damaged_devices_status_id='6'
+						ORDER BY users.user_name,products.name,damaged_devices.change_status_datetime ASC";
+>>>>>>> 10c036a2f1e1ba932a4961786d6382491b52d5f7
+>>>>>>> bf9c0e0189cbbdee2417265335045476aa718839
 				$stmt = $this->datab->prepare($query); 
 				$stmt->execute();
 				$damagedDevices =$stmt->fetchAll(PDO::FETCH_ASSOC);
@@ -2087,6 +2105,10 @@ class serviceman extends db_conf
 			}
 		}
 		
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> bf9c0e0189cbbdee2417265335045476aa718839
 		public function my_devices_for_repair($storage_id)
 		{
 			try
@@ -2117,6 +2139,7 @@ class serviceman extends db_conf
 			}
 		}
 		
+<<<<<<< HEAD
 		public function custom_repair($repair_id)
 		{
 			try
@@ -2147,6 +2170,10 @@ class serviceman extends db_conf
 			}
 		}
 		
+=======
+=======
+>>>>>>> 10c036a2f1e1ba932a4961786d6382491b52d5f7
+>>>>>>> bf9c0e0189cbbdee2417265335045476aa718839
 		public function set_damaged_devices_for_repair($damaged_devices_id)
 		{
 			try
