@@ -54,14 +54,7 @@ li{
 			<h3><span><a href="#">Naprawy</a></span></h3>
 			<ul class="submenu">
 				<li><a onClick="window.location='index.php?action=devices_for_repair'">Urządzenia do naprawy</a></li>
-<<<<<<< HEAD
 				<li><a onClick="window.location='index.php?action=my_devices_for_repair'">Moje naprawy</a></li>
-=======
-<<<<<<< HEAD
-				<li><a onClick="window.location='index.php?action=my_devices_for_repair'">Moje naprawy</a></li>
-=======
->>>>>>> 10c036a2f1e1ba932a4961786d6382491b52d5f7
->>>>>>> bf9c0e0189cbbdee2417265335045476aa718839
 			</ul>
 		</li>	
 	</ul>

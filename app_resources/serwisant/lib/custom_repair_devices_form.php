@@ -43,7 +43,7 @@ foreach($serviceman->custom_repair($repair_id) as $row)
 	echo "<tr><td><label>Interwencja wykonana przez</label></td><td><input type='text' disabled value='".$row['service_user_name']."'/></td></tr>";
 	echo "<tr><td><label>Nr automatu</label></td><td><input type='text' disabled value='".$row['automat_number']."'/></td></tr>";
 	echo "<tr><td><label>Nr seryjny</label></td><td><input type='text' disabled value='".$row['sn']."'/></td></tr>";
-	echo "<tr><td><label>Rzeczywisty czas naprawy</label></td><td><form><input type='range' name='amountRange' min='0' max='180' value='0' oninput='this.form.amountInput.value=this.value' />&nbsp;&nbsp;&nbsp;<input type='number' disabled  name='amountInput' min='0' max='180' value='0' oninput='this.form.amountRange.value=this.value' />&nbsp;&nbsp;minut</form></td></tr>";
+	echo "<tr><td><label>Rzeczywisty czas naprawy</label></td><td><form><input type='range' name='amountRange' min='0' max='180' value='0' oninput='this.form.amountInput.value=this.value' />&nbsp;&nbsp;&nbsp;<input type='number' disabled  name='amountInput' min='0' max='180' value='0' oninput='this.form.amountRange.value=this.value' style='width:50px !important'/>&nbsp;&nbsp;minut</form></td></tr>";
 	echo "<tr><td><label>Wykonane czynności</label></td><td><textarea></textarea></td></tr>";
 	echo "</table>";
 }
